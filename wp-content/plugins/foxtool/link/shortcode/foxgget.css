@@ -1,0 +1,33 @@
+:root{
+	--ggetcolor:#444;
+	--ggetborra:5px;
+}
+a.foxgget{
+	margin-bottom: 10px;
+    margin-top: 10px;
+	display: inline-block;
+    text-decoration: none !important;
+}
+a.foxgget.foxgetskin {
+    background: var(--ggetcolor);
+    padding: 10px 40px;
+    color: #fff;
+    border-radius: var(--ggetborra);
+    font-weight: bold;
+	cursor: pointer;
+	border-bottom:3px solid #222;
+	font-size:23px;
+}
+a.foxgget.foxgetskin .ggettext{
+	display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+a.foxgget.foxgetskin .ggettext svg{margin-right:10px;}
+a.foxgget.foxgetshow{
+	font-size:23px;
+	color:#333;
+}
+a.foxgget.foxgetshow.timer b{
+	color:#ff4444;
+}

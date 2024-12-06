@@ -1,0 +1,3 @@
+2024-12-06T03:36:20+00:00 INFO Webhook notification received: Event: payment_intent.succeeded
+2024-12-06T03:36:20+00:00 INFO payment_intent.succeeded event received. Intent has been completed for order 29611. Event exited.
+2024-12-06T03:36:20+00:00 INFO Webhook notification received: Event: charge.succeeded

@@ -1,0 +1,25 @@
+.lp-commission__button{
+	display: block;
+	position: relative;
+	max-width: 320px;
+	padding: 13px 24px;
+	margin-bottom: 0;
+	background: #0070ba;
+	font-size: .9375rem;
+	font-weight: 700;
+	line-height: 22px;
+	color: #fff;
+	text-align: center;
+	text-decoration: none;
+	cursor: pointer;
+	border-radius: 25px;
+	border: none;
+	box-sizing: border-box;
+}
+.lp-commission__button:focus{
+	background: #0070ba;
+}
+.withdrawal_form_wraper ul{
+	list-style: none;
+	padding: 0;
+}

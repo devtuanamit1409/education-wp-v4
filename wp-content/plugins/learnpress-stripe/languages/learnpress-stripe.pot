@@ -1,0 +1,115 @@
+# Copyright (C) 2024 ThimPress
+# This file is distributed under the same license as the LearnPress - Stripe Payment plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: LearnPress - Stripe Payment 4.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/learnpress-stripe\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-27T13:10:48+03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: learnpress-stripe\n"
+
+#. Plugin Name of the plugin
+msgid "LearnPress - Stripe Payment"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://thimpress.com/learnpress"
+msgstr ""
+
+#. Description of the plugin
+msgid "Stripe payment gateway for LearnPress."
+msgstr ""
+
+#. Author of the plugin
+msgid "ThimPress"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://thimpress.com"
+msgstr ""
+
+#: config/settings.php:11
+msgid "Enable"
+msgstr ""
+
+#: config/settings.php:18
+msgid "Title"
+msgstr ""
+
+#: config/settings.php:19
+msgid "Stripe"
+msgstr ""
+
+#: config/settings.php:34
+msgid "Redirect Payment to Stripe Page"
+msgstr ""
+
+#: config/settings.php:51
+msgid "Description"
+msgstr ""
+
+#: config/settings.php:52
+msgid "Pay with Stripe"
+msgstr ""
+
+#: config/settings.php:70
+msgid "Live secret key"
+msgstr ""
+
+#: config/settings.php:91
+msgid "Live publish key"
+msgstr ""
+
+#: config/settings.php:111
+msgid "Enable test mode"
+msgstr ""
+
+#: config/settings.php:128
+msgid "Test secret key"
+msgstr ""
+
+#: config/settings.php:149
+msgid "Test publish key"
+msgstr ""
+
+#: inc/class-lp-gateway-stripe.php:67
+msgid "Make a payment with Stripe."
+msgstr ""
+
+#: inc/class-lp-gateway-stripe.php:183
+msgid "Order not found!"
+msgstr ""
+
+#: inc/class-lp-gateway-stripe.php:193
+msgid "Redirecting to Stripe."
+msgstr ""
+
+#: inc/class-lp-gateway-stripe.php:211
+msgid "The payment is processing."
+msgstr ""
+
+#: inc/class-lp-gateway-stripe.php:244
+msgid "Order %s"
+msgstr ""
+
+#: inc/class-lp-gateway-stripe.php:295
+msgid "Cart is empty."
+msgstr ""
+
+#: inc/class-lp-gateway-stripe.php:300
+msgid "Total amount must be greater than 0."
+msgstr ""
+
+#: templates/form.php:19
+msgid "You will be redirected to Stripe to complete your payment."
+msgstr ""
+
+#: templates/form.php:30
+msgid "Test mode is enabled. You can use the card number 4242424242424242 with any CVC and a valid expiration date for testing purpose."
+msgstr ""

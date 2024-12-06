@@ -1,0 +1,201 @@
+.learnpress-course-coming-soon .counter-group {
+	margin: 30px auto;
+	display: inline-block;
+}
+
+.learnpress-course-coming-soon .counter-group:before,
+.learnpress-course-coming-soon .counter-group:after {
+	content: " ";
+	display: table;
+}
+
+.learnpress-course-coming-soon .counter-group:after {
+	clear: both;
+}
+
+.learnpress-course-coming-soon .counter-block {
+	float: left;
+	margin-right: 20px;
+}
+
+.learnpress-course-coming-soon .counter-block .counter {
+	position: relative;
+	width: 100px;
+	height: 50px;
+	overflow: hidden;
+	font-weight: 700;
+}
+
+.learnpress-course-coming-soon .counter-block .counter .number {
+	padding: 1%;
+	width: 46%;
+	height: 98%;
+	background-color: #2e91c7;
+	color: #FFF;
+	position: absolute;
+	font-size: 40px;
+	line-height: 50px;
+	top: -10000px;
+	text-align: center;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	font-family: initial;
+}
+
+.learnpress-course-coming-soon .counter-block .counter .number.tens {
+	left: 0;
+}
+
+.learnpress-course-coming-soon .counter-block .counter .number.units {
+	left: 50%;
+}
+
+.learnpress-course-coming-soon .counter-block .counter .number.hundreds {
+	display: none;
+}
+
+.learnpress-course-coming-soon .counter-block .counter .number.show {
+	top: 0;
+	z-index: 2;
+}
+
+.learnpress-course-coming-soon .counter-block .counter .number.hidden-down {
+	top: 100%;
+}
+
+.learnpress-course-coming-soon .counter-block .counter .number.hidden-up {
+	top: -100%;
+	z-index: 100;
+}
+
+.learnpress-course-coming-soon .counter-block .counter.with-hundreds {
+	width: 100%;
+}
+
+.learnpress-course-coming-soon .counter-block .counter.with-hundreds .number {
+	width: 30.66%;
+}
+
+.learnpress-course-coming-soon .counter-block .counter.with-hundreds .number.tens {
+	left: 33.33%;
+}
+
+.learnpress-course-coming-soon .counter-block .counter.with-hundreds .number.units {
+	left: 66.66%;
+}
+
+.learnpress-course-coming-soon .counter-block .counter.with-hundreds .number.hundreds {
+	display: block;
+	left: 0;
+}
+
+.learnpress-course-coming-soon .counter-block .counter-caption {
+	font-size: 100%;
+	text-align: center;
+}
+
+.learnpress-course-coming-soon .ob_discount {
+	background: none repeat scroll 0 0 #000000;
+	border-radius: 3px;
+	height: 10px;
+	width: 100%;
+	clear: both;
+	max-width: 300px;
+}
+
+.learn-press-courses .lp_course .counter-block {
+	width: 25%;
+	margin: 0;
+}
+
+.learn-press-courses .lp_course .counter-group {
+	width: 100%;
+}
+
+.learn-press-courses .learnpress-course-coming-soon .counter {
+	width: auto;
+}
+
+@media (max-width: 992px) {
+	.learnpress-course-coming-soon .counter-group {
+		margin: 10px auto;
+	}
+
+	.learnpress-course-coming-soon .counter-block {
+		margin-right: 10px;
+	}
+
+	.learnpress-course-coming-soon .counter-block .counter {
+		width: 80px;
+		height: 100px;
+		overflow: hidden;
+		font-weight: 700;
+		font-family: initial;
+	}
+
+	.learnpress-course-coming-soon .counter-block .counter.with-hundreds {
+		width: 180px;
+	}
+
+	.learnpress-course-coming-soon .counter-block .counter .number {
+		font-size: 78px;
+		line-height: 90px;
+	}
+
+	.learnpress-course-coming-soon .counter-block .counter-caption {
+		font-size: 100%;
+	}
+}
+
+@media (max-width: 768px) {
+	.learnpress-course-coming-soon .counter-group {
+		margin: 0 auto;
+	}
+
+	.learnpress-course-coming-soon .counter-block {
+		margin-right: 8px;
+	}
+
+	.learnpress-course-coming-soon .counter-block .counter {
+		width: 96px;
+		height: 80px;
+	}
+
+	.learnpress-course-coming-soon .counter-block .counter.with-hundreds {
+		width: 144px;
+	}
+
+	.learnpress-course-coming-soon .counter-block .counter .number {
+		font-size: 78px;
+		line-height: 72px;
+	}
+
+	.learnpress-course-coming-soon .counter-block .counter.with-hundreds {
+		width: 144px;
+	}
+
+	.learnpress-course-coming-soon .counter-block .counter-caption {
+		font-size: 85%;
+	}
+}
+
+@media (max-width: 480px) {
+	.learnpress-course-coming-soon .counter-block .counter {
+		width: 61px;
+		height: 52px;
+	}
+
+	.learnpress-course-coming-soon .counter-block .counter .number {
+		font-size: 55px;
+		line-height: 50px;
+	}
+
+	.learnpress-course-coming-soon .counter-block .counter.with-hundreds {
+		width: 91px;
+	}
+
+	.learnpress-course-coming-soon .counter-block .counter-caption {
+		font-size: 70%;
+	}
+}

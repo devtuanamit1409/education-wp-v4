@@ -1,0 +1,731 @@
+# Copyright (C) 2024 ThimPress
+# This file is distributed under the same license as the LearnPress - Live Course Add-on plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: LearnPress - Live Course Add-on 4.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/learnpress-live\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-06T09:34:42+03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: learnpress-live\n"
+
+#: build/learnpress-live.js:25
+#: build/learnpress-live.js:18
+#: build/learnpress-live.js:10
+#: incs/class-lp-live-hooks.php:47
+#: releases/learnpress-live/incs/class-lp-live-hooks.php:47
+msgid "Google Meet"
+msgstr ""
+
+#: build/learnpress-live.js:123
+msgid "Update Google Meet"
+msgstr ""
+
+#: build/learnpress-live.js:124
+msgid "Create Google Meet"
+msgstr ""
+
+#: build/learnpress-live.js:140
+#: build/learnpress-live.js:236
+#: build/learnpress-live.js:453
+#: build/learnpress-live.js:392
+#: build/learnpress-live.js:229
+#: build/learnpress-live.js:229
+msgid "Title"
+msgstr ""
+
+#: build/learnpress-live.js:161
+#: build/learnpress-live.js:471
+#: build/learnpress-live.js:410
+#: releases/learnpress-live/templates/shortcode/single-google.php:20
+#: templates/shortcode/single-google.php:20
+msgid "Description"
+msgstr ""
+
+#: build/learnpress-live.js:186
+#: build/learnpress-live.js:927
+#: build/learnpress-live.js:870
+#: build/learnpress-live.js:249
+#: build/learnpress-live.js:249
+#: releases/learnpress-live/templates/shortcode/single-google.php:27
+#: releases/learnpress-live/templates/shortcode/single-zoom.php:41
+#: templates/shortcode/single-google.php:27
+#: templates/shortcode/single-zoom.php:41
+msgid "Duration"
+msgstr ""
+
+#: build/learnpress-live.js:205
+#: build/learnpress-live.js:941
+#: build/learnpress-live.js:891
+msgid "Meeting duration (minutes). For scheduled meetings only."
+msgstr ""
+
+#: build/learnpress-live.js:213
+#: build/learnpress-live.js:48
+#: build/learnpress-live.js:1149
+#: build/learnpress-live.js:1106
+#: releases/learnpress-live/templates/shortcode/single-google.php:33
+#: releases/learnpress-live/templates/shortcode/single-zoom.php:94
+#: templates/shortcode/single-google.php:33
+#: templates/shortcode/single-zoom.php:94
+msgid "Settings"
+msgstr ""
+
+#: build/learnpress-live.js:288
+#: build/learnpress-live.js:195
+#: build/learnpress-live.js:243
+#: build/learnpress-live.js:167
+msgid "Cancel"
+msgstr ""
+
+#: build/learnpress-live.js:317
+msgid "Update"
+msgstr ""
+
+#: build/learnpress-live.js:346
+#: build/learnpress-live.js:1307
+msgid "Create"
+msgstr ""
+
+#: build/learnpress-live.js:146
+#: build/learnpress-live.js:148
+#: build/learnpress-live.js:148
+msgid "Copied ID = \"\""
+msgstr ""
+
+#: build/learnpress-live.js:159
+msgid "Manage Google Meet"
+msgstr ""
+
+#: build/learnpress-live.js:169
+#: build/learnpress-live.js:42
+msgid "Add new"
+msgstr ""
+
+#: build/learnpress-live.js:178
+msgid "Please connect Google account to use this feature"
+msgstr ""
+
+#: build/learnpress-live.js:183
+#: build/learnpress-live.js:59
+msgid " Settings Now"
+msgstr ""
+
+#: build/learnpress-live.js:186
+#: build/learnpress-live.js:62
+msgid "."
+msgstr ""
+
+#: build/learnpress-live.js:211
+#: build/learnpress-live.js:203
+#: build/learnpress-live.js:203
+msgid "Search by meeting name"
+msgstr ""
+
+#: build/learnpress-live.js:241
+#: build/learnpress-live.js:234
+#: build/learnpress-live.js:234
+msgid "ShortCode"
+msgstr ""
+
+#: build/learnpress-live.js:246
+#: build/learnpress-live.js:239
+#: build/learnpress-live.js:239
+msgid "Start Meeting"
+msgstr ""
+
+#: build/learnpress-live.js:256
+#: build/learnpress-live.js:951
+#: build/learnpress-live.js:901
+#: build/learnpress-live.js:254
+#: build/learnpress-live.js:254
+#: releases/learnpress-live/templates/shortcode/single-zoom.php:66
+#: templates/shortcode/single-zoom.php:66
+msgid "Meeting ID"
+msgstr ""
+
+#: build/learnpress-live.js:261
+#: build/learnpress-live.js:264
+#: build/learnpress-live.js:264
+msgid "Actions"
+msgstr ""
+
+#: build/learnpress-live.js:275
+msgid "Google Meeting"
+msgstr ""
+
+#: build/learnpress-live.js:306
+msgid "Start"
+msgstr ""
+
+#: build/learnpress-live.js:402
+#: build/learnpress-live.js:465
+#: build/learnpress-live.js:416
+msgid "Delete Meeting"
+msgstr ""
+
+#: build/learnpress-live.js:405
+msgid "Do you want to delete this google meeting?."
+msgstr ""
+
+#: build/learnpress-live.js:414
+#: build/learnpress-live.js:477
+#: build/learnpress-live.js:428
+msgid "Disagree"
+msgstr ""
+
+#: build/learnpress-live.js:423
+#: build/learnpress-live.js:484
+#: build/learnpress-live.js:435
+msgid "Agree"
+msgstr ""
+
+#: build/learnpress-live.js:432
+#: build/learnpress-live.js:493
+#: build/learnpress-live.js:444
+msgid "Next"
+msgstr ""
+
+#: build/learnpress-live.js:447
+#: build/learnpress-live.js:508
+#: build/learnpress-live.js:459
+msgid "Prev"
+msgstr ""
+
+#: build/learnpress-live.js:13
+#: build/learnpress-live.js:29
+#: incs/class-lp-live-hooks.php:42
+#: releases/learnpress-live/incs/class-lp-live-hooks.php:42
+msgid "Zoom Meeting"
+msgstr ""
+
+#: build/learnpress-live.js:44
+msgid "Integration Settings"
+msgstr ""
+
+#: build/learnpress-live.js:121
+msgid "Google OAuth Credentials"
+msgstr ""
+
+#: build/learnpress-live.js:124
+#: build/learnpress-live.js:121
+msgid "Please view the setup guideline on how to generate credentials."
+msgstr ""
+
+#: build/learnpress-live.js:127
+#: build/learnpress-live.js:126
+msgid "("
+msgstr ""
+
+#: build/learnpress-live.js:129
+#: build/learnpress-live.js:128
+msgid "Learn More"
+msgstr ""
+
+#: build/learnpress-live.js:131
+#: build/learnpress-live.js:130
+msgid ")"
+msgstr ""
+
+#: build/learnpress-live.js:140
+#: build/learnpress-live.js:138
+msgid "OAuth Client ID*"
+msgstr ""
+
+#: build/learnpress-live.js:159
+#: build/learnpress-live.js:157
+msgid "OAuth Client Secret*"
+msgstr ""
+
+#: build/learnpress-live.js:189
+#: build/learnpress-live.js:263
+msgid "Confirmed, You can re-authenticate if you want"
+msgstr ""
+
+#: build/learnpress-live.js:221
+#: build/learnpress-live.js:295
+msgid "Reauthorize"
+msgstr ""
+
+#: build/learnpress-live.js:232
+#: build/learnpress-live.js:306
+msgid "Authentication failed, please fill all required fields."
+msgstr ""
+
+#: build/learnpress-live.js:271
+#: build/learnpress-live.js:345
+msgid "Authentication is in progress, please wait…"
+msgstr ""
+
+#: build/learnpress-live.js:325
+#: build/learnpress-live.js:399
+msgid "Authenticate"
+msgstr ""
+
+#: build/learnpress-live.js:118
+msgid "Zoom OAuth Credentials"
+msgstr ""
+
+#: build/learnpress-live.js:131
+msgid "Back to Site"
+msgstr ""
+
+#: build/learnpress-live.js:143
+msgid "More Information"
+msgstr ""
+
+#: build/learnpress-live.js:151
+msgid "Document"
+msgstr ""
+
+#: build/learnpress-live.js:159
+#: build/learnpress-live.js:198
+msgid "Logout"
+msgstr ""
+
+#: build/learnpress-live.js:192
+msgid "Are you sure you want to log out?"
+msgstr ""
+
+#: build/learnpress-live.js:233
+msgid "Are you sure you want to leave this page?"
+msgstr ""
+
+#: build/learnpress-live.js:248
+msgid "Continue"
+msgstr ""
+
+#: build/learnpress-live.js:70
+msgid "My Meeting"
+msgstr ""
+
+#: build/learnpress-live.js:438
+msgid "Create Meeting"
+msgstr ""
+
+#: build/learnpress-live.js:494
+#: build/learnpress-live.js:433
+msgid "Start time"
+msgstr ""
+
+#: build/learnpress-live.js:524
+#: build/learnpress-live.js:466
+msgid "TimeZone"
+msgstr ""
+
+#: build/learnpress-live.js:587
+#: build/learnpress-live.js:532
+msgid "Repeat"
+msgstr ""
+
+#: build/learnpress-live.js:628
+#: build/learnpress-live.js:573
+msgid "Daily"
+msgstr ""
+
+#: build/learnpress-live.js:636
+#: build/learnpress-live.js:581
+msgid "Weekly"
+msgstr ""
+
+#: build/learnpress-live.js:644
+#: build/learnpress-live.js:589
+msgid "Monthly"
+msgstr ""
+
+#: build/learnpress-live.js:656
+#: build/learnpress-live.js:601
+msgid "Repeat each"
+msgstr ""
+
+#: build/learnpress-live.js:707
+#: build/learnpress-live.js:759
+#: build/learnpress-live.js:652
+#: build/learnpress-live.js:704
+msgid "Happening at"
+msgstr ""
+
+#: build/learnpress-live.js:790
+#: build/learnpress-live.js:735
+msgid "In Month"
+msgstr ""
+
+#: build/learnpress-live.js:801
+#: build/learnpress-live.js:746
+msgid "End Date"
+msgstr ""
+
+#: build/learnpress-live.js:907
+#: build/learnpress-live.js:850
+msgid "Events"
+msgstr ""
+
+#: build/learnpress-live.js:993
+#: build/learnpress-live.js:944
+#: releases/learnpress-live/templates/shortcode/single-zoom.php:81
+#: templates/shortcode/single-zoom.php:81
+msgid "Password"
+msgstr ""
+
+#: build/learnpress-live.js:1014
+#: build/learnpress-live.js:960
+msgid "Meeting passcode. Passcode may only contain the following characters: [a-z A-Z 0-9 @ - _ *] and can have a maximum of 10 characters."
+msgstr ""
+
+#: build/learnpress-live.js:1025
+#: build/learnpress-live.js:971
+msgid "Waiting room"
+msgstr ""
+
+#: build/learnpress-live.js:1053
+#: build/learnpress-live.js:1004
+msgid "Only approved users by the host can join the meeting"
+msgstr ""
+
+#: build/learnpress-live.js:1064
+#: build/learnpress-live.js:1015
+msgid "Video Meeting"
+msgstr ""
+
+#: build/learnpress-live.js:1071
+#: build/learnpress-live.js:1022
+msgid "Host"
+msgstr ""
+
+#: build/learnpress-live.js:1108
+#: build/learnpress-live.js:1063
+msgid "Participant"
+msgstr ""
+
+#: build/learnpress-live.js:1162
+#: build/learnpress-live.js:1119
+msgid "Settings for"
+msgstr ""
+
+#: build/learnpress-live.js:1261
+#: build/learnpress-live.js:1218
+msgid "Edit Country"
+msgstr ""
+
+#: build/learnpress-live.js:373
+msgid "Detail Meeting"
+msgstr ""
+
+#: build/learnpress-live.js:1264
+msgid "Save"
+msgstr ""
+
+#: build/learnpress-live.js:100
+#: releases/learnpress-live/templates/shortcode/single-zoom.php:140
+#: templates/shortcode/single-zoom.php:140
+msgid "Approve or block user access from specific countries/regions"
+msgstr ""
+
+#: build/learnpress-live.js:132
+msgid "Allowed users:"
+msgstr ""
+
+#: build/learnpress-live.js:147
+msgid "Block users: "
+msgstr ""
+
+#: build/learnpress-live.js:176
+msgid "OK"
+msgstr ""
+
+#: build/learnpress-live.js:17
+msgid "Upcomming"
+msgstr ""
+
+#: build/learnpress-live.js:22
+msgid "All"
+msgstr ""
+
+#: build/learnpress-live.js:35
+msgid "Manage Zooms"
+msgstr ""
+
+#: build/learnpress-live.js:52
+msgid "Please connect Zoom account to use this feature"
+msgstr ""
+
+#: build/learnpress-live.js:125
+#: build/learnpress-live.js:125
+#: releases/learnpress-live/templates/metabox/metabox-google.php:34
+#: releases/learnpress-live/templates/metabox/metabox-zoom.php:35
+#: templates/metabox/metabox-google.php:34
+#: templates/metabox/metabox-zoom.php:35
+msgid "No meeting found"
+msgstr ""
+
+#: build/learnpress-live.js:244
+#: build/learnpress-live.js:244
+msgid "Start Date"
+msgstr ""
+
+#: build/learnpress-live.js:317
+#: build/learnpress-live.js:317
+msgid "min"
+msgstr ""
+
+#: build/learnpress-live.js:468
+#: build/learnpress-live.js:419
+msgid "Recently deleted meetings will be permanently deleted after 7 days. If you want to recover this meeting, please go to Email to register the app."
+msgstr ""
+
+#. Plugin Name of the plugin
+msgid "LearnPress - Live Course Add-on"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://thimpress.com/learnpress"
+msgstr ""
+
+#. Description of the plugin
+msgid "Manage conferences related to the course for user."
+msgstr ""
+
+#. Author of the plugin
+msgid "ThimPress"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://thimpress.com"
+msgstr ""
+
+#: incs/class-lp-live-hooks.php:32
+#: releases/learnpress-live/incs/class-lp-live-hooks.php:32
+msgid "LearnPress Live"
+msgstr ""
+
+#: incs/class-lp-live-hooks.php:43
+#: releases/learnpress-live/incs/class-lp-live-hooks.php:43
+msgid "Select to show Zoom Meeting Information for Lesson. Choose and Update to take effect."
+msgstr ""
+
+#: incs/class-lp-live-hooks.php:48
+#: releases/learnpress-live/incs/class-lp-live-hooks.php:48
+msgid "Select to show Google Meet Information for Lesson. Update to take effect."
+msgstr ""
+
+#: incs/class-lp-live-hooks.php:202
+#: releases/learnpress-live/incs/class-lp-live-hooks.php:202
+msgid "LearnPress Live Settings"
+msgstr ""
+
+#: incs/types/google-meet/class-lp-google-meet-api.php:169
+#: incs/types/zooms/class-lp-zoom-api.php:225
+#: releases/learnpress-live/incs/types/google-meet/class-lp-google-meet-api.php:169
+#: releases/learnpress-live/incs/types/zooms/class-lp-zoom-api.php:225
+msgid "Please do not leave any fields blank."
+msgstr ""
+
+#: incs/types/google-meet/class-lp-google-meet-api.php:229
+#: incs/types/google-meet/class-lp-google-meet-api.php:264
+#: releases/learnpress-live/incs/types/google-meet/class-lp-google-meet-api.php:229
+#: releases/learnpress-live/incs/types/google-meet/class-lp-google-meet-api.php:264
+msgid "Please connect to Google Meet."
+msgstr ""
+
+#: incs/types/google-meet/class-lp-google-meet-api.php:240
+#: incs/types/zooms/class-lp-zoom-api.php:295
+#: releases/learnpress-live/incs/types/google-meet/class-lp-google-meet-api.php:240
+#: releases/learnpress-live/incs/types/zooms/class-lp-zoom-api.php:295
+msgid "No meeting found!"
+msgstr ""
+
+#: incs/types/google-meet/class-lp-google-meet-api.php:244
+#: incs/types/google-meet/class-lp-google-meet-api.php:278
+#: incs/types/zooms/class-lp-zoom-api.php:299
+#: releases/learnpress-live/incs/types/google-meet/class-lp-google-meet-api.php:244
+#: releases/learnpress-live/incs/types/google-meet/class-lp-google-meet-api.php:278
+#: releases/learnpress-live/incs/types/zooms/class-lp-zoom-api.php:299
+msgid "Error meetings!"
+msgstr ""
+
+#: incs/types/google-meet/class-lp-google-meet-api.php:307
+#: releases/learnpress-live/incs/types/google-meet/class-lp-google-meet-api.php:307
+msgid "Please enter meeting name."
+msgstr ""
+
+#: incs/types/google-meet/class-lp-google-meet-api.php:310
+#: releases/learnpress-live/incs/types/google-meet/class-lp-google-meet-api.php:310
+msgid "Please enter meeting duration."
+msgstr ""
+
+#: incs/types/google-meet/class-lp-google-meet-api.php:314
+#: releases/learnpress-live/incs/types/google-meet/class-lp-google-meet-api.php:314
+msgid "Please enter meeting duration greater than 0."
+msgstr ""
+
+#: incs/types/google-meet/class-lp-google-meet-api.php:364
+#: releases/learnpress-live/incs/types/google-meet/class-lp-google-meet-api.php:364
+msgid "Successfully!"
+msgstr ""
+
+#: incs/types/google-meet/class-lp-google-meet-api.php:404
+#: releases/learnpress-live/incs/types/google-meet/class-lp-google-meet-api.php:404
+msgid "Google Meet ID Invalid."
+msgstr ""
+
+#: incs/types/google-meet/class-lp-google-meet-api.php:416
+#: releases/learnpress-live/incs/types/google-meet/class-lp-google-meet-api.php:416
+msgid "Remove Successfully!"
+msgstr ""
+
+#: incs/types/google-meet/class-lp-shortcode-google-meeting.php:50
+#: incs/types/zooms/class-lp-shortcode-zoom-meeting.php:50
+#: releases/learnpress-live/incs/types/google-meet/class-lp-shortcode-google-meeting.php:50
+#: releases/learnpress-live/incs/types/zooms/class-lp-shortcode-zoom-meeting.php:50
+msgid "Meeting ID is required"
+msgstr ""
+
+#: incs/types/google-meet/class-lp-shortcode-google-meeting.php:57
+#: incs/types/zooms/class-lp-shortcode-zoom-meeting.php:57
+#: releases/learnpress-live/incs/types/google-meet/class-lp-shortcode-google-meeting.php:57
+#: releases/learnpress-live/incs/types/zooms/class-lp-shortcode-zoom-meeting.php:57
+msgid "Meeting not found"
+msgstr ""
+
+#: incs/types/zooms/class-lp-zoom-api.php:316
+#: incs/types/zooms/class-lp-zoom-api.php:504
+#: incs/types/zooms/class-lp-zoom-api.php:611
+#: releases/learnpress-live/incs/types/zooms/class-lp-zoom-api.php:316
+#: releases/learnpress-live/incs/types/zooms/class-lp-zoom-api.php:504
+#: releases/learnpress-live/incs/types/zooms/class-lp-zoom-api.php:611
+msgid "Meeting ID not found."
+msgstr ""
+
+#: incs/types/zooms/class-lp-zoom-api.php:375
+#: incs/types/zooms/class-lp-zoom-api.php:497
+#: releases/learnpress-live/incs/types/zooms/class-lp-zoom-api.php:375
+#: releases/learnpress-live/incs/types/zooms/class-lp-zoom-api.php:497
+msgid "Duration must be greater than 10 minutes."
+msgstr ""
+
+#: incs/types/zooms/class-lp-zoom-api.php:379
+#: incs/types/zooms/class-lp-zoom-api.php:500
+#: releases/learnpress-live/incs/types/zooms/class-lp-zoom-api.php:379
+#: releases/learnpress-live/incs/types/zooms/class-lp-zoom-api.php:500
+msgid "Password is required."
+msgstr ""
+
+#: incs/types/zooms/class-lp-zoom-api.php:448
+#: releases/learnpress-live/incs/types/zooms/class-lp-zoom-api.php:448
+msgid "Create meeting successfully!"
+msgstr ""
+
+#: incs/types/zooms/class-lp-zoom-api.php:586
+#: releases/learnpress-live/incs/types/zooms/class-lp-zoom-api.php:586
+msgid "Update meeting successfully!"
+msgstr ""
+
+#: incs/types/zooms/class-lp-zoom-api.php:622
+#: releases/learnpress-live/incs/types/zooms/class-lp-zoom-api.php:622
+msgid "Delete meeting successfully!"
+msgstr ""
+
+#: releases/learnpress-live/templates/metabox/metabox-google.php:27
+#: releases/learnpress-live/templates/metabox/metabox-zoom.php:27
+#: templates/metabox/metabox-google.php:27
+#: templates/metabox/metabox-zoom.php:27
+msgid "Select Meeting ID"
+msgstr ""
+
+#: releases/learnpress-live/templates/shortcode/single-google.php:10
+#: templates/shortcode/single-google.php:10
+msgid "Google Meet Information"
+msgstr ""
+
+#: releases/learnpress-live/templates/shortcode/single-google.php:13
+#: releases/learnpress-live/templates/shortcode/single-zoom.php:26
+#: templates/shortcode/single-google.php:13
+#: templates/shortcode/single-zoom.php:26
+msgid "Meeting Title"
+msgstr ""
+
+#: releases/learnpress-live/templates/shortcode/single-google.php:39
+#: templates/shortcode/single-google.php:39
+msgid "Attendees other than the organizer can modify the event"
+msgstr ""
+
+#: releases/learnpress-live/templates/shortcode/single-google.php:47
+#: templates/shortcode/single-google.php:47
+msgid "Unlimited time (for the long conference)"
+msgstr ""
+
+#: releases/learnpress-live/templates/shortcode/single-google.php:56
+#: releases/learnpress-live/templates/shortcode/single-zoom.php:150
+#: templates/shortcode/single-google.php:56
+#: templates/shortcode/single-zoom.php:150
+msgid "Join Now"
+msgstr ""
+
+#: releases/learnpress-live/templates/shortcode/single-zoom.php:23
+#: templates/shortcode/single-zoom.php:23
+msgid "Zoom Meeting Information"
+msgstr ""
+
+#: releases/learnpress-live/templates/shortcode/single-zoom.php:28
+#: templates/shortcode/single-zoom.php:28
+msgid "My meeting"
+msgstr ""
+
+#: releases/learnpress-live/templates/shortcode/single-zoom.php:33
+#: releases/learnpress-live/templates/shortcode/single-zoom.php:48
+#: templates/shortcode/single-zoom.php:33
+#: templates/shortcode/single-zoom.php:48
+msgid "Date start"
+msgstr ""
+
+#: releases/learnpress-live/templates/shortcode/single-zoom.php:43
+#: releases/learnpress-live/templates/shortcode/single-zoom.php:59
+#: templates/shortcode/single-zoom.php:43
+#: templates/shortcode/single-zoom.php:59
+msgid "minutes"
+msgstr ""
+
+#: releases/learnpress-live/templates/shortcode/single-zoom.php:72
+#: templates/shortcode/single-zoom.php:72
+msgid "Join Link"
+msgstr ""
+
+#: releases/learnpress-live/templates/shortcode/single-zoom.php:78
+#: templates/shortcode/single-zoom.php:78
+msgid "Security"
+msgstr ""
+
+#: releases/learnpress-live/templates/shortcode/single-zoom.php:87
+#: templates/shortcode/single-zoom.php:87
+msgid "Waiting Room"
+msgstr ""
+
+#: releases/learnpress-live/templates/shortcode/single-zoom.php:100
+#: templates/shortcode/single-zoom.php:100
+msgid "Start video when the host joins the meeting"
+msgstr ""
+
+#: releases/learnpress-live/templates/shortcode/single-zoom.php:108
+#: templates/shortcode/single-zoom.php:108
+msgid "Allow participants to join the meeting before the host starts the meeting. Only used for scheduled or recurring meetings"
+msgstr ""
+
+#: releases/learnpress-live/templates/shortcode/single-zoom.php:116
+#: templates/shortcode/single-zoom.php:116
+msgid "Allow automatic recording"
+msgstr ""
+
+#: releases/learnpress-live/templates/shortcode/single-zoom.php:124
+#: templates/shortcode/single-zoom.php:124
+msgid "Allow participants to enter at any time"
+msgstr ""
+
+#: releases/learnpress-live/templates/shortcode/single-zoom.php:132
+#: templates/shortcode/single-zoom.php:132
+msgid "Mute participants when entering a meeting"
+msgstr ""

@@ -1,0 +1,118 @@
+# Copyright (C) 2024 ThimPress
+# This file is distributed under the same license as the LearnPress - Students List plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: LearnPress - Students List 4.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/learnpress-students-list\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-20T05:09:55+03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: learnpress-students-list\n"
+
+#. Plugin Name of the plugin
+msgid "LearnPress - Students List"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://thimpress.com/learnpress"
+msgstr ""
+
+#. Description of the plugin
+msgid "Students list for LearnPress."
+msgstr ""
+
+#. Author of the plugin
+msgid "ThimPress"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://thimpress.com"
+msgstr ""
+
+#: config/settings.php:7
+msgid "Students List Settings"
+msgstr ""
+
+#: config/settings.php:11
+msgid "Students Per Page"
+msgstr ""
+
+#: config/settings.php:15
+msgid "The number of displayed students per page (Enter -1 to display all)."
+msgstr ""
+
+#: inc/load.php:74
+#: inc/widgets.php:73
+msgid "Students List"
+msgstr ""
+
+#: inc/load.php:75
+msgid "Hide the students list in each individual course."
+msgstr ""
+
+#: inc/shortcodes.php:58
+#: inc/widgets.php:61
+msgid "Please enter Course ID."
+msgstr ""
+
+#: inc/shortcodes.php:67
+msgid "Course ID invalid, please check it again."
+msgstr ""
+
+#: inc/shortcodes.php:71
+#: inc/widgets.php:53
+msgid "Course"
+msgstr ""
+
+#: inc/StudentsListTemplate.php:201
+msgid "Load more"
+msgstr ""
+
+#: inc/StudentsListTemplate.php:219
+msgid "Learning progress of students"
+msgstr ""
+
+#: inc/StudentsListTemplate.php:220
+msgid "In Progress"
+msgstr ""
+
+#: inc/StudentsListTemplate.php:221
+msgid "Finished"
+msgstr ""
+
+#: inc/StudentsListTemplate.php:318
+msgid "Progress"
+msgstr ""
+
+#: inc/widgets.php:25
+msgid "Learnpress - Students List"
+msgstr ""
+
+#: inc/widgets.php:26
+msgid "Display students list of course."
+msgstr ""
+
+#: inc/widgets.php:80
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets.php:88
+msgid "Course ID:"
+msgstr ""
+
+#: inc/widgets.php:94
+msgid "Course IDs separated by commas (,)"
+msgstr ""
+
+#: inc/widgets.php:99
+msgid "Number students to show:"
+msgstr ""
+
+#: inc/widgets.php:108
+msgid "Filter:"
+msgstr ""

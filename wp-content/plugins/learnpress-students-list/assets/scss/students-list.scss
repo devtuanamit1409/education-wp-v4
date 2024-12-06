@@ -1,0 +1,40 @@
+.lp-course-students-list-wrapper {
+	ul.lp-students-list-wrapper {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+		grid-gap: 20px;
+		margin: 0;
+		padding: 0;
+
+		li {
+			list-style: none;
+			border: 1px solid lightgray;
+			border-radius: 5px;
+			padding: 10px;
+
+			.student-course-item {
+				display: flex;
+				align-items: center;
+				gap: 10px;
+
+				img {
+					width: 70px;
+					height: auto;
+					border-radius: 50%;
+				}
+
+				.student-info {
+					word-break: break-all;
+				}
+			}
+		}
+	}
+
+	.filter-students {
+		margin-bottom: 20px;
+	}
+
+	.students-list-btn-load-more {
+		margin-top: 20px;
+	}
+}

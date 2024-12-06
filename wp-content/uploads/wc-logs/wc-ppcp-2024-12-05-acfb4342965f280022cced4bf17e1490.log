@@ -1,0 +1,796 @@
+2024-12-05T01:49:39+00:00 ERROR Error creating PayPal order. Msg: validation_errors Params: Array
+(
+    [intent] => CAPTURE
+    [payer] => Array
+        (
+            [name] => Array
+                (
+                    [given_name] => 
+                    [surname] => 
+                )
+
+        )
+
+    [purchase_units] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [value] => 1
+                            [currency_code] => USD
+                            [breakdown] => Array
+                                (
+                                    [item_total] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 1
+                                        )
+
+                                    [shipping] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0
+                                        )
+
+                                    [tax_total] => Array
+                                        (
+                                            [value] => 0
+                                            [currency_code] => USD
+                                        )
+
+                                    [discount] => Array
+                                        (
+                                            [value] => 0
+                                            [currency_code] => USD
+                                        )
+
+                                    [handling] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0
+                                        )
+
+                                )
+
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Introduction LearnPress &#8211; LMS plugin
+                                    [quantity] => 1
+                                    [unit_amount] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 1
+                                        )
+
+                                    [sku] => 5428
+                                    [description] => Product ID: 5428
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [application_context] => Array
+        (
+            [shipping_preference] => NO_SHIPPING
+            [return_url] => https://mindjourneyedu.com/wc-api/ppcp_checkout_return/?_checkoutnonce=9a9af70184
+            [cancel_url] => https://mindjourneyedu.com/checkout/
+            [brand_name] => NextGen Creations DB LLC
+        )
+
+)
+2024-12-05T02:31:56+00:00 ERROR Error creating PayPal order. Msg: validation_errors Params: Array
+(
+    [intent] => CAPTURE
+    [payer] => Array
+        (
+            [name] => Array
+                (
+                    [given_name] => 
+                    [surname] => 
+                )
+
+        )
+
+    [purchase_units] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [value] => 1
+                            [currency_code] => USD
+                            [breakdown] => Array
+                                (
+                                    [item_total] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 1
+                                        )
+
+                                    [shipping] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0
+                                        )
+
+                                    [tax_total] => Array
+                                        (
+                                            [value] => 0
+                                            [currency_code] => USD
+                                        )
+
+                                    [discount] => Array
+                                        (
+                                            [value] => 0
+                                            [currency_code] => USD
+                                        )
+
+                                    [handling] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0
+                                        )
+
+                                )
+
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Introduction LearnPress &#8211; LMS plugin
+                                    [quantity] => 1
+                                    [unit_amount] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 1
+                                        )
+
+                                    [sku] => 5428
+                                    [description] => Product ID: 5428
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [application_context] => Array
+        (
+            [shipping_preference] => NO_SHIPPING
+            [return_url] => https://mindjourneyedu.com/wc-api/ppcp_checkout_return/?_checkoutnonce=9a9af70184
+            [cancel_url] => https://mindjourneyedu.com/checkout/
+            [brand_name] => NextGen Creations DB LLC
+        )
+
+)
+2024-12-05T02:39:59+00:00 ERROR Error creating PayPal order. Msg: validation_errors Params: Array
+(
+    [intent] => CAPTURE
+    [payer] => Array
+        (
+            [name] => Array
+                (
+                    [given_name] => 
+                    [surname] => 
+                )
+
+        )
+
+    [purchase_units] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [value] => 1
+                            [currency_code] => USD
+                            [breakdown] => Array
+                                (
+                                    [item_total] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 1
+                                        )
+
+                                    [shipping] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0
+                                        )
+
+                                    [tax_total] => Array
+                                        (
+                                            [value] => 0
+                                            [currency_code] => USD
+                                        )
+
+                                    [discount] => Array
+                                        (
+                                            [value] => 0
+                                            [currency_code] => USD
+                                        )
+
+                                    [handling] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0
+                                        )
+
+                                )
+
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Introduction LearnPress &#8211; LMS plugin
+                                    [quantity] => 1
+                                    [unit_amount] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 1
+                                        )
+
+                                    [sku] => 5428
+                                    [description] => Product ID: 5428
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [application_context] => Array
+        (
+            [shipping_preference] => NO_SHIPPING
+            [return_url] => https://mindjourneyedu.com/wc-api/ppcp_checkout_return/?_checkoutnonce=9a9af70184
+            [cancel_url] => https://mindjourneyedu.com/checkout/
+            [brand_name] => NextGen Creations DB LLC
+        )
+
+)
+2024-12-05T02:40:11+00:00 ERROR Error creating PayPal order. Msg: validation_errors Params: Array
+(
+    [intent] => CAPTURE
+    [payer] => Array
+        (
+            [name] => Array
+                (
+                    [given_name] => 
+                    [surname] => 
+                )
+
+        )
+
+    [purchase_units] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [value] => 1
+                            [currency_code] => USD
+                            [breakdown] => Array
+                                (
+                                    [item_total] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 1
+                                        )
+
+                                    [shipping] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0
+                                        )
+
+                                    [tax_total] => Array
+                                        (
+                                            [value] => 0
+                                            [currency_code] => USD
+                                        )
+
+                                    [discount] => Array
+                                        (
+                                            [value] => 0
+                                            [currency_code] => USD
+                                        )
+
+                                    [handling] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0
+                                        )
+
+                                )
+
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Introduction LearnPress &#8211; LMS plugin
+                                    [quantity] => 1
+                                    [unit_amount] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 1
+                                        )
+
+                                    [sku] => 5428
+                                    [description] => Product ID: 5428
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [application_context] => Array
+        (
+            [shipping_preference] => NO_SHIPPING
+            [return_url] => https://mindjourneyedu.com/wc-api/ppcp_checkout_return/?_checkoutnonce=9a9af70184
+            [cancel_url] => https://mindjourneyedu.com/checkout/
+            [brand_name] => NextGen Creations DB LLC
+        )
+
+)
+2024-12-05T07:52:12+00:00 ERROR Error creating PayPal order. Msg: validation_errors Params: Array
+(
+    [intent] => CAPTURE
+    [payer] => Array
+        (
+            [name] => Array
+                (
+                    [given_name] => 
+                    [surname] => 
+                )
+
+        )
+
+    [purchase_units] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [value] => 1
+                            [currency_code] => USD
+                            [breakdown] => Array
+                                (
+                                    [item_total] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 1
+                                        )
+
+                                    [shipping] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0
+                                        )
+
+                                    [tax_total] => Array
+                                        (
+                                            [value] => 0
+                                            [currency_code] => USD
+                                        )
+
+                                    [discount] => Array
+                                        (
+                                            [value] => 0
+                                            [currency_code] => USD
+                                        )
+
+                                    [handling] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0
+                                        )
+
+                                )
+
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Introduction LearnPress &#8211; LMS plugin
+                                    [quantity] => 1
+                                    [unit_amount] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 1
+                                        )
+
+                                    [sku] => 5428
+                                    [description] => Product ID: 5428
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [application_context] => Array
+        (
+            [shipping_preference] => NO_SHIPPING
+            [return_url] => https://mindjourneyedu.com/wc-api/ppcp_checkout_return/?_checkoutnonce=9a9af70184
+            [cancel_url] => https://mindjourneyedu.com/checkout/
+            [brand_name] => NextGen Creations DB LLC
+        )
+
+)
+2024-12-05T08:00:24+00:00 ERROR Error creating PayPal order. Msg: validation_errors Params: Array
+(
+    [intent] => CAPTURE
+    [payer] => Array
+        (
+            [name] => Array
+                (
+                    [given_name] => Phu
+                    [surname] => Tuan AMIT
+                )
+
+            [email_address] => nguyentuanamit@gmail.com
+        )
+
+    [purchase_units] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [value] => 1
+                            [currency_code] => USD
+                            [breakdown] => Array
+                                (
+                                    [item_total] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 1
+                                        )
+
+                                    [shipping] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0
+                                        )
+
+                                    [tax_total] => Array
+                                        (
+                                            [value] => 0
+                                            [currency_code] => USD
+                                        )
+
+                                    [discount] => Array
+                                        (
+                                            [value] => 0
+                                            [currency_code] => USD
+                                        )
+
+                                    [handling] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0
+                                        )
+
+                                )
+
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Introduction LearnPress &#8211; LMS plugin
+                                    [quantity] => 1
+                                    [unit_amount] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 1
+                                        )
+
+                                    [sku] => 5428
+                                    [description] => Product ID: 5428
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [application_context] => Array
+        (
+            [shipping_preference] => NO_SHIPPING
+            [return_url] => https://mindjourneyedu.com/wc-api/ppcp_checkout_return/?_checkoutnonce=c6008abe82
+            [cancel_url] => https://mindjourneyedu.com/checkout/
+            [brand_name] => NextGen Creations DB LLC
+        )
+
+)
+2024-12-05T08:00:31+00:00 ERROR Error creating PayPal order. Msg: validation_errors Params: Array
+(
+    [intent] => CAPTURE
+    [payer] => Array
+        (
+            [name] => Array
+                (
+                    [given_name] => Phu
+                    [surname] => Tuan AMIT
+                )
+
+            [email_address] => nguyentuanamit@gmail.com
+        )
+
+    [purchase_units] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [value] => 1
+                            [currency_code] => USD
+                            [breakdown] => Array
+                                (
+                                    [item_total] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 1
+                                        )
+
+                                    [shipping] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0
+                                        )
+
+                                    [tax_total] => Array
+                                        (
+                                            [value] => 0
+                                            [currency_code] => USD
+                                        )
+
+                                    [discount] => Array
+                                        (
+                                            [value] => 0
+                                            [currency_code] => USD
+                                        )
+
+                                    [handling] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0
+                                        )
+
+                                )
+
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Introduction LearnPress &#8211; LMS plugin
+                                    [quantity] => 1
+                                    [unit_amount] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 1
+                                        )
+
+                                    [sku] => 5428
+                                    [description] => Product ID: 5428
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [application_context] => Array
+        (
+            [shipping_preference] => NO_SHIPPING
+            [return_url] => https://mindjourneyedu.com/wc-api/ppcp_checkout_return/?_checkoutnonce=c6008abe82
+            [cancel_url] => https://mindjourneyedu.com/checkout/
+            [brand_name] => NextGen Creations DB LLC
+        )
+
+)
+2024-12-05T08:00:35+00:00 ERROR Error creating PayPal order. Msg: validation_errors Params: Array
+(
+    [intent] => CAPTURE
+    [payer] => Array
+        (
+            [name] => Array
+                (
+                    [given_name] => Phu
+                    [surname] => Tuan AMIT
+                )
+
+            [email_address] => nguyentuanamit@gmail.com
+        )
+
+    [purchase_units] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [value] => 1
+                            [currency_code] => USD
+                            [breakdown] => Array
+                                (
+                                    [item_total] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 1
+                                        )
+
+                                    [shipping] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0
+                                        )
+
+                                    [tax_total] => Array
+                                        (
+                                            [value] => 0
+                                            [currency_code] => USD
+                                        )
+
+                                    [discount] => Array
+                                        (
+                                            [value] => 0
+                                            [currency_code] => USD
+                                        )
+
+                                    [handling] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0
+                                        )
+
+                                )
+
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Introduction LearnPress &#8211; LMS plugin
+                                    [quantity] => 1
+                                    [unit_amount] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 1
+                                        )
+
+                                    [sku] => 5428
+                                    [description] => Product ID: 5428
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [application_context] => Array
+        (
+            [shipping_preference] => NO_SHIPPING
+            [return_url] => https://mindjourneyedu.com/wc-api/ppcp_checkout_return/?_checkoutnonce=c6008abe82
+            [cancel_url] => https://mindjourneyedu.com/checkout/
+            [brand_name] => NextGen Creations DB LLC
+        )
+
+)
+2024-12-05T09:56:27+00:00 ERROR Error creating PayPal order. Msg: validation_errors Params: Array
+(
+    [intent] => CAPTURE
+    [payer] => Array
+        (
+            [name] => Array
+                (
+                    [given_name] => Phu
+                    [surname] => Tuan AMIT
+                )
+
+            [email_address] => nguyentuanamit@gmail.com
+        )
+
+    [purchase_units] => Array
+        (
+            [0] => Array
+                (
+                    [amount] => Array
+                        (
+                            [value] => 1
+                            [currency_code] => USD
+                            [breakdown] => Array
+                                (
+                                    [item_total] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 1
+                                        )
+
+                                    [shipping] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0
+                                        )
+
+                                    [tax_total] => Array
+                                        (
+                                            [value] => 0
+                                            [currency_code] => USD
+                                        )
+
+                                    [discount] => Array
+                                        (
+                                            [value] => 0
+                                            [currency_code] => USD
+                                        )
+
+                                    [handling] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 0
+                                        )
+
+                                )
+
+                        )
+
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Introduction LearnPress &#8211; LMS plugin
+                                    [quantity] => 1
+                                    [unit_amount] => Array
+                                        (
+                                            [currency_code] => USD
+                                            [value] => 1
+                                        )
+
+                                    [sku] => 5428
+                                    [description] => Product ID: 5428
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [application_context] => Array
+        (
+            [shipping_preference] => NO_SHIPPING
+            [return_url] => https://mindjourneyedu.com/wc-api/ppcp_checkout_return/?_checkoutnonce=c6008abe82
+            [cancel_url] => https://mindjourneyedu.com/checkout/
+            [brand_name] => NextGen Creations DB LLC
+        )
+
+)

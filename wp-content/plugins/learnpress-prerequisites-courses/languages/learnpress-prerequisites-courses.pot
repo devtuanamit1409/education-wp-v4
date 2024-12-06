@@ -1,0 +1,59 @@
+# Copyright (C) 2024 ThimPress
+# This file is distributed under the same license as the LearnPress - Prerequisites Courses plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: LearnPress - Prerequisites Courses 4.0.8\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/learnpress-prerequisites-courses\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-15T06:47:44+03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: learnpress-prerequisites-courses\n"
+
+#. Plugin Name of the plugin
+msgid "LearnPress - Prerequisites Courses"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://thimpress.com/learnpress"
+msgstr ""
+
+#. Description of the plugin
+msgid "Course you have to finish before you can enroll to this course."
+msgstr ""
+
+#. Author of the plugin
+msgid "ThimPress"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://thimpress.com"
+msgstr ""
+
+#: inc/class-lp-prere-hooks.php:128
+msgid "Prerequisites Course"
+msgstr ""
+
+#: inc/class-lp-prere-hooks.php:134
+msgid "Allow Purchase"
+msgstr ""
+
+#: inc/class-lp-prere-hooks.php:135
+msgid "Allow purchase course without finish prerequisites."
+msgstr ""
+
+#: inc/class-lp-prere-hooks.php:287
+msgid "This content is protected, please pass the prerequisites course(s) to view this content!"
+msgstr ""
+
+#: inc/load.php:116
+msgid "Course has prerequisite courses not passed"
+msgstr ""
+
+#: inc/load.php:181
+msgid "NOTE: You have to pass these courses before you can enroll this course."
+msgstr ""

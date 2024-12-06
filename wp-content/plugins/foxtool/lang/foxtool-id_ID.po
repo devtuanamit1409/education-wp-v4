@@ -1,0 +1,4002 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-10-20 11:48+0700\n"
+"PO-Revision-Date: 2024-10-20 11:51+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: foxtool.php:67
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: foxtool.php:69
+msgid "Home"
+msgstr "Halaman rumah"
+
+#: inc/chat.php:34
+msgid "Not entered"
+msgstr "Belum masuk"
+
+#: inc/chat.php:227 inc/woo.php:78
+msgid "Contact"
+msgstr "Kontak"
+
+#: inc/chat.php:252
+msgid "Demo"
+msgstr "Demo"
+
+#: inc/chat.php:409
+msgid "Navigation bar (Foxtool)"
+msgstr "Bilah navigasi (Foxtool)"
+
+#: inc/clean.php:7 inc/clean.php:23 inc/clean.php:39 inc/clean.php:55
+#: inc/clean.php:81 inc/clean.php:107 inc/clean.php:133 inc/clean.php:165
+#: inc/clean.php:190 inc/clean.php:222 inc/debug.php:238 inc/font.php:158
+#: inc/search.php:244 inc/search.php:283
+msgid "Insufficient permissions"
+msgstr "Izin tidak cukup"
+
+#: inc/clean.php:228
+msgid "Deleted"
+msgstr "Dihapus"
+
+#: inc/clean.php:228
+msgid "images"
+msgstr "gambar"
+
+#: inc/clean.php:230
+msgid "No size"
+msgstr "Tidak ada ukuran"
+
+#: inc/custom.php:205 main/page/7mail.php:36 main/page/7mail.php:37
+msgid "Account"
+msgstr "Akun"
+
+#: inc/custom.php:208
+msgid "Password"
+msgstr "Kata sandi"
+
+#: inc/custom.php:211
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/custom.php:256
+msgid "Welcome to Foxtool"
+msgstr "Selamat datang di Foxtool"
+
+#: inc/debug.php:267
+msgid "Failed to load debug log"
+msgstr "Tidak dapat memuat log debug"
+
+#: inc/debug.php:270
+msgid "Debug log file does not exist"
+msgstr "File log debug tidak ada"
+
+#: inc/font.php:138
+msgid "Deleted successfully"
+msgstr "Berhasil dihapus"
+
+#: inc/font.php:140
+msgid "Failed to delete the file"
+msgstr "Tidak dapat menghapus berkas"
+
+#: inc/font.php:143
+msgid "The file path is invalid or not a file"
+msgstr "Jalur file tidak valid atau bukan file"
+
+#: inc/font.php:149
+msgid "Font does not exist"
+msgstr "Fontnya tidak ada"
+
+#: inc/foxtool.php:56
+msgid "Does not exist"
+msgstr "Tidak ada"
+
+#: inc/foxtool.php:193
+msgid "Foxtool"
+msgstr "Foxtool"
+
+#: inc/gindex.php:110 inc/gindex.php:217
+msgid "Already declared"
+msgstr "Diberitahu"
+
+#: inc/gindex.php:115 inc/gindex.php:221
+msgid "Declaration already deleted"
+msgstr "Pemberitahuan penghapusan"
+
+#: inc/gindex.php:121 inc/gindex.php:228
+msgid "URL:"
+msgstr "URL:"
+
+#: inc/gindex.php:122 inc/gindex.php:229
+msgid "Status:"
+msgstr "Status:"
+
+#: inc/gindex.php:123 inc/gindex.php:230
+msgid "Time:"
+msgstr "Waktu:"
+
+#: inc/gindex.php:129
+msgid "Notification link sent"
+msgstr "Tautan pemberitahuan terkirim"
+
+#: inc/gindex.php:135 inc/gindex.php:141
+msgid "URL: does not exist"
+msgstr "URL: tidak ada"
+
+#: inc/gindex.php:235
+msgid "URL: Unverified"
+msgstr "URL: Belum diverifikasi"
+
+#: inc/gindex.php:262 main/extend.php:96 main/gindex.php:226
+msgid "Index now"
+msgstr "Index now"
+
+#: inc/gindex.php:291 inc/gindex.php:319
+msgid "Success"
+msgstr "Kesuksesan"
+
+#: inc/gindex.php:315
+msgid "Wait..."
+msgstr "Tunggu..."
+
+#: inc/gindex.php:321 inc/gindex.php:325
+msgid "Error"
+msgstr "Kesalahan"
+
+#: inc/goo.php:52
+msgid "Sign in with Google"
+msgstr "Masuk dengan Google"
+
+#: inc/goo.php:54
+msgid "Log out"
+msgstr "Keluar"
+
+#: inc/goo.php:179 inc/goo.php:221 inc/goo.php:286 inc/goo.php:324
+msgid "The reCAPTCHA is invalid"
+msgstr "reCAPTCHA tidak valid"
+
+#: inc/goo.php:184
+msgid "reCAPTCHA verification failed. Please try again"
+msgstr "Verifikasi ReCAPTCHA gagal. Silakan coba lagi"
+
+#: inc/goo.php:189
+msgid "The reCAPTCHA error is mandatory"
+msgstr "kesalahan reCAPTCHA diperlukan"
+
+#: inc/goo.php:199
+msgid "reCAPTCHA is required"
+msgstr "reCAPTCHA diperlukan"
+
+#: inc/goo.php:224 inc/goo.php:291 inc/goo.php:327
+msgid "reCAPTCHA error. Please try again"
+msgstr "kesalahan reCAPTCHA. Silakan coba lagi"
+
+#: inc/goo.php:262 inc/goo.php:302
+msgid "Please complete the reCAPTCHA to verify that you are not a robot"
+msgstr "Silakan lengkapi reCAPTCHA untuk memverifikasi bahwa Anda bukan robot"
+
+#: inc/mail.php:37
+msgid "Test SMTP email sending from your website"
+msgstr "Uji pengiriman email SMTP dari situs web Anda"
+
+#: inc/mail.php:38
+msgid ""
+"If you receive this email, then the SMTP email sending function is working "
+"well"
+msgstr ""
+"Jika Anda menerima email ini, pengiriman email SMTP berfungsi dengan baik"
+
+#: inc/mail.php:42
+msgid "Email sent successfully"
+msgstr "Email telah berhasil dikirim"
+
+#: inc/mail.php:44
+msgid "Unable to send email!"
+msgstr "Tidak dapat mengirim email!"
+
+#: inc/mail.php:57
+msgid "Your comment has just been replied to"
+msgstr "Komentar Anda baru saja dibalas"
+
+#: inc/mail.php:58
+msgid "Your comment has just been replied to in the post"
+msgstr "Komentar Anda baru saja dijawab di artikel"
+
+#: inc/mail.php:71
+#, php-format
+msgid ""
+"Hello %s. A new comment has been posted on your article \"%s\". You can view "
+"the comment here: %s"
+msgstr ""
+"Halo %s. Komentar baru telah diposting pada postingan Anda \"%s\". Anda "
+"dapat melihat komentar di sini: %s"
+
+#: inc/mail.php:76
+#, php-format
+msgid "[%s] New comment on the article \"%s\""
+msgstr "[%s] Komentar baru pada artikel \"%s\""
+
+#: inc/mail.php:87
+msgid "Welcome to the website"
+msgstr "Selamat datang di situs web"
+
+#: inc/mail.php:88
+msgid "This is an email notification of your successful registration"
+msgstr ""
+"Ini adalah email yang memberitahukan Anda bahwa Anda telah berhasil mendaftar"
+
+#: inc/media.php:242
+msgid "GD Library does not support AVIF images"
+msgstr "Pustaka GD tidak mendukung gambar AVIF"
+
+#: inc/media.php:245
+msgid "GD Library is not installed"
+msgstr "Perpustakaan GD tidak diinstal"
+
+#: inc/media.php:778
+msgid "Media"
+msgstr "Perpustakaan"
+
+#: inc/media.php:786 main/page/5media.php:80
+msgid "Enable JPG image compression"
+msgstr "Aktifkan kompresi gambar JPG"
+
+#: inc/media.php:796
+msgid "Enable WEBP image compression"
+msgstr "Aktifkan kompresi gambar WEBP"
+
+#: inc/media.php:806
+msgid "Allows uploading AVIF photos"
+msgstr "Memungkinkan mengunggah foto AVIF"
+
+#: inc/media.php:816
+msgid "Enable AVIF image compression"
+msgstr "Aktifkan kompresi gambar AVIF"
+
+#: inc/media.php:826
+msgid "Enable image size limitation"
+msgstr "Aktifkan batas ukuran"
+
+#: inc/media.php:836
+msgid "Enable watermarks"
+msgstr "Aktifkan tanda air"
+
+#: inc/media.php:846
+msgid "Enable picture frame"
+msgstr "Aktifkan bingkai foto"
+
+#: inc/media.php:912
+msgid "Settings changed"
+msgstr "Pengaturan diubah"
+
+#: inc/media.php:914
+msgid "Failed to update setting:"
+msgstr "Pembaruan gagal dipasang:"
+
+#: inc/media.php:918
+msgid "An error occurred"
+msgstr "Telah terjadi kesalahan"
+
+#: inc/notify.php:24
+msgid "Ad-blocker detection"
+msgstr "Mendeteksi pemblokir iklan"
+
+#: inc/notify.php:25
+msgid ""
+"Please disable ad-blocker on your browser to access and view the content"
+msgstr ""
+"Harap matikan pemblokir iklan browser Anda untuk mengakses dan melihat konten"
+
+#: inc/notify.php:36 inc/notify.php:87
+msgid "Agree"
+msgstr "Setuju"
+
+#: inc/notify.php:50
+msgid "You havent added content yet"
+msgstr "Anda belum menambahkan konten"
+
+#: inc/notify.php:73
+msgid "Cookies"
+msgstr "Cookie"
+
+#: inc/notify.php:74
+msgid ""
+"This website uses cookies to ensure you get the best experience on our site. "
+"By continuing to browse, you agree to our use of cookies. For more "
+"information, please read our Cookie Policy"
+msgstr ""
+"Situs web ini menggunakan cookie untuk memastikan Anda mendapatkan "
+"pengalaman terbaik di situs kami. Dengan terus menjelajah, Anda menyetujui "
+"penggunaan cookie kami. Untuk informasi lebih lanjut, silakan baca Kebijakan "
+"Cookie kami"
+
+#: inc/notify.php:86
+msgid "Policy"
+msgstr "Kebijakan"
+
+#: inc/notify.php:106
+msgid "Hello"
+msgstr "Halo"
+
+#: inc/post.php:160
+msgid "Invalid request state"
+msgstr "Status permintaan tidak valid"
+
+#: inc/post.php:163
+msgid "Security check failed"
+msgstr "Pemeriksaan keamanan gagal"
+
+#: inc/post.php:173
+msgid "Modifying settings is not allowed"
+msgstr "Modifikasi pengaturan tidak diperbolehkan"
+
+#: inc/post.php:185
+msgid "Duplicate"
+msgstr "Klon"
+
+#: inc/post.php:200
+msgid "(duplicate)"
+msgstr "(dikloning)"
+
+#: inc/scuri.php:11
+msgid "You are not logged in"
+msgstr "Anda belum masuk"
+
+#: inc/scuri.php:74
+msgid "Unable to determine image format"
+msgstr "Tidak dapat menentukan format gambar"
+
+#: inc/scuri.php:81
+msgid ""
+"I am sorry, you can only upload image files in the formats .GIF, .JPG, ."
+"PNG, .WEBP, .SVG"
+msgstr ""
+"Sayangnya, Anda hanya dapat mengunggah file gambar dalam format .GIF, .JPG, ."
+"PNG, .WEBP, .SVG"
+
+#: inc/search.php:357
+msgid "Enter keywords to search"
+msgstr "Masukkan kata kunci untuk dicari"
+
+#: inc/search.php:358
+msgid "Search"
+msgstr "Menemukan"
+
+#: inc/search.php:364
+msgid "No results found"
+msgstr "Tidak ada hasil yang ditemukan"
+
+#: inc/shortcode.php:9
+msgid "This content is locked! You need to log in to view"
+msgstr "Konten ini telah dikunci! Anda harus masuk untuk melihat"
+
+#: inc/shortcode.php:75 main/export.php:86
+msgid "Download"
+msgstr "Unduh"
+
+#: inc/shortcode.php:80 main/clean.php:33 main/clean.php:49 main/clean.php:63
+#: main/clean.php:70 main/gindex.php:67
+msgid "Please wait"
+msgstr "Harap tunggu"
+
+#: inc/shortcode.php:80
+msgid "Continue"
+msgstr "Melanjutkan"
+
+#: inc/toc.php:35
+msgid "Table of Contents"
+msgstr "Indeks"
+
+#: inc/toc.php:193
+msgid "TOC Settings"
+msgstr "Pengaturan TOC"
+
+#: inc/toc.php:204
+msgid "Enabled TOC"
+msgstr "Diaktifkan TOC"
+
+#: inc/toc.php:208
+msgid "Disabled TOC"
+msgstr "Dinonaktifkan TOC"
+
+#: inc/tool.php:95
+msgid "Classic editing"
+msgstr "Penyusunan klasik"
+
+#: inc/tool.php:96
+msgid "Editor classic"
+msgstr "Penyusunan klasik"
+
+#: inc/tool.php:117
+msgid "Classic Editor"
+msgstr "Editor klasik"
+
+#: inc/tool.php:163
+msgid "You have successfully copied"
+msgstr "Anda telah berhasil menyalin"
+
+#: inc/user.php:72
+msgid "Upload avatars"
+msgstr "Unggah avatar"
+
+#: inc/user.php:73
+msgid "Delete"
+msgstr "Menghapus"
+
+#: inc/woo.php:29
+msgid "Free!"
+msgstr "Gratis!"
+
+#: inc/woo.php:75
+msgid "From"
+msgstr "Dari"
+
+#: inc/woo.php:76
+msgid "Code orders"
+msgstr "Kode pesanan"
+
+#: inc/woo.php:77
+msgid "Buyer"
+msgstr "Pembeli"
+
+#: inc/woo.php:79
+msgid "Time"
+msgstr "Waktu"
+
+#: main/about.php:18 main/page/ft-about1.php:4
+msgid "ABOUT"
+msgstr "ABOUT"
+
+#: main/about.php:19 main/page/ft-about2.php:4
+msgid "DATABASE"
+msgstr "DATABASE"
+
+#: main/about.php:43
+msgid "About"
+msgstr "Informasi"
+
+#: main/admin.php:20 main/page/1speed.php:4
+msgid "OPTIMIZE"
+msgstr "OPTIMIZE"
+
+#: main/admin.php:21 main/page/2scuri.php:4
+msgid "SECURITY"
+msgstr "SECURITY"
+
+#: main/admin.php:22 main/page/3tool.php:4
+msgid "TOOL"
+msgstr "TOOL"
+
+#: main/admin.php:23 main/page/4main.php:4
+msgid "DISPLAY"
+msgstr "DISPLAY"
+
+#: main/admin.php:24 main/clean.php:20 main/clean.php:57 main/page/5media.php:4
+msgid "MEDIA"
+msgstr "MEDIA"
+
+#: main/admin.php:25 main/clean.php:18 main/clean.php:25 main/page/6post.php:4
+msgid "CONTENT"
+msgstr "CONTENT"
+
+#: main/admin.php:26 main/page/7mail.php:4
+msgid "MAIL"
+msgstr "MAIL"
+
+#: main/admin.php:27
+msgid "WOO"
+msgstr "WOO"
+
+#: main/admin.php:28 main/page/9user.php:4
+msgid "USER"
+msgstr "USER"
+
+#: main/admin.php:29 main/page/10custom.php:4
+msgid "CUSTOM"
+msgstr "CUSTOM"
+
+#: main/admin.php:30 main/page/11google.php:4
+msgid "GOOGLE"
+msgstr "GOOGLE"
+
+#: main/admin.php:31 main/page/12chat.php:4
+msgid "CHAT"
+msgstr "CHAT"
+
+#: main/admin.php:32 main/gindex.php:20 main/gindex.php:73
+#: main/page/ft-setting.php:4
+msgid "SETTING"
+msgstr "SETTING"
+
+#: main/admin.php:94 main/ads.php:142 main/code.php:95 main/debug.php:78
+#: main/extend.php:217 main/font.php:131 main/gindex.php:118
+#: main/notify.php:203 main/redirects.php:130 main/search.php:210
+#: main/shortcode.php:175 main/toc.php:288
+msgid "SAVE CONTENT"
+msgstr "SIMPAN KONTEN"
+
+#: main/admin.php:134
+msgid "Overview"
+msgstr "Ringkasan"
+
+#: main/ads.php:19 main/ads.php:34
+msgid "CLICK"
+msgstr "CLICK"
+
+#: main/ads.php:20 main/ads.php:71
+msgid "ADSENSE"
+msgstr "ADSENSE"
+
+#: main/ads.php:21 main/ads.php:124
+msgid "ADS.TXT"
+msgstr "ADS.TXT"
+
+#: main/ads.php:36
+msgid "Ads appear when clicking on the website"
+msgstr "Iklan muncul ketika mengklik website"
+
+#: main/ads.php:41
+msgid "Enable annoying ads"
+msgstr "Mengaktifkan iklan yang mengganggu"
+
+#: main/ads.php:47
+msgid "Enable minimize the window"
+msgstr "Aktifkan perkecil jendela"
+
+#: main/ads.php:51
+msgid "Ads display after (.. hours)"
+msgstr "Iklan tampil setelah (.. jam)"
+
+#: main/ads.php:61
+msgid "Action taken"
+msgstr "Bertindak"
+
+#: main/ads.php:64
+msgid "Enter ad links per line"
+msgstr "Masukkan tautan promosi di setiap baris"
+
+#: main/ads.php:66
+msgid ""
+"Enable and enter ad links you want, each on a separate line, for automatic "
+"rotation each time a user visits"
+msgstr ""
+"Aktifkan dan masukkan tautan iklan yang Anda inginkan, masing-masing pada "
+"baris terpisah, untuk dirotasi secara otomatis setiap kali pengguna "
+"berkunjung"
+
+#: main/ads.php:73
+msgid "Set up Adsense ads"
+msgstr "Siapkan iklan Adsense"
+
+#: main/ads.php:78
+msgid "Enable Adsense"
+msgstr "Aktifkan AdSense"
+
+#: main/ads.php:81
+msgid "Enter Adsense code here"
+msgstr "Masukkan kode Adsense di sini"
+
+#: main/ads.php:83
+msgid "Option to display ads in custom posts"
+msgstr "Pilihan untuk menampilkan iklan di postingan khusus"
+
+#: main/ads.php:103
+msgid "Select the custom post for which you want to show ads"
+msgstr "Pilih postingan khusus yang ingin Anda tampilkan iklannya"
+
+#: main/ads.php:104
+msgid "Top and bottom positions"
+msgstr "Posisi atas dan bawah"
+
+#: main/ads.php:106
+msgid "Add ads to the top of the article"
+msgstr "Tambahkan iklan ke bagian atas artikel"
+
+#: main/ads.php:109
+msgid "Add ads at the bottom of the article"
+msgstr "Tambahkan iklan di bagian bawah artikel"
+
+#: main/ads.php:111
+msgid "Custom position in posts"
+msgstr "Posisi khusus dalam postingan"
+
+#: main/ads.php:113 main/toc.php:182
+msgid "Tag"
+msgstr "Tag"
+
+#: main/ads.php:114
+msgid "Quantity"
+msgstr "Kuantitas"
+
+#: main/ads.php:116
+msgid "Enter the tag and tag number for the ad to appear"
+msgstr "Masukkan tag dan nomor tag agar iklan dapat ditampilkan"
+
+#: main/ads.php:118
+msgid "Add ads to custom post placement"
+msgstr "Tambahkan iklan ke penempatan posting khusus"
+
+#: main/ads.php:126
+msgid "Set up the ads.txt file"
+msgstr "Siapkan file ads.txt"
+
+#: main/ads.php:131
+msgid "Enable ads.txt"
+msgstr "Aktifkan ads.txt"
+
+#: main/ads.php:133
+msgid "You can preview your file here:"
+msgstr "Anda dapat melihat pratinjau file Anda di sini:"
+
+#: main/ads.php:134
+msgid ""
+"For an Nginx server, if the ads.txt file already exists in the root "
+"directory of the website, it will prioritize the static file, so this "
+"function will not work. If you want to use it, you can either configure "
+"Nginx or delete the static file before proceeding"
+msgstr ""
+"Untuk server Nginx, jika file ads.txt sudah ada di direktori root website, "
+"maka akan memprioritaskan file statis, sehingga fungsi ini tidak akan "
+"berfungsi. Jika Anda ingin menggunakannya, Anda dapat mengkonfigurasi Nginx "
+"atau menghapus file statis sebelum melanjutkan"
+
+#: main/ads.php:137 main/code.php:59 main/code.php:69 main/code.php:79
+#: main/code.php:89
+msgid "Enter code here"
+msgstr "Masukkan kode di sini"
+
+#: main/ads.php:178 main/extend.php:126
+msgid "Ads"
+msgstr "Iklan"
+
+#: main/clean.php:19 main/clean.php:40
+msgid "COMMENT"
+msgstr "COMMENT"
+
+#: main/clean.php:27
+msgid "Optimize deletion of content in the database"
+msgstr "Penghapusan konten dalam database yang dioptimalkan"
+
+#: main/clean.php:29
+msgid "Delete revisions"
+msgstr "Hapus revisi"
+
+#: main/clean.php:30
+msgid "Delete autosaves"
+msgstr "Hapus penyimpanan otomatis"
+
+#: main/clean.php:31
+msgid "Empty trash"
+msgstr "Kosongkan tempat sampah"
+
+#: main/clean.php:35
+msgid ""
+"Delete revisions, delete autosaves, delete content (posts, pages, "
+"products...) in the trash"
+msgstr ""
+"Hapus revisi, hapus penyimpanan otomatis, hapus konten (postingan, halaman, "
+"produk...) di tempat sampah"
+
+#: main/clean.php:42
+msgid "Delete comments"
+msgstr "Hapus komentar"
+
+#: main/clean.php:44
+msgid "Pending"
+msgstr "Menunggu persetujuan"
+
+#: main/clean.php:45
+msgid "Spam"
+msgstr "Spam"
+
+#: main/clean.php:46
+msgid "Trash"
+msgstr "Tempat sampah"
+
+#: main/clean.php:47
+msgid "Content links"
+msgstr "Konten memiliki tautan"
+
+#: main/clean.php:51
+msgid ""
+"Note: deleting \"Content links\" will delete all comments that have a link "
+"in the body or url input field"
+msgstr ""
+"Catatan: menghapus \"Konten tertaut\" akan menghapus semua komentar dengan "
+"tautan di bidang konten atau url"
+
+#: main/clean.php:59
+msgid "Find and delete all 404 images in media"
+msgstr "Temukan dan hapus semua 404 gambar di galeri"
+
+#: main/clean.php:61
+msgid "Delete all 404 images"
+msgstr "Hapus semua gambar 404"
+
+#: main/clean.php:65
+msgid "Delete 404 images that do not exist saved in the database"
+msgstr "Hapus 404 gambar yang tidak ada tersimpan di database"
+
+#: main/clean.php:66
+msgid "Find and delete all 404 thumbnail images in media"
+msgstr "Temukan dan hapus semua gambar mini 404 di media"
+
+#: main/clean.php:68
+msgid "Delete all 404 thumbnail images"
+msgstr "Hapus semua gambar mini 404"
+
+#: main/clean.php:72
+msgid "Delete 404 thumbnails that do not exist and are stored in the database"
+msgstr "Hapus 404 thumbnail yang tidak ada dan tersimpan di database"
+
+#: main/clean.php:73
+msgid "Delete cropped image"
+msgstr "Hapus gambar yang dipotong"
+
+#: main/clean.php:92
+msgid ""
+"Exercise caution when using this feature, as your interface may require "
+"various sizes to display properly. If youre a web designer, youll understand "
+"the need for a variety of sizes to be utilized"
+msgstr ""
+"Berhati-hatilah saat menggunakan fitur ini karena tema Anda mungkin "
+"memerlukan ukuran berbeda untuk ditampilkan dengan benar. Jika Anda seorang "
+"desainer web, Anda akan memahami perlunya menggunakan berbagai ukuran"
+
+#: main/clean.php:118
+msgid "All revisions have been deleted"
+msgstr "Semua hasil edit telah dihapus"
+
+#: main/clean.php:122 main/clean.php:143 main/clean.php:164 main/clean.php:185
+#: main/clean.php:206 main/clean.php:227 main/clean.php:250 main/clean.php:274
+#: main/clean.php:295
+msgid "Error! Unable to delete"
+msgstr "Kesalahan! Tidak dapat dihapus"
+
+#: main/clean.php:139
+msgid "All autosaves have been deleted"
+msgstr "Semua penyimpanan otomatis telah dihapus"
+
+#: main/clean.php:160
+msgid "All items in the trash have been deleted"
+msgstr "Semua item di sampah telah dihapus"
+
+#: main/clean.php:181
+msgid "Delete pending comment: "
+msgstr "Hapus komentar yang tertunda: "
+
+#: main/clean.php:202
+msgid "Delete spam comments: "
+msgstr "Hapus komentar spam: "
+
+#: main/clean.php:223
+msgid "Delete comments in trash: "
+msgstr "Hapus komentar di sampah: "
+
+#: main/clean.php:233 main/clean.php:303
+msgid "Enter from foxtool to confirm deletion:"
+msgstr "Masuk dari foxtool untuk mengonfirmasi penghapusan:"
+
+#: main/clean.php:246
+msgid "Delete comments containing links: "
+msgstr "Hapus komentar dengan tautan: "
+
+#: main/clean.php:254 main/clean.php:319
+msgid "Entering incorrect content"
+msgstr "Memasukkan konten yang salah"
+
+#: main/clean.php:270 main/clean.php:291
+msgid "Number of images 404 deleted: "
+msgstr "Jumlah 404 gambar yang dihapus: "
+
+#: main/clean.php:330 main/extend.php:51
+msgid "Clean"
+msgstr "Membersihkan"
+
+#: main/code.php:20 main/code.php:37
+msgid "CSS"
+msgstr "CSS"
+
+#: main/code.php:21 main/code.php:55
+msgid "WP HEAD"
+msgstr "WP HEAD"
+
+#: main/code.php:22 main/code.php:65
+msgid "WP BODY"
+msgstr "WP BODY"
+
+#: main/code.php:23 main/code.php:75
+msgid "WP FOOTER"
+msgstr "WP FOOTER"
+
+#: main/code.php:24 main/code.php:85
+msgid "WP LOGIN"
+msgstr "WP LOGIN"
+
+#: main/code.php:39
+msgid "Add CSS to your website"
+msgstr "Tambahkan CSS ke situs web Anda"
+
+#: main/code.php:41 main/code.php:45 main/code.php:49
+msgid "Enter CSS here"
+msgstr "Masukkan CSS di sini"
+
+#: main/code.php:43
+msgid "Add CSS for tablet size"
+msgstr "Tambahkan CSS untuk ukuran tablet"
+
+#: main/code.php:47
+msgid "Add CSS for mobile size"
+msgstr "Tambahkan CSS untuk ukuran seluler"
+
+#: main/code.php:57
+msgid "Add code to WP head"
+msgstr "Tambahkan kode ke kepala WP"
+
+#: main/code.php:67
+msgid "Add code to WP body"
+msgstr "Tambahkan kode ke badan WP"
+
+#: main/code.php:77
+msgid "Add code to WP footer"
+msgstr "Tambahkan kode ke footer WP"
+
+#: main/code.php:87
+msgid "Add code to WP login"
+msgstr "Tambahkan kode ke login WP"
+
+#: main/code.php:136 main/extend.php:36
+msgid "Add code"
+msgstr "Kode"
+
+#: main/completed.php:4
+msgid "Completed"
+msgstr "Menyelesaikan"
+
+#: main/completed.php:5
+msgid "Your configuration has been saved"
+msgstr "Konfigurasi Anda telah disimpan"
+
+#: main/completed.php:6
+msgid "OK"
+msgstr "OK"
+
+#: main/debug.php:19 main/debug.php:32
+msgid "DEBUG"
+msgstr "DEBUG"
+
+#: main/debug.php:34
+msgid "Debug settings"
+msgstr "Pengaturan debug"
+
+#: main/debug.php:39
+msgid "Enable WP_DEBUG"
+msgstr "Aktifkan WP_DEBUG"
+
+#: main/debug.php:45
+msgid "Enable WP_DEBUG_LOG"
+msgstr "Aktifkan WP_DEBUG_LOG"
+
+#: main/debug.php:51
+msgid "Enable WP_DEBUG_DISPLAY"
+msgstr "Aktifkan WP_DEBUG_DISPLAY"
+
+#: main/debug.php:60
+msgid "Clear all"
+msgstr "Hapus semua"
+
+#: main/debug.php:61
+msgid "Refresh"
+msgstr "Menyegarkan"
+
+#: main/debug.php:68
+msgid "The debug file does not exist"
+msgstr "File debug tidak ada"
+
+#: main/debug.php:71
+msgid "Debug is not enabled"
+msgstr "Proses debug tidak diaktifkan"
+
+#: main/debug.php:116
+msgid "Cleaned the screen"
+msgstr "Membersihkan layar"
+
+#: main/debug.php:119
+msgid "Error cannot be cleaned"
+msgstr "Kesalahan tidak dapat dibersihkan"
+
+#: main/debug.php:125
+msgid "Screen refreshed"
+msgstr "Layar telah disegarkan"
+
+#: main/debug.php:151 main/extend.php:186
+msgid "Debug"
+msgstr "Debug"
+
+#: main/export.php:41 main/export.php:80
+msgid "FOXTOOL"
+msgstr "FOXTOOL"
+
+#: main/export.php:71
+msgid "New configuration has been successfully added"
+msgstr "Konfigurasi baru telah berhasil ditambahkan"
+
+#: main/export.php:73
+msgid "Invalid data"
+msgstr "Data tidak valid"
+
+#: main/export.php:82 main/export.php:166 main/extend.php:201
+msgid "Export"
+msgstr "Keluaran"
+
+#: main/export.php:87
+msgid "Import"
+msgstr "Impor"
+
+#: main/export.php:89
+msgid "Enter data here"
+msgstr "Masukkan data di sini"
+
+#: main/export.php:92
+msgid "Upload"
+msgstr "Mengunggah"
+
+#: main/export.php:95
+msgid "IMPORT FOXTOOL DATA"
+msgstr "IMPOR DATA FOXTOOL"
+
+#: main/export.php:130
+msgid "The textarea is empty"
+msgstr "Area teksnya kosong"
+
+#: main/export.php:149
+msgid "The uploaded file is not a valid JSON format"
+msgstr "File yang diunggah bukan format JSON yang valid"
+
+#: main/export.php:154
+msgid "Please upload a valid JSON file"
+msgstr "Harap unggah file JSON yang valid"
+
+#: main/extend.php:19 main/extend.php:32
+msgid "FREE"
+msgstr "FREE"
+
+#: main/extend.php:45 main/extend.php:60 main/extend.php:75 main/extend.php:90
+#: main/extend.php:105 main/extend.php:120 main/extend.php:135
+#: main/extend.php:150 main/extend.php:165 main/extend.php:180
+#: main/extend.php:195 main/extend.php:210
+msgid "Free"
+msgstr "Bebas"
+
+#: main/extend.php:46
+msgid ""
+"This feature allows you to add CSS, JS, and HTML code to your WordPress site "
+"through hooks like WP head, WP body, WP footer, and WP login, making it easy "
+"and convenient to supplement your code"
+msgstr ""
+"Fitur ini memungkinkan Anda untuk menambahkan kode CSS, JS, dan HTML ke "
+"situs WordPress Anda melalui hook seperti WP head, WP body, WP footer, dan "
+"login WP, sehingga memudahkan dan nyaman untuk melengkapi kode Anda."
+
+#: main/extend.php:61
+msgid ""
+"This feature helps optimize cleanup tasks such as clearing content, "
+"comments, and the media library. It makes your website cleaner and more "
+"optimized"
+msgstr ""
+"Fitur ini membantu mengoptimalkan tugas pembersihan seperti membersihkan "
+"konten, komentar, dan perpustakaan media. Itu membuat situs web Anda lebih "
+"bersih dan lebih optimal"
+
+#: main/extend.php:66 main/font.php:201
+msgid "Font"
+msgstr "huruf"
+
+#: main/extend.php:76
+msgid ""
+"Add fonts to your website with just a few simple steps. Additionally, it "
+"allows you to quickly set fonts in the specific areas you want to change, "
+"offering great convenience"
+msgstr ""
+"Tambahkan font ke situs web Anda hanya dengan beberapa langkah sederhana. "
+"Selain itu, ini memungkinkan Anda dengan cepat mengatur font di area "
+"tertentu yang ingin Anda ubah, sehingga menawarkan kemudahan yang luar biasa"
+
+#: main/extend.php:81 main/redirects.php:205
+msgid "Redirects"
+msgstr "Pengalihan"
+
+#: main/extend.php:91
+msgid ""
+"This feature allows you to configure website redirects with multiple options "
+"such as 301, 404, and 503, making management much simpler"
+msgstr ""
+"Fitur ini memungkinkan Anda mengonfigurasi pengalihan situs web dengan "
+"beberapa opsi seperti 301, 404, dan 503, membuat pengelolaan menjadi lebih "
+"sederhana"
+
+#: main/extend.php:106
+msgid ""
+"Leverage Google’s Indexing API to speed up the indexing of your website on "
+"Google’s search engine. You can add as many API keys as you like for "
+"unlimited indexing capacity"
+msgstr ""
+"Manfaatkan Indexing API Google untuk mempercepat pengindeksan situs web Anda "
+"di mesin pencari Google. Anda dapat menambahkan kunci API sebanyak yang Anda "
+"inginkan untuk kapasitas pengindeksan tanpa batas"
+
+#: main/extend.php:111 main/toc.php:19 main/toc.php:32 main/toc.php:324
+msgid "TOC"
+msgstr "TOC"
+
+#: main/extend.php:121
+msgid ""
+"The table of contents is an incredibly useful feature that allows readers to "
+"easily grasp the content by summarizing the headings (h-tags) in the article"
+msgstr ""
+"Daftar isi adalah fitur yang sangat berguna yang memungkinkan pembaca "
+"memahami konten dengan mudah dengan merangkum judul (h-tag) dalam artikel"
+
+#: main/extend.php:136
+msgid ""
+"To add advertisements to your website, simply enable this feature. It "
+"provides you with various ad options to meet your distribution needs"
+msgstr ""
+"Untuk menambahkan iklan ke situs web Anda, cukup aktifkan fitur ini. Ini "
+"memberi Anda berbagai opsi iklan untuk memenuhi kebutuhan distribusi Anda"
+
+#: main/extend.php:141 main/notify.php:239
+msgid "Notify"
+msgstr "Memberitahu"
+
+#: main/extend.php:151
+msgid ""
+"Support quick notification setup, allowing web managers to easily deliver "
+"useful and timely content, helping users stay informed effortlessly"
+msgstr ""
+"Mendukung pengaturan notifikasi cepat, memungkinkan pengelola web "
+"mengirimkan konten yang berguna dan tepat waktu dengan mudah, membantu "
+"pengguna tetap mendapatkan informasi dengan mudah"
+
+#: main/extend.php:156 main/shortcode.php:211
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: main/extend.php:166
+msgid ""
+"This feature compiles various shortcode templates with essential "
+"functionalities that are frequently used to enhance the user experience in "
+"WordPress"
+msgstr ""
+"Fitur ini mengkompilasi berbagai templat kode pendek dengan fungsi penting "
+"yang sering digunakan untuk meningkatkan pengalaman pengguna di WordPress"
+
+#: main/extend.php:171 main/search.php:246
+msgid "Fox Search"
+msgstr "Fox Search"
+
+#: main/extend.php:181
+msgid ""
+"If youre tired of WordPress default search tool because its too slow, try "
+"out our lightning-fast search feature to give your users an exceptional and "
+"speedy search experience"
+msgstr ""
+"Jika Anda bosan dengan alat pencarian default WordPress karena terlalu "
+"lambat, cobalah fitur pencarian secepat kilat kami untuk memberikan "
+"pengalaman pencarian yang luar biasa dan cepat kepada pengguna Anda."
+
+#: main/extend.php:196
+msgid ""
+"If you need to monitor WordPress debug files without accessing the file "
+"manager, this tool is made just for that purpose"
+msgstr ""
+"Jika Anda perlu memantau file debug WordPress tanpa mengakses pengelola "
+"file, alat ini dibuat hanya untuk tujuan itu"
+
+#: main/extend.php:211
+msgid ""
+"If you want to export or import the settings of the Foxtool plugin, enable "
+"this feature. It allows you to easily transfer configurations from this site "
+"to another"
+msgstr ""
+"Jika Anda ingin mengekspor atau mengimpor pengaturan plugin Foxtool, "
+"aktifkan fitur ini. Ini memungkinkan Anda dengan mudah mentransfer "
+"konfigurasi dari situs ini ke situs lain"
+
+#: main/extend.php:271
+msgid "Extend"
+msgstr "Memperpanjang"
+
+#: main/font.php:21 main/font.php:39
+msgid "ADD FONT"
+msgstr "ADD FONT"
+
+#: main/font.php:22 main/font.php:88
+msgid "USE FONT"
+msgstr "USE FONT"
+
+#: main/font.php:28
+msgid "Upload font success"
+msgstr "Pengunggahan font berhasil"
+
+#: main/font.php:30
+msgid "Upload font error"
+msgstr "Terjadi kesalahan saat memuat font"
+
+#: main/font.php:41
+msgid "Add fonts"
+msgstr "Tambahkan font"
+
+#: main/font.php:43
+msgid "Name the font"
+msgstr "Beri nama fontnya"
+
+#: main/font.php:47
+msgid "BROWSE FILE"
+msgstr "JELAJAHI FILE"
+
+#: main/font.php:48
+msgid "Accepted Font Format : woff2, ttf, otf, off | Font Size: Upto 25 MB"
+msgstr ""
+"Format font yang diterima: woff2, ttf, otf, off | Ukuran font: Maksimal 25 MB"
+
+#: main/font.php:51
+msgid "UPLOAD FONT"
+msgstr "UNGGAH FONT"
+
+#: main/font.php:62
+msgid "font-family:"
+msgstr "font-family:"
+
+#: main/font.php:66
+msgid "Do you want to delete?"
+msgstr "Apakah Anda ingin menghapus?"
+
+#: main/font.php:90
+msgid "Use fonts on the web"
+msgstr "Gunakan font web"
+
+#: main/font.php:94 main/font.php:95 main/font.php:96 main/font.php:97
+#: main/font.php:98 main/font.php:99 main/font.php:100 main/font.php:101
+#: main/font.php:102 main/font.php:103 main/font.php:104 main/font.php:105
+#: main/font.php:106 main/font.php:107
+msgid "Choose a font for the"
+msgstr "Pilih font untuk"
+
+#: main/gindex.php:19 main/gindex.php:33 main/gindex.php:63
+msgid "INDEX"
+msgstr "INDEX"
+
+#: main/gindex.php:35
+msgid "Enter manually"
+msgstr "Masukkan secara manual"
+
+#: main/gindex.php:55
+msgid "Total:"
+msgstr "Total:"
+
+#: main/gindex.php:56
+msgid "Use:"
+msgstr "Menggunakan:"
+
+#: main/gindex.php:57
+msgid "Still:"
+msgstr "Tetap:"
+
+#: main/gindex.php:61
+msgid "Enter the url"
+msgstr "Masukkan urlnya"
+
+#: main/gindex.php:64
+msgid "DEL"
+msgstr "DEL"
+
+#: main/gindex.php:65
+msgid "CHECK"
+msgstr "CHECK"
+
+#: main/gindex.php:75
+msgid "Configure Google index API"
+msgstr "Konfigurasikan API indeks Google"
+
+#: main/gindex.php:95
+msgid ""
+"The \"Index Now\" link will be added in the custom post management section "
+"to allow quick index submission"
+msgstr ""
+"Tautan \"Indeks Sekarang\" akan ditambahkan di bagian manajemen pos khusus "
+"untuk memungkinkan pengiriman indeks dengan cepat"
+
+#: main/gindex.php:96
+msgid "Add Google json code"
+msgstr "Tambahkan kode Google json"
+
+#: main/gindex.php:99 main/gindex.php:107 main/gindex.php:209
+msgid "Enter json"
+msgstr "Impor json"
+
+#: main/gindex.php:115
+msgid "Add json"
+msgstr "Tambahkan json"
+
+#: main/notify.php:19 main/notify.php:35
+msgid "BLOCKER"
+msgstr "BLOCKER"
+
+#: main/notify.php:20 main/notify.php:69
+msgid "NOTIFY"
+msgstr "NOTIFY"
+
+#: main/notify.php:21 main/notify.php:90
+msgid "POPUP"
+msgstr "POPUP"
+
+#: main/notify.php:22 main/notify.php:167
+msgid "COOKIE"
+msgstr "COOKIE"
+
+#: main/notify.php:37
+msgid "Browser ad-block notification"
+msgstr "Pemberitahuan pemblokiran iklan browser"
+
+#: main/notify.php:42
+msgid "Enable ad-block detection"
+msgstr "Aktifkan deteksi pemblokiran iklan"
+
+#: main/notify.php:48
+msgid "Only notify, do not block access"
+msgstr "Hanya notifikasi, tidak ada pemblokiran akses"
+
+#: main/notify.php:52 main/page/12chat.php:157 main/shortcode.php:153
+msgid "Select button color"
+msgstr "Pilih warna tombol"
+
+#: main/notify.php:56 main/shortcode.php:157
+msgid "Select button border color"
+msgstr "Pilih warna batas tombol"
+
+#: main/notify.php:59 main/notify.php:130 main/redirects.php:122
+msgid "Enter title"
+msgstr "Masukkan judul"
+
+#: main/notify.php:62 main/notify.php:83 main/page/3tool.php:102
+#: main/redirects.php:125
+msgid "Enter content here"
+msgstr "Masukkan konten di sini"
+
+#: main/notify.php:64
+msgid ""
+"Enter the title and content you want to display when ad-blocker is detected"
+msgstr ""
+"Masukkan judul dan konten yang ingin Anda tampilkan ketika pemblokir iklan "
+"terdeteksi"
+
+#: main/notify.php:71
+msgid "Notification at the top of the page"
+msgstr "Perhatikan di bagian atas halaman"
+
+#: main/notify.php:76
+msgid "Enable notification"
+msgstr "Aktifkan notifikasi"
+
+#: main/notify.php:80
+msgid "Select background color"
+msgstr "Pilih warna latar belakang"
+
+#: main/notify.php:85
+msgid ""
+"Enter the content you want to display in the notification, and customize the "
+"colors to match your preferences. A notification will appear at the top of "
+"your website, making it easy for users to see"
+msgstr ""
+"Masukkan konten yang ingin Anda tampilkan di notifikasi, dan sesuaikan "
+"warnanya agar sesuai dengan preferensi Anda. Notifikasi akan muncul di "
+"bagian atas website Anda, sehingga memudahkan pengguna untuk melihatnya"
+
+#: main/notify.php:92
+msgid "Create an outstanding popup"
+msgstr "Buat popup yang luar biasa"
+
+#: main/notify.php:97
+msgid "Enable popup"
+msgstr "Aktifkan popup"
+
+#: main/notify.php:101
+msgid "Popup save time (.. hours)"
+msgstr "Popup menghemat waktu (..jam)"
+
+#: main/notify.php:126
+msgid "Add images"
+msgstr "Tambahkan gambar"
+
+#: main/notify.php:127 main/page/10custom.php:39 main/page/10custom.php:64
+#: main/page/10custom.php:148 main/page/5media.php:190 main/page/5media.php:233
+#: main/page/6post.php:42
+msgid "Select image"
+msgstr "Pilih foto"
+
+#: main/notify.php:149
+msgid "Enter image link"
+msgstr "Masukkan tautan gambar"
+
+#: main/notify.php:154 main/page/10custom.php:116 main/page/12chat.php:206
+#: main/page/4main.php:97 main/shortcode.php:165 main/toc.php:249
+msgid "Border radius"
+msgstr "Berbatasan"
+
+#: main/notify.php:159 main/page/5media.php:140
+msgid "Max width"
+msgstr "Lebar maksimum"
+
+#: main/notify.php:162
+msgid ""
+"Enter the content you want to display and configure the customizations above "
+"so the popup can appear when users visit your website"
+msgstr ""
+"Masukkan konten yang ingin Anda tampilkan dan konfigurasikan kustomisasi di "
+"atas agar popup dapat muncul saat pengguna mengunjungi website Anda"
+
+#: main/notify.php:169
+msgid "Set up cookie notifications"
+msgstr "Siapkan pemberitahuan cookie"
+
+#: main/notify.php:174
+msgid "Enable cookie"
+msgstr "Aktifkan kuki"
+
+#: main/notify.php:178
+msgid "Select title color and button"
+msgstr "Pilih warna judul dan tombol"
+
+#: main/notify.php:188 main/page/4main.php:63 main/toc.php:183
+msgid "Location"
+msgstr "Lokasi"
+
+#: main/notify.php:191
+msgid "Enter the policy page link"
+msgstr "Masukkan link halaman kebijakan"
+
+#: main/notify.php:194
+msgid "Enter cookie title"
+msgstr "Masukkan judul cookie"
+
+#: main/notify.php:197
+msgid "Enter cookie content"
+msgstr "Masukkan konten cookie"
+
+#: main/notify.php:199
+msgid ""
+"Display your cookie notice to inform users about cookie use and allow them "
+"to manage their preferences easily"
+msgstr ""
+"Tampilkan pemberitahuan cookie Anda untuk memberi tahu pengguna tentang "
+"penggunaan cookie dan memungkinkan mereka mengelola preferensi mereka dengan "
+"mudah"
+
+#: main/page/10custom.php:9 main/page/11google.php:9 main/page/12chat.php:9
+#: main/page/1speed.php:9 main/page/2scuri.php:9 main/page/3tool.php:9
+#: main/page/4main.php:9 main/page/5media.php:9 main/page/6post.php:9
+#: main/page/7mail.php:9 main/page/8woo.php:9 main/page/9user.php:9
+msgid "ON/OFF"
+msgstr "HIDUP/MATI"
+
+#: main/page/10custom.php:12
+msgid "Change login link"
+msgstr "Ubah tautan masuk"
+
+#: main/page/10custom.php:18
+msgid "Enable for use"
+msgstr "Aktifkan untuk digunakan"
+
+#: main/page/10custom.php:21
+msgid "Enter a suffix"
+msgstr "Masukkan akhiran"
+
+#: main/page/10custom.php:23
+msgid "Enable this feature and enter the login link suffix"
+msgstr "Aktifkan fitur ini dan masukkan akhiran tautan login"
+
+#: main/page/10custom.php:24
+msgid "Example: domain.com/wp-admin where wp-admin is the suffix"
+msgstr "Misalnya: domain.com/wp-admin dengan wp-admin sebagai akhiran"
+
+#: main/page/10custom.php:25
+msgid "Login link:"
+msgstr "Tautan masuk:"
+
+#: main/page/10custom.php:28
+msgid "Custom WordPress login page"
+msgstr "Sesuaikan halaman login WordPress"
+
+#: main/page/10custom.php:33
+msgid "Enable custom functionality"
+msgstr "Aktifkan fungsionalitas khusus"
+
+#: main/page/10custom.php:34
+msgid "Enable this feature to be able to use the customizations below"
+msgstr "Aktifkan fitur ini untuk dapat menggunakan penyesuaian di bawah"
+
+#: main/page/10custom.php:36
+msgid "Select the displayed logo"
+msgstr "Pilih logo yang akan ditampilkan"
+
+#: main/page/10custom.php:38
+msgid "Add the image logo link here"
+msgstr "Tambahkan tautan logo gambar di sini"
+
+#: main/page/10custom.php:41
+msgid "The standard size for the logo is 280x80 PX"
+msgstr "Ukuran standar untuk logo adalah 280x80 PX"
+
+#: main/page/10custom.php:43
+msgid "Customize background"
+msgstr "Sesuaikan latar belakang"
+
+#: main/page/10custom.php:53
+msgid "Background"
+msgstr "Latar belakang"
+
+#: main/page/10custom.php:55
+msgid ""
+"None: default not selected, Auto: background image automatically changes "
+"each time the page is loaded, Color: change the color you want, Upload: "
+"upload the background image you want"
+msgstr ""
+"Tidak ada: tidak dipilih secara default, Otomatis: gambar latar belakang "
+"otomatis berubah setiap kali halaman dimuat, Warna: mengubah warna yang Anda "
+"inginkan, Unggah: mengunggah gambar latar belakang yang Anda inginkan"
+
+#: main/page/10custom.php:59 main/page/4main.php:89 main/toc.php:195
+msgid "Background color"
+msgstr "Warna latar belakang"
+
+#: main/page/10custom.php:63
+msgid "Add background image link"
+msgstr "Tambahkan tautan gambar latar belakang"
+
+#: main/page/10custom.php:67
+msgid "Customize elements on the page"
+msgstr "Sesuaikan elemen pada halaman"
+
+#: main/page/10custom.php:74
+msgid "Enable element customization"
+msgstr "Aktifkan penyesuaian elemen"
+
+#: main/page/10custom.php:77
+msgid "You can further customize your login page by enabling this feature"
+msgstr ""
+"Anda dapat menyesuaikan lebih lanjut halaman login Anda dengan mengaktifkan "
+"fitur ini"
+
+#: main/page/10custom.php:81
+msgid "Background color of the input form"
+msgstr "Warna latar belakang formulir masukan"
+
+#: main/page/10custom.php:86
+msgid "Input / select box color"
+msgstr "Masukkan/pilih warna kotak"
+
+#: main/page/10custom.php:91
+msgid "Text color of the input / select box"
+msgstr "Warna teks kotak input/pilih"
+
+#: main/page/10custom.php:96
+msgid "Button color"
+msgstr "Tombol warna"
+
+#: main/page/10custom.php:101
+msgid "Button text color"
+msgstr "Warna teks tombol"
+
+#: main/page/10custom.php:106
+msgid "Display text color"
+msgstr "Tampilkan warna teks"
+
+#: main/page/10custom.php:111
+msgid "Link display color"
+msgstr "Warna tampilan tautan"
+
+#: main/page/10custom.php:123
+msgid "Hide back link"
+msgstr "Sembunyikan tautan kembali"
+
+#: main/page/10custom.php:130
+msgid "Hide language options"
+msgstr "Sembunyikan opsi bahasa"
+
+#: main/page/10custom.php:133
+msgid "Change WordPress logo in the Admin bar"
+msgstr "Ubah logo WordPress di bilah admin"
+
+#: main/page/10custom.php:138
+msgid "Disable logo display"
+msgstr "Matikan tampilan logo"
+
+#: main/page/10custom.php:144
+msgid "Enable logo customization"
+msgstr "Aktifkan penyesuaian logo"
+
+#: main/page/10custom.php:147
+msgid "Add logo link"
+msgstr "Tambahkan tautan logo"
+
+#: main/page/10custom.php:150
+msgid ""
+"The changing image is square, with the standard size being 100x100 pixels"
+msgstr "Gambar yang diubah berbentuk persegi, ukuran standar 100x100 piksel"
+
+#: main/page/10custom.php:152
+msgid "Modify the footer content of WP admin"
+msgstr "Ubah konten footer admin WP"
+
+#: main/page/10custom.php:157
+msgid "Enable custom footer"
+msgstr "Aktifkan footer khusus"
+
+#: main/page/10custom.php:158
+msgid "Enable this feature if you want to customize the footer in the WP admin"
+msgstr ""
+"Aktifkan fitur ini jika Anda ingin melakukan kustomisasi footer di admin WP"
+
+#: main/page/10custom.php:160
+msgid "Please enter the content here"
+msgstr "Silakan masukkan konten di sini"
+
+#: main/page/10custom.php:163
+msgid "Customize dashboard widgets"
+msgstr "Sesuaikan widget dasbor"
+
+#: main/page/10custom.php:165
+msgid "Disable unused widgets"
+msgstr "Matikan widget yang tidak digunakan"
+
+#: main/page/10custom.php:171
+msgid "Disable statistics widget"
+msgstr "Matikan widget statistik"
+
+#: main/page/10custom.php:178
+msgid "Disable WordPress info widget"
+msgstr "Matikan widget informasi WordPress"
+
+#: main/page/10custom.php:185
+msgid "Disable quick draft widget"
+msgstr "Matikan utilitas editor cepat"
+
+#: main/page/10custom.php:192
+msgid "Disable recent posts widget"
+msgstr "Matikan widget posting terbaru"
+
+#: main/page/10custom.php:199
+msgid "Disable welcome widget"
+msgstr "Matikan widget selamat datang"
+
+#: main/page/10custom.php:206
+msgid "Disable health widget"
+msgstr "Matikan widget kesehatan"
+
+#: main/page/10custom.php:208
+msgid "You can disable default widgets on the dashboard that you dont use"
+msgstr ""
+"Anda dapat menonaktifkan widget dashboard default yang tidak Anda gunakan"
+
+#: main/page/10custom.php:210
+msgid "Your custom widget"
+msgstr "Widget khusus Anda"
+
+#: main/page/10custom.php:214
+msgid "Enable custom widget"
+msgstr "Aktifkan widget khusus"
+
+#: main/page/10custom.php:215
+msgid ""
+"You can create your widget by activating it and entering content into the "
+"box below"
+msgstr ""
+"Anda dapat membuat widget dengan mengaktifkannya dan memasukkan konten ke "
+"dalam kotak di bawah"
+
+#: main/page/10custom.php:217
+msgid "Widget title"
+msgstr "Nama utilitas"
+
+#: main/page/11google.php:12
+msgid "Sign in with Google account"
+msgstr "Masuk dengan akun Google Anda"
+
+#: main/page/11google.php:16
+msgid "Enable to use"
+msgstr "Penggunaan diperbolehkan"
+
+#: main/page/11google.php:17
+msgid ""
+"Enable and configure the functions below to enable Google sign-in to work"
+msgstr ""
+"Aktifkan dan konfigurasikan fungsi di bawah ini agar proses masuk dengan "
+"Google dapat berfungsi"
+
+#: main/page/11google.php:21
+msgid ""
+"Copy the link below to add it to the Authorized redirect URLs in your Google "
+"Developers project"
+msgstr ""
+"Salin tautan di bawah untuk menambahkannya ke URL pengalihan resmi di proyek "
+"Google Developers Anda"
+
+#: main/page/11google.php:24
+msgid "Registration role options"
+msgstr "Opsi peran pendaftaran"
+
+#: main/page/11google.php:37 main/page/9user.php:49 main/shortcode.php:56
+msgid "Role"
+msgstr "Peran"
+
+#: main/page/11google.php:38
+msgid ""
+"You can customize the role of successful registrants, with the default role "
+"being \"subscriber\""
+msgstr ""
+"Anda dapat menyesuaikan peran pelanggan, dengan peran defaultnya adalah "
+"\"pelanggan\""
+
+#: main/page/11google.php:39
+msgid "Add Google API"
+msgstr "Tambahkan GoogleAPI"
+
+#: main/page/11google.php:41
+msgid "Client ID"
+msgstr "Client ID"
+
+#: main/page/11google.php:44
+msgid "Client Secret"
+msgstr "Client Secret"
+
+#: main/page/11google.php:46
+msgid ""
+"Retrieve the API Client ID and Client Secret from your Google Developers "
+"project and add them to the two fields above"
+msgstr ""
+"Dapatkan Client ID dan Rahasia Klien dari proyek Google Developers Anda dan "
+"tambahkan ke dua kolom di atas"
+
+#: main/page/11google.php:48 main/page/12chat.php:25 main/page/12chat.php:223
+msgid "Display options"
+msgstr "Opsi tampilan"
+
+#: main/page/11google.php:52
+msgid ""
+"You can paste the shortcode into the position where you want the login "
+"button to appear"
+msgstr ""
+"Anda dapat menempelkan kode pendek di tempat yang Anda inginkan untuk "
+"menampilkan tombol login"
+
+#: main/page/11google.php:56
+msgid "Display on the default login form"
+msgstr "Ditampilkan pada formulir login default"
+
+#: main/page/11google.php:57
+msgid ""
+"Enable to display the Google login button on the default WordPress login form"
+msgstr ""
+"Memungkinkan menampilkan tombol login Google pada formulir login default "
+"WordPress"
+
+#: main/page/11google.php:62
+msgid "Display on the WooCommerce login form"
+msgstr "Ditampilkan di formulir login WooCommerce"
+
+#: main/page/11google.php:63
+msgid "Enable to display the Google login button on the WooCommerce login form"
+msgstr "Aktifkan tampilan tombol login Google pada formulir login WooCommerce"
+
+#: main/page/11google.php:65
+msgid "Block login spam with Google reCAPTCHA"
+msgstr "Blokir login spam dengan Google reCAPTCHA"
+
+#: main/page/11google.php:74
+msgid "Off / select"
+msgstr "Mati / pilih"
+
+#: main/page/11google.php:77
+msgid "Site key"
+msgstr "Site key"
+
+#: main/page/11google.php:80
+msgid "Secret key"
+msgstr "Secret key"
+
+#: main/page/11google.php:82
+msgid ""
+"Retrieve the Site Key and Secret Key from your Google reCAPTCHA project and "
+"add them to the two fields above"
+msgstr ""
+"Ambil Site Key dan Secret Key dari proyek Google reCAPTCHA Anda dan "
+"tambahkan ke dua kolom di atas"
+
+#: main/page/12chat.php:12
+msgid "Create a chat feature for users"
+msgstr "Buat fitur obrolan untuk pengguna"
+
+#: main/page/12chat.php:17
+msgid "Enable chat button"
+msgstr "Aktifkan tombol obrolan"
+
+#: main/page/12chat.php:23
+msgid "Hide chat button when scrolling down"
+msgstr "Sembunyikan tombol obrolan saat menggulir ke bawah"
+
+#: main/page/12chat.php:50
+msgid "Configure buttons"
+msgstr "Konfigurasikan tombol"
+
+#: main/page/12chat.php:51 main/page/12chat.php:249
+msgid "Visit this page to get the SVG icon:"
+msgstr "Kunjungi halaman ini untuk mendapatkan ikon SVG:"
+
+#: main/page/12chat.php:52 main/page/12chat.php:66 main/page/12chat.php:85
+#: main/page/12chat.php:118 main/page/12chat.php:258 main/page/12chat.php:271
+msgid "Enter link"
+msgstr "Masukkan tautannya"
+
+#: main/page/12chat.php:53
+msgid "Enter ID"
+msgstr "Masukkan ID"
+
+#: main/page/12chat.php:65 main/page/12chat.php:84 main/page/12chat.php:117
+msgid "Enter button name"
+msgstr "Masukkan nama tombol"
+
+#: main/page/12chat.php:67 main/page/12chat.php:86 main/page/12chat.php:119
+#: main/page/12chat.php:256 main/page/12chat.php:269
+msgid "Enter the SVG icon"
+msgstr "Impor ikon SVG"
+
+#: main/page/12chat.php:95
+msgid "Add field"
+msgstr "Tambahkan bidang"
+
+#: main/page/12chat.php:154
+msgid "Default style"
+msgstr "Gaya bawaan"
+
+#: main/page/12chat.php:167 main/toc.php:264
+msgid "Select icon"
+msgstr "Pilih ikon"
+
+#: main/page/12chat.php:170
+msgid "Customize chat button"
+msgstr "Sesuaikan tombol obrolan"
+
+#: main/page/12chat.php:175
+msgid "Open in a new tab"
+msgstr "Buka di tab baru"
+
+#: main/page/12chat.php:179
+msgid "Select icon color"
+msgstr "Pilih warna ikon"
+
+#: main/page/12chat.php:189
+msgid "Button position"
+msgstr "Lokasi tombol"
+
+#: main/page/12chat.php:194 main/page/4main.php:67
+msgid "Spacing below"
+msgstr "Jarak di bawah"
+
+#: main/page/12chat.php:198 main/page/4main.php:71 main/toc.php:282
+msgid "Border distance"
+msgstr "Jarak batas"
+
+#: main/page/12chat.php:202 main/page/5media.php:205 main/page/5media.php:273
+msgid "Transparency level"
+msgstr "Transparansi"
+
+#: main/page/12chat.php:210
+msgid "Contact bar on mobile"
+msgstr "Bilah kontak di ponsel"
+
+#: main/page/12chat.php:215
+msgid "Enable contact bar"
+msgstr "Aktifkan bilah kontak"
+
+#: main/page/12chat.php:221
+msgid "Hide bar when pulled down"
+msgstr "Sembunyikan bilah saat ditarik ke bawah"
+
+#: main/page/12chat.php:247
+msgid "Main button"
+msgstr "Tombol utama"
+
+#: main/page/12chat.php:248
+msgid "Enable the contact bar and configure the content below for use"
+msgstr ""
+"Aktifkan bilah kontak dan konfigurasikan konten di bawah ini untuk digunakan"
+
+#: main/page/12chat.php:250
+msgid "To create a menu on the navigation bar:"
+msgstr "Untuk membuat menu bilah navigasi:"
+
+#: main/page/12chat.php:251
+msgid ""
+"Step 1: Go to Appearance > Menus > Create a new menu > check Navigation bar "
+"(Foxtool)"
+msgstr ""
+"Langkah 1: Buka Antarmuka > Menu > Buat menu baru > pilih bilah Navigasi "
+"(Foxtool)"
+
+#: main/page/12chat.php:252
+msgid ""
+"Step 2: Below, if you want the menu to open on a specific button, add <b "
+"style=\"color:red\">#foxnavi</b> to the field (#id or .class). For (Enter "
+"link), enter <b style=\"color:red\">#</b>. Note: Only add it to one of the 5 "
+"buttons below"
+msgstr ""
+"Langkah 2: Di bawah, jika Anda ingin menu dibuka dengan tombol tertentu, "
+"tambahkan <b style=\"color:red\">#foxnavi</b> ke kolom (#id atau .class). "
+"Untuk (Masukkan tautan), masukkan <b style=\"color:red\">#</b>. Catatan: "
+"Hanya tambahkan 1 dari 5 tombol di bawah"
+
+#: main/page/12chat.php:257 main/page/12chat.php:270
+#: main/page/ft-setting.php:125
+msgid "Enter name"
+msgstr "Masukkan nama"
+
+#: main/page/12chat.php:259 main/page/12chat.php:272
+msgid "#id or .class"
+msgstr "#id atau .class"
+
+#: main/page/12chat.php:262
+msgid "\"Enter link\" left blank if you want to call the chat list"
+msgstr "\"Masukkan tautan\" kosong jika Anda ingin memanggil daftar obrolan"
+
+#: main/page/12chat.php:263
+msgid "4 customizable buttons"
+msgstr "4 tombol yang dapat disesuaikan"
+
+#: main/page/12chat.php:299 main/toc.php:242
+msgid "Customize"
+msgstr "Sesuaikan"
+
+#: main/page/12chat.php:301 main/toc.php:85
+msgid "Select the page to hide"
+msgstr "Pilih halaman tersembunyi"
+
+#: main/page/12chat.php:326 main/redirects.php:176 main/toc.php:110
+msgid "No pages selected"
+msgstr "Tidak ada halaman"
+
+#: main/page/12chat.php:368
+msgid "Outstanding color"
+msgstr "Warna yang luar biasa"
+
+#: main/page/12chat.php:372
+msgid "Main icon color"
+msgstr "Warna ikon utama"
+
+#: main/page/12chat.php:376
+msgid "Main icon text color"
+msgstr "Warna teks ikon utama"
+
+#: main/page/12chat.php:380
+msgid "Bar background color"
+msgstr "Warna latar belakang batang"
+
+#: main/page/12chat.php:384
+msgid "Chat background color"
+msgstr "Warna latar belakang obrolan"
+
+#: main/page/12chat.php:388
+msgid "Chat text color"
+msgstr "Warna teks obrolan"
+
+#: main/page/1speed.php:12
+msgid "Disable unnecessary items"
+msgstr "Nonaktifkan item yang tidak perlu"
+
+#: main/page/1speed.php:17
+msgid "Disable jQuery Migrate"
+msgstr "Nonaktifkan jQuery Migrate"
+
+#: main/page/1speed.php:18
+msgid ""
+"jQuery Migrate is a library used to maintain the operation of certain "
+"themes, plugins that rely on older code. If your website no longer relies on "
+"this library, you can disable it"
+msgstr ""
+"jQuery Migrate adalah perpustakaan yang digunakan untuk menjaga beberapa "
+"tema, plugin berdasarkan kode lama tetap berfungsi. Jika situs Anda tidak "
+"lagi bergantung pada perpustakaan ini, Anda dapat menonaktifkannya"
+
+#: main/page/1speed.php:23
+msgid "Disable Gutenberg CSS"
+msgstr "Nonaktifkan Gutenberg CSS"
+
+#: main/page/1speed.php:24
+msgid "If you not using it, you can disable Gutenberg CSS on the homepage"
+msgstr ""
+"Jika tidak menggunakannya, Anda dapat menonaktifkan Gutenberg CSS di halaman "
+"beranda"
+
+#: main/page/1speed.php:29
+msgid "Disable Classic CSS"
+msgstr "Nonaktifkan CSS Klasik"
+
+#: main/page/1speed.php:30
+msgid "If you not using it, you can disable Classic CSS on the homepage"
+msgstr ""
+"Jika Anda tidak menggunakannya, Anda dapat menonaktifkan CSS Klasik di "
+"halaman beranda"
+
+#: main/page/1speed.php:35
+msgid "Disable Emoji"
+msgstr "Nonaktifkan Emoji"
+
+#: main/page/1speed.php:36
+msgid "If you not using it, you can disable Emoji"
+msgstr "Jika Anda tidak menggunakannya, Anda dapat mematikan Emoji"
+
+#: main/page/1speed.php:38
+msgid "Optimization Library"
+msgstr "Perpustakaan optimasi"
+
+#: main/page/1speed.php:43
+msgid "Enable Instant-page"
+msgstr "Aktifkan Instant-page"
+
+#: main/page/1speed.php:44
+msgid ""
+"Instant-page is a library that allows you to preload the content of a linked "
+"page into the browser memory simply by hovering over the link. When you "
+"click on the link, it provides a remarkably fast loading experience"
+msgstr ""
+"Instant-page adalah perpustakaan yang memungkinkan Anda memuat konten "
+"halaman tertaut ke memori browser hanya dengan mengarahkan kursor ke tautan. "
+"Saat Anda mengeklik tautannya, ini memberikan pengalaman pemuatan yang "
+"sangat cepat"
+
+#: main/page/1speed.php:49
+msgid "Enable Smooth-scroll"
+msgstr "Aktifkan Smooth-scroll"
+
+#: main/page/1speed.php:50
+msgid ""
+"Smooth-scroll is a library that enables you to create a smooth scrolling "
+"effect, providing users with a perception of faster page navigation"
+msgstr ""
+"Smooth-scroll adalah perpustakaan yang memungkinkan Anda membuat efek "
+"pengguliran yang mulus, memberikan pengguna perasaan navigasi halaman yang "
+"lebih cepat"
+
+#: main/page/1speed.php:52
+msgid "The function of lazy loading images"
+msgstr "Fungsi memuat gambar lambat"
+
+#: main/page/1speed.php:57
+msgid "Enable image lazy loading"
+msgstr "Aktifkan foto malas"
+
+#: main/page/1speed.php:58
+msgid ""
+"If you want to lazy load images every time the page loads, then turn it on. "
+"This function helps your website load faster"
+msgstr ""
+"Jika Anda ingin gambar dimuat dengan lambat setiap kali halaman dimuat, "
+"aktifkan. Fungsi ini membantu memuat situs web Anda lebih cepat"
+
+#: main/page/1speed.php:61
+msgid "Compress HTML into a single line"
+msgstr "Kompres HTML menjadi satu baris"
+
+#: main/page/1speed.php:66
+msgid "Enable HTML compression"
+msgstr "Aktifkan kompresi HTML"
+
+#: main/page/1speed.php:67
+msgid ""
+"With this feature, HTML will be compressed into a single line, removing "
+"unnecessary characters and whitespace to speed up page loading"
+msgstr ""
+"Dengan fitur ini, HTML akan dikompresi menjadi satu baris, menghilangkan "
+"karakter dan spasi yang tidak perlu untuk meningkatkan kecepatan memuat "
+"halaman."
+
+#: main/page/1speed.php:68
+msgid ""
+"Do not enable if you are using optimization plugins with similar "
+"functionality (conflict)"
+msgstr ""
+"Jangan aktifkan jika Anda menggunakan plugin optimasi dengan fungsi serupa "
+"(konflik)"
+
+#: main/page/1speed.php:74
+msgid "Minify Inline JavaScript"
+msgstr "Perkecil JavaScript sebaris"
+
+#: main/page/1speed.php:80
+msgid "Remove comments from HTML, JavaScript, and CSS"
+msgstr "Hapus komentar dari HTML, JavaScript, dan CSS"
+
+#: main/page/1speed.php:86
+msgid "Remove XHTML closing tags from empty elements in HTML5"
+msgstr "Hapus tag penutup XHTML dari elemen kosong di HTML5"
+
+#: main/page/1speed.php:92
+msgid "Remove relative domain from internal URLs"
+msgstr "Hapus domain relatif dari URL internal"
+
+#: main/page/1speed.php:98
+msgid "Remove protocols (HTTP: and HTTPS:) from all URLs"
+msgstr "Hapus protokol (HTTP: dan HTTPS :) dari semua URL"
+
+#: main/page/1speed.php:104
+msgid "Support multi-byte UTF-8 encoding (if you see strange characters)"
+msgstr "Mendukung pengkodean UTF-8 multi-byte (jika karakter aneh terlihat)"
+
+#: main/page/1speed.php:108
+msgid "Optimize saving post content into the database"
+msgstr "Optimalkan penyimpanan konten artikel ke dalam database"
+
+#: main/page/1speed.php:113
+msgid "Enable revision limit"
+msgstr "Aktifkan versi yang dimodifikasi"
+
+#: main/page/1speed.php:117
+msgid "Enter the number of revisions"
+msgstr "Masukkan nomor revisi"
+
+#: main/page/1speed.php:124
+msgid "Change save interval"
+msgstr "Ubah interval retensi"
+
+#: main/page/1speed.php:128
+msgid "Save interval (minutes)"
+msgstr "Waktu retensi (menit)"
+
+#: main/page/1speed.php:131
+msgid ""
+"If you enable this feature and set automatic revision limit and automatic "
+"save time for posts or pages, it will reduce the amount of data stored in "
+"the database"
+msgstr ""
+"Jika Anda mengaktifkan fitur ini dan menetapkan batas jumlah revisi dan "
+"interval penyimpanan otomatis untuk postingan atau halaman, ini akan "
+"mengurangi jumlah data yang disimpan dalam database"
+
+#: main/page/2scuri.php:12
+msgid "Enhance website security"
+msgstr "Tingkatkan keamanan situs web"
+
+#: main/page/2scuri.php:17
+msgid "Disable REST API"
+msgstr "Nonaktifkan REST API"
+
+#: main/page/2scuri.php:18
+msgid ""
+"If you not using REST API, it recommended to disable it for security purposes"
+msgstr ""
+"Jika Anda tidak menggunakan REST API, Anda harus menonaktifkannya untuk "
+"tujuan keamanan"
+
+#: main/page/2scuri.php:23
+msgid "Disable XML RPC"
+msgstr "Nonaktifkan XML RPC"
+
+#: main/page/2scuri.php:24
+msgid ""
+"If you not using XML RPC, it recommended to disable it for security purposes"
+msgstr ""
+"Jika Anda tidak menggunakan XML RPC, Anda harus menonaktifkannya untuk "
+"tujuan keamanan"
+
+#: main/page/2scuri.php:29
+msgid "Disable Wp-Embed"
+msgstr "Nonaktifkan Wp-Embed"
+
+#: main/page/2scuri.php:30
+msgid ""
+"If you not using Wp-Embed, it recommended to disable it for security purposes"
+msgstr ""
+"Jika Anda tidak menggunakan Wp-Embed, Anda harus menonaktifkannya untuk "
+"tujuan keamanan"
+
+#: main/page/2scuri.php:35
+msgid "Disable X-Pingback"
+msgstr "Nonaktifkan X-Pingback"
+
+#: main/page/2scuri.php:36
+msgid ""
+"If you not using X-Pingback, it recommended to disable it for security "
+"purposes"
+msgstr ""
+"Jika Anda tidak menggunakan X-Pingback, Anda harus menonaktifkannya demi "
+"keamanan"
+
+#: main/page/2scuri.php:41
+msgid "Remove unnecessary header information"
+msgstr "Hapus informasi header yang tidak perlu"
+
+#: main/page/2scuri.php:42
+msgid "Remove unnecessary header information if desired"
+msgstr "Hapus informasi header yang tidak perlu jika diinginkan"
+
+#: main/page/2scuri.php:47
+msgid "Disable other data sources"
+msgstr "Nonaktifkan sumber data lainnya"
+
+#: main/page/2scuri.php:48
+msgid "Disable unnecessary data sources"
+msgstr "Nonaktifkan sumber data yang tidak diperlukan"
+
+#: main/page/2scuri.php:51
+msgid "Filter uploaded files"
+msgstr "Filter file yang diunggah"
+
+#: main/page/2scuri.php:56
+msgid "Enable blocking uploads of non-image files"
+msgstr "Izinkan pemblokiran unggahan file non-gambar"
+
+#: main/page/2scuri.php:57
+msgid ""
+"This feature will block uploads of all files that are not image formats, "
+"from media, plugins, themes, etc"
+msgstr ""
+"Fitur ini akan memblokir unggahan semua file yang bukan format gambar, mulai "
+"dari media, plugin, tema, dll"
+
+#: main/page/2scuri.php:59
+msgid "Remove version"
+msgstr "Hapus versi"
+
+#: main/page/2scuri.php:65
+msgid "Remove version from JS and CSS"
+msgstr "Hapus versi dari JS dan CSS"
+
+#: main/page/2scuri.php:72
+msgid "Remove WordPress version"
+msgstr "Hapus versi WordPress"
+
+#: main/page/2scuri.php:75
+msgid ""
+"Correct, hiding the version of resources such as JS, CSS, and WordPress is a "
+"common security measure to prevent hackers from exploiting known "
+"vulnerabilities in older versions"
+msgstr ""
+"Benar sekali, menyembunyikan versi sumber daya seperti JS, CSS, dan "
+"WordPress adalah tindakan keamanan umum untuk mencegah peretas "
+"mengeksploitasi kerentanan yang diketahui di versi lama"
+
+#: main/page/2scuri.php:77
+msgid "Secure access data"
+msgstr "Akses data yang aman"
+
+#: main/page/2scuri.php:82
+msgid "Prevent SQL injection, cross-site scripting (XSS)"
+msgstr "Mencegah injeksi SQL, skrip lintas situs (XSS)"
+
+#: main/page/2scuri.php:83
+msgid ""
+"This feature helps protect the website against attacks such as SQL "
+"injection, cross-site scripting (XSS)"
+msgstr ""
+"Fitur ini membantu melindungi situs web dari serangan seperti injeksi SQL, "
+"skrip lintas situs (XSS)"
+
+#: main/page/3tool.php:12
+msgid "Text editor tool"
+msgstr "Alat pengeditan teks"
+
+#: main/page/3tool.php:17
+msgid "Enable Classic Editor"
+msgstr "Aktifkan Editor Klasik"
+
+#: main/page/3tool.php:18
+msgid ""
+"If you find the new editor too difficult to use, then revert it to the "
+"Classic Editor version"
+msgstr ""
+"Jika Anda merasa editor baru terlalu sulit untuk digunakan, kembalilah ke "
+"versi Editor klasik"
+
+#: main/page/3tool.php:23
+msgid "Enhance features for Classic Editor"
+msgstr "Menambahkan fitur ke Editor Klasik"
+
+#: main/page/3tool.php:24
+msgid ""
+"Enable this feature if you want to add additional functionalities to the "
+"Classic Editor to enhance professional editing"
+msgstr ""
+"Aktifkan fitur ini jika Anda ingin menambahkan fungsi tambahan ke Editor "
+"Klasik untuk meningkatkan kemampuan pengeditan profesional"
+
+#: main/page/3tool.php:29
+msgid "Add Classic Editor button"
+msgstr "Tambahkan tombol Editor Klasik"
+
+#: main/page/3tool.php:30
+msgid ""
+"Enable this feature if you want to add the Classic Editor button in the post "
+"and page management interface. With this feature, you dont need to set the "
+"Classic Editor as default but can use it in parallel"
+msgstr ""
+"Aktifkan fitur ini jika Anda ingin menambahkan tombol Editor Klasik di "
+"antarmuka manajemen postingan dan halaman. Dengan fitur ini, Anda tidak "
+"perlu menyetel Editor Klasik sebagai default tetapi dapat menggunakannya "
+"secara paralel"
+
+#: main/page/3tool.php:31
+msgid "Optimize Widgets"
+msgstr "Optimalisasi utilitas"
+
+#: main/page/3tool.php:36
+msgid "Enable Classic Widget"
+msgstr "Aktifkan Widget Klasik"
+
+#: main/page/3tool.php:37
+msgid ""
+"If you find the new Widget Manager too difficult to use, then revert it to "
+"the Classic Widget version"
+msgstr ""
+"Jika Anda merasa Manajer Ekstensi baru terlalu sulit untuk digunakan, "
+"beralihlah kembali ke versi Ekstensi klasik"
+
+#: main/page/3tool.php:39
+msgid "Disable automatic updates"
+msgstr "Matikan pembaruan otomatis"
+
+#: main/page/3tool.php:45
+msgid "Disable core updates"
+msgstr "Matikan pembaruan sistem"
+
+#: main/page/3tool.php:52
+msgid "Disable language pack updates"
+msgstr "Matikan pembaruan paket bahasa"
+
+#: main/page/3tool.php:59
+msgid "Disable theme updates"
+msgstr "Matikan pembaruan tema"
+
+#: main/page/3tool.php:66
+msgid "Disable plugin updates"
+msgstr "Matikan pembaruan plugin"
+
+#: main/page/3tool.php:72
+msgid "Disable update & maintenance notifications"
+msgstr "Matikan pemberitahuan pembaruan dan pemeliharaan"
+
+#: main/page/3tool.php:78
+msgid ""
+"Disable automatic update checking (core, language packs, themes, plugins)"
+msgstr ""
+"Nonaktifkan pemeriksaan pembaruan otomatis (sistem, paket bahasa, tema, "
+"plugin)"
+
+#: main/page/3tool.php:81
+msgid "You can disable the automatic update feature of WordPress"
+msgstr "Anda dapat menonaktifkan pembaruan otomatis WordPress"
+
+#: main/page/3tool.php:83
+msgid "Management tool"
+msgstr "Alat manajemen"
+
+#: main/page/3tool.php:88
+msgid "Disallow text copying and access to DevTools"
+msgstr "Penyalinan teks dan akses ke DevTools tidak diperbolehkan"
+
+#: main/page/3tool.php:89
+msgid ""
+"This function prevents users from copying text, accessing right-click "
+"options, and accessing DevTools"
+msgstr ""
+"Fungsi ini mencegah pengguna menyalin teks, mengakses opsi klik kanan, dan "
+"mengakses DevTools"
+
+#: main/page/3tool.php:94
+msgid "Copy pre-set content"
+msgstr "Salin konten yang telah ditentukan sebelumnya"
+
+#: main/page/3tool.php:99
+msgid "Attach copyright content"
+msgstr "Lampirkan konten hak cipta"
+
+#: main/page/3tool.php:104
+msgid ""
+"If users copy content on the page, instead of receiving the content, they "
+"will receive the content you have set"
+msgstr ""
+"Jika pengguna menyalin konten di halaman, alih-alih menerima konten, mereka "
+"akan menerima konten yang Anda siapkan"
+
+#: main/page/3tool.php:110
+msgid "Enable Classic Editor in category description"
+msgstr "Aktifkan Editor Klasik dalam deskripsi kategori"
+
+#: main/page/3tool.php:111
+msgid ""
+"This feature allows you to add the Classic Editor to the category "
+"description box when editing posts or products"
+msgstr ""
+"Fitur ini memungkinkan Anda menambahkan Editor Klasik ke kotak deskripsi "
+"kategori saat mengedit postingan atau produk"
+
+#: main/page/3tool.php:113
+msgid "Hide the tools you want"
+msgstr "Sembunyikan alat yang Anda inginkan"
+
+#: main/page/3tool.php:127
+msgid ""
+"If you find the tools above unnecessary, you can hide them to make the WP "
+"admin interface cleaner. This function only hides them without blocking "
+"access to their links"
+msgstr ""
+"Jika Anda merasa alat di atas tidak diperlukan, Anda dapat menyembunyikannya "
+"untuk antarmuka admin WP yang lebih bersih. Fungsi ini hanya "
+"menyembunyikannya tanpa memblokir akses ke tautannya"
+
+#: main/page/4main.php:12
+msgid "Add font Awesome to the website"
+msgstr "Tambahkan font Awesome ke situs web Anda"
+
+#: main/page/4main.php:17
+msgid "Enable font Awesome"
+msgstr "Aktifkan font Awesome"
+
+#: main/page/4main.php:18
+msgid ""
+"If you want to use font Awesome, you can enable it (it an icon font). You "
+"can search for icons at:"
+msgstr ""
+"Jika Anda ingin menggunakan font Awesome, Anda dapat mengaktifkannya (ini "
+"adalah font ikon). Anda dapat mencari ikon di:"
+
+#: main/page/4main.php:19
+msgid "Access Font Awesome to find icons"
+msgstr "Kunjungi Font Awesome untuk menemukan ikon"
+
+#: main/page/4main.php:20
+msgid "Free to use \"fa-regular\" and \"fa-brands\" styles"
+msgstr "Bebas menggunakan gaya \"fa-reguler\" dan \"fa-brands\"."
+
+#: main/page/4main.php:22
+msgid "Decorative effects for the website"
+msgstr "Efek dekoratif untuk situs web"
+
+#: main/page/4main.php:31
+msgid "Effect"
+msgstr "Memengaruhi"
+
+#: main/page/4main.php:32
+msgid ""
+"Choose decorations for the website, such as Christmas or Lunar New Year (If "
+"any effects cause issues on your website, it may be due to javascript "
+"conflicts. You can switch to other effects to use)"
+msgstr ""
+"Pilih efek dekoratif untuk situs web Anda, seperti Natal atau Tahun Baru "
+"Imlek (Jika salah satu dari efek ini menyebabkan masalah pada situs web "
+"Anda, mungkin karena konflik javascript. Anda dapat beralih ke aplikasi lain "
+"untuk digunakan)."
+
+#: main/page/4main.php:33
+msgid "Dark mode"
+msgstr "Mode gelap"
+
+#: main/page/4main.php:39
+msgid "Enable dark mode"
+msgstr "Aktifkan mode gelap"
+
+#: main/page/4main.php:43 main/search.php:79 main/toc.php:239
+msgid "Icon color"
+msgstr "Warna ikon"
+
+#: main/page/4main.php:53 main/shortcode.php:116
+msgid "Display type"
+msgstr "Jenis tampilan"
+
+#: main/page/4main.php:77 main/search.php:67 main/toc.php:67
+msgid "Use shortcodes"
+msgstr "Gunakan shortcode"
+
+#: main/page/4main.php:80
+msgid ""
+"This function allows you to initiate a dark mode library, enabling the "
+"website to switch between light and dark modes"
+msgstr ""
+"Fungsi ini memungkinkan Anda menambahkan mode gelap, memungkinkan situs web "
+"beralih antara mode terang dan gelap"
+
+#: main/page/4main.php:81
+msgid "Customize scroll bar"
+msgstr "Sesuaikan bilah gulir"
+
+#: main/page/4main.php:86
+msgid "Enable"
+msgstr "Mengaktifkan"
+
+#: main/page/4main.php:93
+msgid "Bar color"
+msgstr "Warna batang"
+
+#: main/page/4main.php:101
+msgid "Bar size"
+msgstr "Ukuran batang"
+
+#: main/page/4main.php:103
+msgid ""
+"This function allows you to customize the color of the scrollbar to your "
+"liking"
+msgstr ""
+"Fungsi ini memungkinkan Anda untuk menyesuaikan warna bilah gulir sesuai "
+"keinginan Anda"
+
+#: main/page/5media.php:12
+msgid "Image crop configuration"
+msgstr "Konfigurasi pemotongan gambar"
+
+#: main/page/5media.php:17
+msgid "Stop cropping all"
+msgstr "Berhenti memotong semuanya"
+
+#: main/page/5media.php:34
+msgid "Stop cropping"
+msgstr "Berhenti memotong"
+
+#: main/page/5media.php:37
+msgid "Advanced photo upload"
+msgstr "Unggah foto tingkat lanjut"
+
+#: main/page/5media.php:41
+msgid "Automatic name"
+msgstr "Nama otomatis"
+
+#: main/page/5media.php:42
+msgid "The file name will be your domain name"
+msgstr "Nama file akan menjadi nama domain Anda"
+
+#: main/page/5media.php:46
+msgid "Ignore 8-bit png"
+msgstr "Abaikan png 8-bit"
+
+#: main/page/5media.php:47
+msgid ""
+"8-bit PNG images are not supported by the GD library, and this format "
+"already has perfect compression and does not need further processing"
+msgstr ""
+"Gambar PNG 8-bit tidak didukung oleh perpustakaan GD, dan format ini sudah "
+"memiliki kompresi sempurna dan tidak memerlukan pemrosesan lebih lanjut"
+
+#: main/page/5media.php:48
+msgid "Configure image upload function"
+msgstr "Konfigurasikan fungsi unggah foto"
+
+#: main/page/5media.php:53
+msgid "Enable upload size limit"
+msgstr "Aktifkan batas ukuran unggahan"
+
+#: main/page/5media.php:57 main/page/ft-about2.php:10
+msgid "MB"
+msgstr "MB"
+
+#: main/page/5media.php:60
+msgid ""
+"If you have members and do not want them to upload images with excessively "
+"large sizes, causing storage space usage, you can limit the maximum size "
+"allowed for upload"
+msgstr ""
+"Jika Anda memiliki anggota dan tidak ingin mereka mengunggah gambar yang "
+"ukurannya terlalu besar dan menyia-nyiakan ruang penyimpanan, Anda dapat "
+"membatasi ukuran maksimal unggahan yang diperbolehkan"
+
+#: main/page/5media.php:66
+msgid "Allow uploading SVG files"
+msgstr "Memungkinkan pengunggahan file SVG"
+
+#: main/page/5media.php:67
+msgid "Enable this feature if you want SVG images to be uploaded to the media"
+msgstr "Aktifkan fitur ini jika Anda ingin mengunggah gambar SVG ke media"
+
+#: main/page/5media.php:73
+msgid "Allow uploading JFIF files"
+msgstr "Memungkinkan pengunggahan file JFIF"
+
+#: main/page/5media.php:74
+msgid ""
+"Enable this feature if you want JFIF format images to be uploaded to the "
+"media. The uploaded images will be converted to JPG or WEBP format according "
+"to the configuration"
+msgstr ""
+"Aktifkan fitur ini jika Anda ingin mengunggah gambar berformat JFIF ke "
+"media. Gambar yang diunggah akan dikonversi ke format JPG atau WEBP sesuai "
+"konfigurasi"
+
+#: main/page/5media.php:75
+msgid "Compress JPG images upon upload"
+msgstr "Kompres gambar JPG saat diunggah"
+
+#: main/page/5media.php:84 main/page/5media.php:104 main/page/5media.php:124
+msgid "Compression level ("
+msgstr "Tingkat kompresi ("
+
+#: main/page/5media.php:87
+msgid ""
+"You can adjust the compression level of the image from 5 to 100 (100 being "
+"no compression)"
+msgstr ""
+"Anda dapat mengatur tingkat kompresi gambar dari 5 hingga 100 (100 tidak "
+"terkompresi)"
+
+#: main/page/5media.php:93
+msgid "Convert PNG to JPG"
+msgstr "Konversi PNG ke JPG"
+
+#: main/page/5media.php:94
+msgid ""
+"Convert PNG images to JPG upon upload, and compress the images according to "
+"the JPG configuration"
+msgstr ""
+"Konversikan gambar PNG ke JPG saat diunggah dan kompres gambar sesuai dengan "
+"profil JPG"
+
+#: main/page/5media.php:95
+msgid "Convert images to WEBP upon upload"
+msgstr "Konversikan gambar ke WEBP saat diunggah"
+
+#: main/page/5media.php:100
+msgid "Convert JPG and PNG to WEBP"
+msgstr "Konversi JPG dan PNG ke WEBP"
+
+#: main/page/5media.php:107
+msgid ""
+"Convert JPG and PNG images to WEBP upon upload, and compress the images "
+"according to the configuration you enter"
+msgstr ""
+"Konversikan gambar JPG dan PNG ke WEBP saat diunggah dan kompres gambar "
+"sesuai dengan konfigurasi yang Anda masukkan"
+
+#: main/page/5media.php:109
+msgid "Convert images to AVIF upon upload"
+msgstr "Konversikan gambar ke AVIF setelah diunggah"
+
+#: main/page/5media.php:114
+msgid "Allow uploading AVIF image format"
+msgstr "Memungkinkan mengunggah format gambar AVIF"
+
+#: main/page/5media.php:119
+msgid "Convert JPG and PNG to AVIF"
+msgstr "Konversi JPG dan PNG ke AVIF"
+
+#: main/page/5media.php:127
+msgid ""
+"Convert JPG and PNG images to AVIF upon upload, and compress the images "
+"according to the configuration you enter"
+msgstr ""
+"Konversikan gambar JPG dan PNG ke AVIF saat diunggah dan kompres gambar "
+"sesuai dengan konfigurasi yang Anda masukkan"
+
+#: main/page/5media.php:128
+msgid "Only supported from PHP 8.1 and above"
+msgstr "Hanya didukung dari PHP 8.1 ke atas"
+
+#: main/page/5media.php:131
+msgid "Limits the size of JPG, PNG, WEBP, AVIF images when uploading"
+msgstr "Batasi ukuran gambar JPG, PNG, WEBP, AVIF saat diunggah"
+
+#: main/page/5media.php:136
+msgid "Limit JPG, PNG, WEBP, AVIF images"
+msgstr "Batasi gambar JPG, PNG, WEBP, AVIF"
+
+#: main/page/5media.php:142
+msgid "Max height"
+msgstr "Tinggi maksimum"
+
+#: main/page/5media.php:145
+msgid ""
+"Limits the maximum width and height of JPG, PNG, WEBP images upon upload. "
+"You can leave it blank if you want to keep the original size"
+msgstr ""
+"Batasi maksimal lebar dan tinggi gambar JPG, PNG, WEBP saat diupload. Anda "
+"dapat mengosongkannya jika ingin mempertahankan ukuran aslinya"
+
+#: main/page/5media.php:147
+msgid "Automatically add a frame when uploading an image"
+msgstr "Secara otomatis menambahkan bingkai saat mengunggah gambar"
+
+#: main/page/5media.php:153
+msgid "Enable the picture frame"
+msgstr "Aktifkan bingkai foto"
+
+#: main/page/5media.php:159 main/page/5media.php:220
+msgid "Process cropped images"
+msgstr "Memproses gambar yang dipotong"
+
+#: main/page/5media.php:189
+msgid "Add picture frame link here"
+msgstr "Tambahkan tautan bingkai foto di sini"
+
+#: main/page/5media.php:197
+msgid "Flip photo"
+msgstr "Balik foto"
+
+#: main/page/5media.php:201
+msgid "Overlay color"
+msgstr "Warna hamparan"
+
+#: main/page/5media.php:208
+msgid ""
+"The feature adds advanced functions when uploading images, such as adding "
+"frames, flipping images... allowing you to automatically customize your "
+"images during upload. Picture frame (PNG)"
+msgstr ""
+"Fitur ini menambahkan fungsi lanjutan saat mengunggah gambar, seperti "
+"menambahkan bingkai, membalik gambar... memungkinkan Anda menyesuaikan "
+"gambar secara otomatis saat mengunggah. Bingkai foto (PNG)"
+
+#: main/page/5media.php:210
+msgid "Configure adding a watermark to images upon upload"
+msgstr "Konfigurasikan untuk menambahkan tanda air ke gambar saat diunggah"
+
+#: main/page/5media.php:215
+msgid "Add watermark to images upon upload"
+msgstr "Tambahkan tanda air ke gambar saat mengunggah"
+
+#: main/page/5media.php:223
+msgid "Enter content"
+msgstr "Masukkan konten"
+
+#: main/page/5media.php:228
+msgid "Text color"
+msgstr "Warna huruf"
+
+#: main/page/5media.php:232
+msgid "Add the logo image link here"
+msgstr "Tambahkan tautan gambar logo di sini"
+
+#: main/page/5media.php:269
+msgid "Watermark image compared to main image"
+msgstr "Gambar tanda air dibandingkan dengan gambar utama"
+
+#: main/page/5media.php:275
+msgid ""
+"If you want your uploaded images to be watermarked, please use this function "
+"and configure it above. Watermark (PNG, JPG)"
+msgstr ""
+"Jika Anda ingin gambar yang Anda upload memiliki watermark, silakan gunakan "
+"fungsi dan konfigurasi di atas. Tanda Air (PNG, JPG)"
+
+#: main/page/6post.php:12
+msgid "Image function for posts"
+msgstr "Fungsi gambar untuk artikel"
+
+#: main/page/6post.php:17
+msgid "Save images to media when copying from another source"
+msgstr "Simpan gambar ke galeri saat menyalin dari sumber lain"
+
+#: main/page/6post.php:23
+msgid "Remove img tag attributes"
+msgstr "Hapus atribut tag img"
+
+#: main/page/6post.php:25
+msgid ""
+"Enable this feature if you want images in posts copied from another source "
+"to be stored on your website"
+msgstr ""
+"Aktifkan fitur ini jika Anda ingin gambar dalam postingan yang disalin dari "
+"sumber lain dihosting di situs Anda"
+
+#: main/page/6post.php:31
+msgid "Enable deleting posts to also delete images"
+msgstr "Izinkan penghapusan postingan dan gambar"
+
+#: main/page/6post.php:32
+msgid ""
+"This function allows you to delete images attached to posts when deleting "
+"the posts themselves. Note that if multiple posts use the same image, it "
+"will also be deleted when removing the post"
+msgstr ""
+"Fungsi ini memungkinkan Anda untuk menghapus gambar yang dilampirkan pada "
+"postingan saat menghapus postingan itu sendiri. Perhatikan bahwa jika "
+"beberapa postingan menggunakan gambar yang sama, gambar tersebut juga akan "
+"dihapus saat postingan dihapus"
+
+#: main/page/6post.php:38
+msgid "The first image becomes the featured image"
+msgstr "Gambar pertama menjadi avatar"
+
+#: main/page/6post.php:41
+msgid "Add default featured image"
+msgstr "Tambahkan avatar bawaan"
+
+#: main/page/6post.php:45
+msgid ""
+"Enable this feature if you want the first image in the post to become the "
+"featured image if the featured image field is empty. Additionally, you can "
+"select a default featured image in case both the featured image and the "
+"images in the post are empty"
+msgstr ""
+"Aktifkan fitur ini jika Anda ingin gambar pertama pada postingan menjadi "
+"avatar, jika kolom avatar kosong. Selain itu, Anda dapat memilih avatar "
+"default jika avatar dan gambar di postingan kosong"
+
+#: main/page/6post.php:51
+msgid "The original image size when added to the post"
+msgstr "Ukuran gambar asli saat ditambahkan ke postingan"
+
+#: main/page/6post.php:52
+msgid ""
+"Enable this feature if you want the original image size to be selected by "
+"default whenever adding images to the post"
+msgstr ""
+"Aktifkan fitur ini jika Anda ingin ukuran gambar asli dipilih secara default "
+"saat menambahkan ke postingan"
+
+#: main/page/6post.php:54
+msgid "Duplicate post, page, custom post type"
+msgstr "Posting duplikat, halaman, jenis posting khusus"
+
+#: main/page/6post.php:59
+msgid "Add duplicate button"
+msgstr "Tambahkan tombol klon"
+
+#: main/page/6post.php:60 main/toc.php:41
+msgid "Custom posts will be displayed"
+msgstr "Postingan khusus akan ditampilkan"
+
+#: main/page/6post.php:82
+msgid ""
+"If you want to enable the feature to duplicate posts, pages, or custom post "
+"types, please activate this function"
+msgstr ""
+"Jika Anda ingin mengaktifkan fitur untuk menduplikasi postingan, halaman, "
+"atau jenis postingan khusus, silakan aktifkan fungsi ini"
+
+#: main/page/6post.php:84
+msgid "Configure category permalink"
+msgstr "Konfigurasikan tautan permanen kategori"
+
+#: main/page/6post.php:89
+msgid "Remove category slug from permalink"
+msgstr "Hapus siput kategori dari tautan permanen"
+
+#: main/page/6post.php:90
+msgid ""
+"Convert paths from (domain.com/category/news/latest-news, domain.com/"
+"category/news) to (domain.com/latest-news, domain.com/news)"
+msgstr ""
+"Konversi jalur dari (domain.com/category/news/latest-news, domain.com/"
+"category/news) ke (domain.com/latest-news, domain.com/news)"
+
+#: main/page/6post.php:91 main/page/6post.php:99
+msgid "Settings > Permalinks > Save changes"
+msgstr "Pengaturan > Permalinks > Simpan perubahan"
+
+#: main/page/6post.php:97
+msgid "Remove tag slug from permalink"
+msgstr "Hapus siput tag dari tautan permanen"
+
+#: main/page/6post.php:98
+msgid "Convert path from domain.com/tag/news/ to domain.com/news/"
+msgstr "Konversikan jalur dari domain.com/tag/news/ ke domain.com/news/"
+
+#: main/page/6post.php:102
+msgid "Add .html for page"
+msgstr "Tambahkan .html ke halaman"
+
+#: main/page/6post.php:107
+msgid "Enable .html for page"
+msgstr "Aktifkan .html untuk halaman tersebut"
+
+#: main/page/6post.php:108
+msgid ""
+"If you enable this feature, your Pages will have .html appended to them, for "
+"example: domain.com/page.html"
+msgstr ""
+"Jika Anda mengaktifkan fitur ini, Halaman Anda akan ditambahkan ekstensi ."
+"html, misalnya: domain.com/page.html"
+
+#: main/page/6post.php:110
+msgid "SEO optimization"
+msgstr "Optimasi SEO"
+
+#: main/page/6post.php:115
+msgid "Use titles as descriptions for images"
+msgstr "Gunakan judul sebagai deskripsi gambar"
+
+#: main/page/6post.php:116
+msgid ""
+"This feature will use the title of the post as the description for the image "
+"when uploaded"
+msgstr ""
+"Fitur ini akan menggunakan judul postingan sebagai deskripsi gambar saat "
+"diunggah"
+
+#: main/page/6post.php:121
+msgid "Add nofollow and _blank for external links"
+msgstr "Tambahkan nofollow dan _blank ke tautan eksternal"
+
+#: main/page/6post.php:122
+msgid ""
+"This feature will add nofollow and _blank to external links on your site"
+msgstr ""
+"Fitur ini akan menambahkan nofollow dan _blank ke tautan eksternal di situs "
+"Anda"
+
+#: main/page/6post.php:124
+msgid "Additional feature"
+msgstr "Fitur tambahan"
+
+#: main/page/6post.php:129
+msgid "Allow using Shortcode in post titles"
+msgstr "Izinkan penggunaan Shortcode pada judul artikel"
+
+#: main/page/6post.php:130
+msgid ""
+"This feature allows you to add Shortcode to post titles, which is very "
+"convenient for using custom tools"
+msgstr ""
+"Fitur ini memungkinkan Anda menambahkan Kode Pendek ke judul postingan, yang "
+"sangat nyaman saat menggunakan alat penyesuaian"
+
+#: main/page/6post.php:135
+msgid "Newly edited posts will be displayed first"
+msgstr "Postingan yang baru diedit akan ditampilkan terlebih dahulu"
+
+#: main/page/6post.php:136
+msgid ""
+"This feature allows you to set newly edited posts to be displayed first in "
+"the main loop"
+msgstr ""
+"Fitur ini memungkinkan Anda mengatur postingan yang baru diedit, untuk "
+"ditampilkan pertama kali di loop utama"
+
+#: main/page/6post.php:137
+msgid "Hide post categories from homepage"
+msgstr "Sembunyikan kategori artikel dari beranda"
+
+#: main/page/6post.php:142
+msgid "Enable if you want to hide categories"
+msgstr "Aktifkan jika Anda ingin menyembunyikan kategori"
+
+#: main/page/6post.php:146
+msgid ""
+"Enable and add the category IDs you want to hide from the main loop "
+"displaying posts on the homepage, for example: 1, 2, 3"
+msgstr ""
+"Aktifkan dan tambahkan ID kategori yang ingin Anda sembunyikan dari loop "
+"utama yang menampilkan postingan di halaman beranda, misalnya 1, 2, 3"
+
+#: main/page/6post.php:147
+msgid "Advanced image viewing feature in posts"
+msgstr "Fitur tampilan gambar tingkat lanjut dalam artikel"
+
+#: main/page/6post.php:153
+msgid "Enable advanced image viewing"
+msgstr "Aktifkan mode tampilan gambar tingkat lanjut"
+
+#: main/page/6post.php:159
+msgid "Show full image"
+msgstr "Tampilkan semua gambar"
+
+#: main/page/6post.php:161
+msgid ""
+"This feature uses the Fancybox library, allowing you to open images in posts "
+"for viewing"
+msgstr ""
+"Fitur ini menggunakan perpustakaan Fancybox, memungkinkan Anda membuka "
+"gambar di postingan untuk dilihat"
+
+#: main/page/7mail.php:13 main/page/7mail.php:15
+msgid "Configure SMTP mail"
+msgstr "Konfigurasikan email SMTP"
+
+#: main/page/7mail.php:20
+msgid "Enable SMTP mail"
+msgstr "Aktifkan email SMTP"
+
+#: main/page/7mail.php:22
+msgid ""
+"Enable SMTP mail to allow SMTP mail to function and send emails when you "
+"perform a test"
+msgstr ""
+"Aktifkan email SMTP untuk mengizinkan email SMTP berfungsi dan mengirim "
+"email saat Anda melakukan pengujian"
+
+#: main/page/7mail.php:30 main/page/7mail.php:31
+msgid "Sender name"
+msgstr "Nama pengirim"
+
+#: main/page/7mail.php:33
+msgid "Sender email address"
+msgstr "Alamat email pengirim"
+
+#: main/page/7mail.php:39 main/page/7mail.php:40
+msgid "App password"
+msgstr "Kata sandi aplikasi"
+
+#: main/page/7mail.php:42
+msgid "SMTP server"
+msgstr "server SMTP"
+
+#: main/page/7mail.php:45
+msgid "SMTP port"
+msgstr "Pelabuhan SMTP"
+
+#: main/page/7mail.php:48
+msgid "SMTP protocol"
+msgstr "protokol SMTP"
+
+#: main/page/7mail.php:58
+msgid "Authenticate outgoing mail"
+msgstr "Verifikasi surat keluar"
+
+#: main/page/7mail.php:60
+msgid "SMTP authentication"
+msgstr "Otentikasi SMTP"
+
+#: main/page/7mail.php:66
+msgid "Send test email"
+msgstr "Kirim email percobaan"
+
+#: main/page/7mail.php:68
+msgid "Enter email"
+msgstr "Masukkan email"
+
+#: main/page/7mail.php:69
+msgid "Send"
+msgstr "Mengirim"
+
+#: main/page/7mail.php:72
+msgid "Please wait for the email to be sent"
+msgstr "Harap tunggu hingga email terkirim"
+
+#: main/page/7mail.php:135
+msgid "Create welcome email for registered users"
+msgstr "Buat email selamat datang untuk pengguna terdaftar"
+
+#: main/page/7mail.php:139
+msgid "Enable email sending"
+msgstr "Izinkan pengiriman email"
+
+#: main/page/7mail.php:140
+msgid ""
+"You need to activate this feature and customize the content below so that "
+"new registered users can receive emails"
+msgstr ""
+"Anda perlu mengaktifkan fitur ini dan menyesuaikan konten di bawah sehingga "
+"pengguna yang baru mendaftar dapat menerima email"
+
+#: main/page/7mail.php:142
+msgid "Email subject"
+msgstr "Subjek email"
+
+#: main/page/7mail.php:145
+msgid "Enter email content here"
+msgstr "Masukkan konten email di sini"
+
+#: main/page/7mail.php:148
+msgid "Comment notification"
+msgstr "Pemberitahuan komentar"
+
+#: main/page/7mail.php:153
+msgid "Email notification when there a reply"
+msgstr "Beritahukan melalui email bila ada tanggapan"
+
+#: main/page/7mail.php:154
+msgid ""
+"If someone replies to a comment, there will be an email notification sent to "
+"the commenter"
+msgstr ""
+"Jika seseorang membalas komentar, pemberitahuan email akan dikirimkan ke "
+"pemberi komentar"
+
+#: main/page/7mail.php:159
+msgid "Email notification when a post has a comment"
+msgstr "Beri tahu melalui email ketika postingan memiliki komentar"
+
+#: main/page/7mail.php:160
+msgid "Notify the post author when someone comments on the post"
+msgstr ""
+"Beri tahu penulis postingan ketika seseorang mengomentari postingan tersebut"
+
+#: main/page/8woo.php:4
+msgid "WOOCOMMERCE"
+msgstr "WOOCOMMERCE"
+
+#: main/page/8woo.php:12
+msgid "Modify content"
+msgstr "Ubah konten"
+
+#: main/page/8woo.php:14
+msgid "Change the Buy Now text on the single product page"
+msgstr "Ubah teks Beli Sekarang di halaman produk"
+
+#: main/page/8woo.php:17
+msgid "The text to replace Buy Now on the product page"
+msgstr "Teks alternatif Beli sekarang di bagian produk"
+
+#: main/page/8woo.php:20
+msgid "Display text if the price is 0"
+msgstr "Tampilkan teks jika harga 0"
+
+#: main/page/8woo.php:23
+msgid "Display text if out of stock"
+msgstr "Tampilkan teks jika stok habis"
+
+#: main/page/8woo.php:25
+msgid "Modify some information on Woocommerce that you want"
+msgstr "Ubah beberapa informasi di Woocommerce sesuai keinginan Anda"
+
+#: main/page/8woo.php:26
+msgid "Customize Currency Unit"
+msgstr "Sesuaikan Satuan Mata Uang"
+
+#: main/page/8woo.php:28
+msgid "Enter units"
+msgstr "Masukkan satuan"
+
+#: main/page/8woo.php:30
+msgid "This feature allows you to customize the currency symbol as desired"
+msgstr ""
+"Fitur ini memungkinkan Anda untuk menyesuaikan simbol mata uang sesuai "
+"keinginan"
+
+#: main/page/8woo.php:32
+msgid "Configure order notifications to be sent to Telegram"
+msgstr "Konfigurasikan notifikasi pesanan untuk dikirim ke Telegram"
+
+#: main/page/8woo.php:37
+msgid "Enable notifications"
+msgstr "Aktifkan notifikasi"
+
+#: main/page/8woo.php:39
+msgid "API Token"
+msgstr "API Token"
+
+#: main/page/8woo.php:40
+msgid "Chat ID"
+msgstr "Chat ID"
+
+#: main/page/8woo.php:41
+msgid ""
+"With this feature, you can notify your orders to your Telegram group, "
+"helping you manage orders conveniently"
+msgstr ""
+"Dengan fitur ini, Anda dapat memberitahukan pesanan Anda ke grup Telegram, "
+"membantu Anda mengelola pesanan dengan nyaman."
+
+#: main/page/9user.php:12
+msgid "Set access and viewing permissions"
+msgstr "Atur akses dan izin melihat"
+
+#: main/page/9user.php:17
+msgid "Filter posts and images"
+msgstr "Filter postingan dan gambar"
+
+#: main/page/9user.php:18
+msgid ""
+"With this feature, regular users can only view their own posts and images "
+"they uploaded, while the admin can view all of them"
+msgstr ""
+"Dengan fitur ini, pengguna biasa hanya bisa melihat postingan dan gambar "
+"yang mereka unggah sendiri, sedangkan admin bisa melihat semuanya."
+
+#: main/page/9user.php:24
+msgid "Only admin has access to the admin page"
+msgstr "Hanya admin yang memiliki akses ke halaman admin"
+
+#: main/page/9user.php:25
+msgid "With this feature, regular users cannot access the WordPress admin page"
+msgstr ""
+"Dengan fitur ini, pengguna biasa tidak dapat mengakses halaman admin "
+"WordPress"
+
+#: main/page/9user.php:31
+msgid "Display ID in the management page"
+msgstr "Tampilkan ID di halaman manajemen"
+
+#: main/page/9user.php:32
+msgid "Allow displaying member IDs on the profile management page"
+msgstr "Memungkinkan menampilkan ID anggota pada halaman manajemen profil"
+
+#: main/page/9user.php:34
+msgid "Option to display the Admin bar"
+msgstr "Pilihan untuk menampilkan bilah Admin"
+
+#: main/page/9user.php:39
+msgid "Disable the Admin Bar"
+msgstr "Nonaktifkan bilah admin"
+
+#: main/page/9user.php:51
+msgid ""
+"If you find the Admin Bar distracting every time you view the website, you "
+"can turn it off (there is an option for you to turn off all or only turn off "
+"for users)"
+msgstr ""
+"Jika Anda merasa Bilah Admin mengganggu setiap kali Anda melihat situs, Anda "
+"dapat menonaktifkannya (ada opsi yang memungkinkan Anda menonaktifkannya "
+"untuk semua atau hanya untuk pengguna)"
+
+#: main/page/9user.php:53
+msgid "Add avatar upload functionality"
+msgstr "Tambahkan fungsi untuk mengunduh avatar"
+
+#: main/page/9user.php:58
+msgid "Allow avatar upload"
+msgstr "Izinkan mengunggah gambar profil"
+
+#: main/page/9user.php:59
+msgid ""
+"With this feature, there will be an additional button in the profile section "
+"allowing users to upload avatars"
+msgstr ""
+"Dengan fitur ini, akan ada tombol tambahan di bagian profil yang "
+"memungkinkan pengguna mengunggah avatar"
+
+#: main/page/ft-about1.php:5
+msgid "Information about your website"
+msgstr "Informasi tentang situs web Anda"
+
+#: main/page/ft-about1.php:8
+msgid "Foxtool:"
+msgstr "Foxtool:"
+
+#: main/page/ft-about1.php:47
+msgid "The GD library has been installed"
+msgstr "Perpustakaan GD telah diinstal"
+
+#: main/page/ft-about1.php:49
+msgid "The GD library has not been installed"
+msgstr "Perpustakaan GD tidak diinstal"
+
+#: main/page/ft-about1.php:54
+msgid "Plugin development"
+msgstr "Pengembangan plugin"
+
+#: main/page/ft-about1.php:56
+msgid "Developed by:"
+msgstr "Dikembangkan oleh:"
+
+#: main/page/ft-about1.php:57
+msgid "Author:"
+msgstr "Pengarang:"
+
+#: main/page/ft-about1.php:58
+msgid "Contributions:"
+msgstr "Menyumbang:"
+
+#: main/page/ft-about2.php:5
+msgid "Your database"
+msgstr "Basis data Anda"
+
+#: main/page/ft-about2.php:8
+msgid "Table name"
+msgstr "Nama tabel"
+
+#: main/page/ft-about2.php:9
+msgid "Field"
+msgstr "Sekolah"
+
+#: main/page/ft-about2.php:17
+msgid "Total data"
+msgstr "Jumlah data"
+
+#: main/page/ft-about2.php:20
+msgid "System"
+msgstr "Sistem"
+
+#: main/page/ft-about2.php:21
+msgid "Empty"
+msgstr "Kosong"
+
+#: main/page/ft-about2.php:22
+msgid "Data"
+msgstr "Data"
+
+#: main/page/ft-aff.php:6
+msgid "Donate to me"
+msgstr "Kirimi saya kopi"
+
+#: main/page/ft-aff.php:16
+msgid "If you find it helpful"
+msgstr "Jika Anda merasa itu berguna"
+
+#: main/page/ft-aff.php:17
+msgid "Rate now"
+msgstr "Nilai sekarang"
+
+#: main/page/ft-aff.php:21
+msgid "Join the Facebook group"
+msgstr "Bergabunglah dengan grup Facebook"
+
+#: main/page/ft-aff.php:22 main/page/ft-aff.php:27
+msgid "Join"
+msgstr "Bergabung"
+
+#: main/page/ft-aff.php:26
+msgid "Join the Telegram group"
+msgstr "Bergabunglah dengan grup Telegram"
+
+#: main/page/ft-setting.php:5
+msgid "Advanced settings"
+msgstr "Pengaturan lanjutan"
+
+#: main/page/ft-setting.php:10
+msgid "Hide Admin account from profile page"
+msgstr "Sembunyikan akun Admin dari halaman profil"
+
+#: main/page/ft-setting.php:15 main/page/ft-setting.php:33
+msgid "Do not select"
+msgstr "Jangan pilih"
+
+#: main/page/ft-setting.php:22 main/page/ft-setting.php:40
+msgid "Select admin"
+msgstr "Pilih admin"
+
+#: main/page/ft-setting.php:24
+msgid "If you want to hide a specific Administrator account, select the user"
+msgstr ""
+"Jika Anda ingin menyembunyikan akun Administrator tertentu, pilih pengguna"
+
+#: main/page/ft-setting.php:29
+msgid "Limit Foxtool display"
+msgstr "Batas tampilan Foxtool"
+
+#: main/page/ft-setting.php:42
+msgid ""
+"This feature allows you to only display Foxtool to a specific Admin account"
+msgstr ""
+"Fitur ini memungkinkan Anda menampilkan Foxtool hanya ke akun Administrator "
+"tertentu"
+
+#: main/page/ft-setting.php:43
+msgid "Delete settings:"
+msgstr "Hapus pengaturan:"
+
+#: main/page/ft-setting.php:45 main/page/ft-setting.php:51
+msgid "Hide Foxtool"
+msgstr "Sembunyikan Foxtool"
+
+#: main/page/ft-setting.php:53
+msgid ""
+"You can hide Foxtool from the WP menu, but you can still access it through "
+"the link. This will hide Foxtool for all accounts"
+msgstr ""
+"Điều này có thể được thực hiện bởi Foxtool trong menu WP, đây sẽ là lựa chọn "
+"tốt nhất. Điều này sẽ ẩn Foxtool cho tất cả các tài khoản"
+
+#: main/page/ft-setting.php:61
+msgid "Hide Foxtool in the plugin manager"
+msgstr "Sembunyikan plugin manajemen browser Foxtool"
+
+#: main/page/ft-setting.php:63
+msgid "This feature will hide Foxtool from the plugin management page"
+msgstr "Fitur ini akan menyembunyikan Foxtool dari halaman manajemen plugin"
+
+#: main/page/ft-setting.php:65
+msgid "Display language settings"
+msgstr "Pengaturan bahasa tampilan"
+
+#: main/page/ft-setting.php:74
+msgid "Language"
+msgstr "Bahasa"
+
+#: main/page/ft-setting.php:76
+msgid ""
+"If you dont want to automatically switch the language based on WordPress "
+"context, please select the language you prefer"
+msgstr ""
+"Jika Anda tidak ingin mengganti bahasa secara otomatis berdasarkan konteks "
+"WordPress, silakan pilih bahasa yang Anda inginkan"
+
+#: main/page/ft-setting.php:78
+msgid "Customize display"
+msgstr "Sesuaikan tampilan"
+
+#: main/page/ft-setting.php:122
+msgid "Choose display interface according to your preference"
+msgstr "Pilih antarmuka tampilan sesuai dengan preferensi Anda"
+
+#: main/page/ft-setting.php:135
+msgid "Icon"
+msgstr "Ikon"
+
+#: main/page/ft-setting.php:137
+msgid "Change display name and icon to your preference"
+msgstr "Ubah nama tampilan dan ikon sesuai preferensi Anda"
+
+#: main/redirects.php:19 main/redirects.php:34
+msgid "301"
+msgstr "301"
+
+#: main/redirects.php:20 main/redirects.php:79
+msgid "404"
+msgstr "404"
+
+#: main/redirects.php:21 main/redirects.php:113
+msgid "503"
+msgstr "503"
+
+#: main/redirects.php:36
+msgid "Redirect 301 whole page"
+msgstr "301 mengarahkan ulang seluruh halaman"
+
+#: main/redirects.php:41
+msgid "Enable site-wide 301 redirects"
+msgstr "Izinkan pengalihan 301 di seluruh situs"
+
+#: main/redirects.php:43 main/redirects.php:56 main/redirects.php:57
+#: main/redirects.php:65 main/redirects.php:66 main/redirects.php:163
+#: main/redirects.php:164
+msgid "Enter the link"
+msgstr "Masukkan tautan"
+
+#: main/redirects.php:44
+msgid ""
+"This function will redirect all of your website pages to the destination "
+"page of your choice"
+msgstr ""
+"Fungsi ini akan mengarahkan semua halaman web Anda ke halaman arahan pilihan "
+"Anda"
+
+#: main/redirects.php:45
+msgid "Redirect 301 to a custom page"
+msgstr "301 dialihkan ke halaman khusus"
+
+#: main/redirects.php:50
+msgid "Enable 301 redirection"
+msgstr "Aktifkan pengalihan 301"
+
+#: main/redirects.php:52
+msgid "This function allows you to redirect 301 links to the target page"
+msgstr "Fungsi ini memungkinkan Anda mengalihkan 301 tautan ke halaman target"
+
+#: main/redirects.php:74
+msgid "Add link"
+msgstr "Tambahkan tautan"
+
+#: main/redirects.php:81
+msgid "404 redirects"
+msgstr "404 pengalihan"
+
+#: main/redirects.php:86
+msgid "Enable 404 redirection"
+msgstr "Aktifkan pengalihan 404"
+
+#: main/redirects.php:89
+msgid "Select redirect page"
+msgstr "Pilih halaman pengalihan"
+
+#: main/redirects.php:108
+msgid ""
+"Redirect the 404 page to the homepage or a custom page of your choice, leave "
+"the field blank if you want to redirect to the homepage"
+msgstr ""
+"Arahkan ulang halaman 404 ke beranda atau halaman khusus pilihan Anda, "
+"biarkan kolom kosong jika Anda ingin mengalihkan ke beranda"
+
+#: main/redirects.php:115
+msgid "Maintenance mode for developers (503)"
+msgstr "Mode pemeliharaan pengembang (503)"
+
+#: main/redirects.php:119
+msgid "Enable 503 maintenance mode"
+msgstr "Aktifkan mode pemeliharaan 503"
+
+#: main/redirects.php:120
+msgid ""
+"All links on your website will redirect to the maintenance page, and only "
+"logged-in admin accounts can view the content"
+msgstr ""
+"Semua tautan di situs Anda akan dialihkan ke halaman pemeliharaan, dan hanya "
+"akun admin yang masuk yang dapat melihat konten"
+
+#: main/search.php:19 main/search.php:32
+msgid "FOX SEARCH"
+msgstr "FOX SEARCH"
+
+#: main/search.php:34
+msgid "Quick search"
+msgstr "Pencarian cepat"
+
+#: main/search.php:39
+msgid "Enable quick search"
+msgstr "Aktifkan pencarian cepat"
+
+#: main/search.php:41
+msgid ""
+"Automatic initialization after <span id=\"sogiay\" style=\"padding: 5px;"
+"\">3</span>s"
+msgstr ""
+"Diinisialisasi secara otomatis setelah <span id=\"sogiay\" style=\"padding: "
+"5px;\">3</span>s"
+
+#: main/search.php:44
+msgid "Number of items displayed"
+msgstr "Jumlah tampilan"
+
+#: main/search.php:47
+msgid "Enter the number of posts or products to be displayed when searching"
+msgstr ""
+"Masukkan nomor artikel atau produk yang akan ditampilkan saat pencarian"
+
+#: main/search.php:51
+msgid "Main color"
+msgstr "Warna utama"
+
+#: main/search.php:62
+msgid "Light / Dark"
+msgstr "Terang / Gelap"
+
+#: main/search.php:65
+msgid "Change the color of the search box to your preferences"
+msgstr "Ubah warna kotak pencarian sesuai keinginan Anda"
+
+#: main/search.php:72
+msgid "Enable shortcodes"
+msgstr "Aktifkan shortcode"
+
+#: main/search.php:82
+msgid ""
+"You can use the shortcode to add the search icon to the location you want"
+msgstr ""
+"Anda dapat menggunakan kode pendek untuk menambahkan ikon pencarian ke "
+"lokasi yang Anda inginkan"
+
+#: main/search.php:84
+msgid "Create custom post type data"
+msgstr "Buat data jenis posting khusus"
+
+#: main/search.php:105
+msgid "Generate data"
+msgstr "Buat data"
+
+#: main/search.php:106
+msgid "Delete data"
+msgstr "Hapus data"
+
+#: main/search.php:171
+msgid "Number of data completed: '+sopost+'"
+msgstr "Jumlah data yang lengkap: '+sopost+'"
+
+#: main/search.php:175
+msgid "Please wait: '+sopost+'"
+msgstr "Harap tunggu: '+sopost+'"
+
+#: main/search.php:196
+msgid "Deletion successful"
+msgstr "Berhasil dihapus"
+
+#: main/search.php:206
+msgid ""
+"Configure the options and create search data. If you want to refresh, you "
+"can delete the search data and recreate it. After enabling quick search and "
+"completing data creation, a quick search popup will appear when you enter "
+"the search box on the website"
+msgstr ""
+"Konfigurasikan opsi dan hasilkan data pencarian. Jika ingin melakukan "
+"refresh, Anda dapat menghapus data pencarian dan membuatnya kembali. Setelah "
+"mengaktifkan pencarian cepat dan menyelesaikan pembuatan data, pop-up "
+"pencarian cepat akan muncul ketika Anda memasukkan konten ke dalam kotak "
+"pencarian di situs web"
+
+#: main/shortcode.php:19 main/shortcode.php:35
+msgid "LOCKVIP"
+msgstr "LOCKVIP"
+
+#: main/shortcode.php:20 main/shortcode.php:66
+msgid "SIGN"
+msgstr "SIGN"
+
+#: main/shortcode.php:21 main/shortcode.php:99
+msgid "DATE"
+msgstr "DATE"
+
+#: main/shortcode.php:22 main/shortcode.php:126
+msgid "GGET"
+msgstr "GGET"
+
+#: main/shortcode.php:37
+msgid "Shortcode content visible only to group of users"
+msgstr "Konten kode pendek hanya dapat dilihat oleh kelompok pengguna"
+
+#: main/shortcode.php:42
+msgid "Enable shortcode lock"
+msgstr "Aktifkan kode pendek penguncian konten"
+
+#: main/shortcode.php:58
+msgid "Enter note content"
+msgstr "Masukkan konten catatan"
+
+#: main/shortcode.php:60
+msgid "Content to be hidden"
+msgstr "Konten untuk disembunyikan"
+
+#: main/shortcode.php:61
+msgid ""
+"This shortcode allows you to lock any content, and only the selected group "
+"of logged-in users can view it"
+msgstr ""
+"Kode pendek ini memungkinkan Anda mengunci konten apa pun dan hanya "
+"sekelompok pengguna terpilih yang masuk yang dapat melihatnya"
+
+#: main/shortcode.php:68
+msgid "Signature shortcode"
+msgstr "Kode pendek tanda tangan"
+
+#: main/shortcode.php:73
+msgid "Enable signature shortcode"
+msgstr "Aktifkan kode pendek tanda tangan"
+
+#: main/shortcode.php:94
+msgid ""
+"If you want to display your signature anywhere, you can create content above "
+"and then use the generated shortcode at your desired location"
+msgstr ""
+"Jika Anda ingin menampilkan tanda tangan Anda di mana saja, Anda dapat "
+"membuat konten di atas dan kemudian menggunakan kode pendek di lokasi yang "
+"Anda inginkan"
+
+#: main/shortcode.php:101
+msgid "Shortcode to display date"
+msgstr "Shortcode untuk menampilkan tanggal"
+
+#: main/shortcode.php:106
+msgid "Enable date shortcode"
+msgstr "Aktifkan shortcode pada"
+
+#: main/shortcode.php:121
+msgid ""
+"This shortcode is used to display the date in the post title. Please note "
+"that you need to enable the shortcode usage in the post title under the "
+"POST, PAGE section"
+msgstr ""
+"Shortcode ini digunakan untuk menampilkan tanggal pada judul postingan. "
+"Perhatikan bahwa Anda perlu mengaktifkan fitur penggunaan shortcode pada "
+"judul artikel di bagian POST dan PAGE"
+
+#: main/shortcode.php:128
+msgid "Download button GGET shortcode"
+msgstr "Tombol unduh GGET shortcode"
+
+#: main/shortcode.php:133
+msgid "Enable GGET shortcode"
+msgstr "Aktifkan shortcode GGET"
+
+#: main/shortcode.php:139
+msgid "Display link when seconds expire"
+msgstr "Tampilkan tautan ketika detiknya habis"
+
+#: main/shortcode.php:145
+msgid "Center-align button on page"
+msgstr "Tombol tengah di halaman"
+
+#: main/shortcode.php:149
+msgid "Enter waiting time"
+msgstr "Masukkan batas waktu"
+
+#: main/shortcode.php:161
+msgid "Border size"
+msgstr "Ukuran perbatasan"
+
+#: main/shortcode.php:168 main/shortcode.php:169 main/shortcode.php:170
+msgid "Download link"
+msgstr "Tautan unduhan"
+
+#: main/shortcode.php:169 main/shortcode.php:170
+msgid "Button name"
+msgstr "Nama tombol"
+
+#: main/shortcode.php:170
+msgid "Other links"
+msgstr "Tautan lainnya"
+
+#: main/shortcode.php:171
+msgid "This shortcode is used to create a download button with a timeout"
+msgstr ""
+"Kode pendek ini digunakan untuk membuat tombol unduh dengan batas waktu"
+
+#: main/toc.php:34
+msgid "Table of contents configuration"
+msgstr "Konfigurasi daftar isi"
+
+#: main/toc.php:39
+msgid "Enable table of contents"
+msgstr "Aktifkan daftar isi"
+
+#: main/toc.php:61
+msgid "Select the custom post for which you want to display TOC content"
+msgstr "Pilih postingan khusus yang ingin Anda tampilkan konten TOCnya"
+
+#: main/toc.php:62
+msgid "Shortcodes"
+msgstr "Shortcode"
+
+#: main/toc.php:70
+msgid ""
+"You can use the shortcode in the editor and add it to the position you want, "
+"note: only use 1 shortcode in the post"
+msgstr ""
+"Anda dapat menggunakan shortcode di editor dan menambahkannya ke posisi yang "
+"Anda inginkan, catatan: gunakan hanya 1 shortcode di postingan"
+
+#: main/toc.php:71
+msgid "Advanced configuration"
+msgstr "Konfigurasi lanjutan"
+
+#: main/toc.php:73
+msgid "Enter a title"
+msgstr "Masukkan judul"
+
+#: main/toc.php:154
+msgid "Automatically open popup when scrolling down"
+msgstr "Buka popup secara otomatis saat menggulir ke bawah"
+
+#: main/toc.php:160
+msgid "Disable numbers in front of tags"
+msgstr "Nonaktifkan nomor di depan tag"
+
+#: main/toc.php:166
+msgid "List is hidden by default"
+msgstr "Daftar disembunyikan secara default"
+
+#: main/toc.php:172
+msgid "Hide minimized list"
+msgstr "Sembunyikan daftar yang diperkecil"
+
+#: main/toc.php:174
+msgid "Customize TOC display position"
+msgstr "Sesuaikan posisi tampilan TOC"
+
+#: main/toc.php:179
+msgid "Enable customization"
+msgstr "Aktifkan penyesuaian"
+
+#: main/toc.php:185
+msgid "Customize display and colors"
+msgstr "Sesuaikan warna dan tampilan"
+
+#: main/toc.php:190
+msgid "Enable color and display customization"
+msgstr "Aktifkan penyesuaian warna dan tampilan"
+
+#: main/toc.php:192
+msgid "List color"
+msgstr "Warna daftar"
+
+#: main/toc.php:199
+msgid "Border color"
+msgstr "Warna perbatasan"
+
+#: main/toc.php:203
+msgid "Link color"
+msgstr "Warna tautan"
+
+#: main/toc.php:207
+msgid "Selection color"
+msgstr "Warna pilihan"
+
+#: main/toc.php:211
+msgid "Scroll bar color"
+msgstr "Warna bilah gulir"
+
+#: main/toc.php:215
+msgid "H tag color when scrolled to"
+msgstr "H warna tag saat digulir ke"
+
+#: main/toc.php:218
+msgid "Title color"
+msgstr "Warna judul"
+
+#: main/toc.php:221
+msgid "Background title"
+msgstr "Judul latar belakang"
+
+#: main/toc.php:225
+msgid "Title text and icon color"
+msgstr "Teks judul dan warna ikon"
+
+#: main/toc.php:228
+msgid "Quick view button color"
+msgstr "Warna tombol tampilan cepat"
+
+#: main/toc.php:231
+msgid "Icon background color"
+msgstr "Warna latar belakang ikon"
+
+#: main/toc.php:235
+msgid "Icon border color"
+msgstr "Warna batas ikon"
+
+#: main/toc.php:245
+msgid "Font size"
+msgstr "Ukuran huruf"
+
+#: main/toc.php:253
+msgid "Icon border radius"
+msgstr "Perbatasan ikon"
+
+#: main/toc.php:255
+msgid "Customize icons and positions"
+msgstr "Sesuaikan ikon dan posisi"
+
+#: main/toc.php:274
+msgid "Popup location"
+msgstr "Lokasi popup"
+
+#: main/toc.php:278
+msgid "Distance above"
+msgstr "Jarak di atas"
+
+#: page/503.php:3
+msgid "MAINTENANCE MODE"
+msgstr "MODE PEMELIHARAAN"
+
+#: page/503.php:4
+msgid ""
+"We apologize, the website is currently undergoing maintenance. Please wait "
+"for a moment"
+msgstr ""
+"Mohon maaf, website ini sedang dalam pemeliharaan. Mohon tunggu sebentar"
+
+#~ msgid "Welcome to"
+#~ msgstr "Selamat datang"
+
+#~ msgid "WEBSITE INFORMATION"
+#~ msgstr "INFORMASI SITUS WEB"
+
+#~ msgid "CODE"
+#~ msgstr "CODE"
+
+#~ msgid "Foxtool configuration data export box"
+#~ msgstr "Kotak ekspor data konfigurasi Foxtool"
+
+#~ msgid "Foxtool configuration data import box"
+#~ msgstr "Kotak input data konfigurasi Foxtool"
+
+#~ msgid "Code configuration data export box"
+#~ msgstr "Kotak ekspor data konfigurasi kode"
+
+#~ msgid "Code configuration data import box"
+#~ msgstr "Kotak input data konfigurasi kode"
+
+#~ msgid "IMPORT CODE DATA"
+#~ msgstr "IMPOR DATA KODE"
+
+#~ msgid "EXTEND"
+#~ msgstr "EXTEND"
+
+#~ msgid "Enter widget content here"
+#~ msgstr "Masukkan konten widget di sini"
+
+#~ msgid "Select display type"
+#~ msgstr "Pilih jenis tampilan"
+
+#~ msgid "Color options"
+#~ msgstr "Pilihan warna"
+
+#~ msgid "Main icon background color"
+#~ msgstr "Warna latar belakang ikon utama"
+
+#~ msgid "Change the font for the page"
+#~ msgstr "Ubah font untuk halaman tersebut"
+
+#~ msgid ""
+#~ "Choose a font style for your website. Once selected, all the text on your "
+#~ "website will switch to the font style you choose"
+#~ msgstr ""
+#~ "Pilih gaya font untuk situs web Anda. Setelah dipilih, semua teks di "
+#~ "situs web Anda akan beralih ke gaya font yang Anda pilih"
+
+#~ msgid "Automatically name uploaded libraries"
+#~ msgstr "Secara otomatis memberi nama perpustakaan yang diunggah"
+
+#~ msgid ""
+#~ "The name will be set with the domain name of the website and 10 random "
+#~ "characters"
+#~ msgstr ""
+#~ "Nama akan ditetapkan menggunakan nama domain situs web dan 10 karakter "
+#~ "acak"
+
+#~ msgid "Advanced Ajax with WooCommerce"
+#~ msgstr "Ajax tingkat lanjut dengan WooCommerce"
+
+#~ msgid "Ajax add to cart on single product page"
+#~ msgstr "Ajax tambahkan ke troli di halaman produk"
+
+#~ msgid "Enable Ajax for the add to cart button on the single product page"
+#~ msgstr "Aktifkan Ajax untuk tombol tambahkan ke troli di halaman produk"
+
+#~ msgid "Ajax quantity button"
+#~ msgstr "Tombol kuantitas Ajax"
+
+#~ msgid ""
+#~ "The quantity buttons on the single product page and the cart page will be "
+#~ "adjusted to work with Ajax"
+#~ msgstr ""
+#~ "Tombol kuantitas pada halaman produk dan halaman keranjang akan diatur "
+#~ "agar berfungsi dengan Ajax"
+
+#~ msgid "Loading"
+#~ msgstr "Memuat"
+
+#~ msgid "Select a loading animation for Ajax product on the website"
+#~ msgstr "Pilih animasi saat memuat produk Ajax di situs web"
+
+#~ msgid "Convert \"đ\" to \"VNĐ\" (Vietnamese currency unit)"
+#~ msgstr "Konversikan \"d\" ke \"VND\" (Satuan mata uang Vietnam)"
+
+#~ msgid "We apologize, the website is currently undergoing maintenance"
+#~ msgstr "Mohon maaf, website ini sedang dalam pemeliharaan"
+
+#~ msgid "Maintenance"
+#~ msgstr "Pemeliharaan"
+
+#~ msgid "SHORTCODE"
+#~ msgstr "SHORTCODE"
+
+#~ msgid "Search icon color"
+#~ msgstr "Warna ikon pencarian"
+
+#~ msgid "does not exist"
+#~ msgstr "tidak ada"
+
+#~ msgid "POST"
+#~ msgstr "POST"
+
+#~ msgid "ADS"
+#~ msgstr "ADS"
+
+#~ msgid "Google index function"
+#~ msgstr "Fungsi indeks Google"
+
+#~ msgid "Automatically index when published"
+#~ msgstr "Secara otomatis mengindeks saat dipublikasikan"
+
+#~ msgid ""
+#~ "You can enable the post types you want so that when you press publish, it "
+#~ "will automatically index"
+#~ msgstr ""
+#~ "Anda dapat mengaktifkan jenis postingan yang Anda inginkan sehingga "
+#~ "ketika Anda menekan publikasikan, postingan tersebut akan terindeks "
+#~ "secara otomatis"
+
+#~ msgid "Add unlimited Google index json"
+#~ msgstr "Tambahkan indeks Google json tanpa batas"
+
+#~ msgid "Tawk.to"
+#~ msgstr "Tawk.to"
+
+#~ msgid "Enter Tawk.to code"
+#~ msgstr "Masukkan kode Tawk.to"
+
+#~ msgid "Enable Tawk.to and add its code to use it"
+#~ msgstr "Aktifkan Tawk.to dan tambahkan kodenya untuk menggunakannya"
+
+#~ msgid ""
+#~ "This shortcode is used to create a download button with a waiting time. "
+#~ "If it a Google Drive download link that isnt virus scanned, the file will "
+#~ "be downloaded directly"
+#~ msgstr ""
+#~ "Shortcode ini digunakan untuk membuat tombol download dengan batas waktu. "
+#~ "Jika link download Google Drive tidak di scan virus maka file akan "
+#~ "langsung terdownload"
+
+#~ msgid "POST, PAGE"
+#~ msgstr "POST, PAGE"
+
+#~ msgid ""
+#~ "Enable if you want to add the duplicate post or page feature in the post "
+#~ "or page management interface"
+#~ msgstr ""
+#~ "Aktifkan jika Anda ingin menambahkan kloning ke antarmuka manajemen "
+#~ "postingan atau halaman Anda"
+
+#~ msgid "Clear the cache to refresh the configuration"
+#~ msgstr "Hapus cache untuk menyegarkan konfigurasi"
+
+#~ msgid ""
+#~ "After completing your setup on Foxtool, if you are using speed "
+#~ "optimization or caching plugins, please clear all caches so that the new "
+#~ "features are updated and functioning properly"
+#~ msgstr ""
+#~ "Setelah menyelesaikan pengaturan Anda di Foxtool, jika Anda menggunakan "
+#~ "plugin caching atau pengoptimalan kecepatan, harap hapus semua cache agar "
+#~ "fitur diperbarui dan berfungsi dengan baik"
+
+#~ msgid "/linked"
+#~ msgstr "/link"
+
+#~ msgid "EXPORT & IMPORT DATA FOXTOOL"
+#~ msgstr "EKSPOR & IMPOR DATA FOXTOOL"
+
+#~ msgid "EXPORT & IMPORT CODE DATA"
+#~ msgstr "EKSPOR & IMPOR DATA KODE"
+
+#~ msgid "CONTENT CLEANUP"
+#~ msgstr "PEMBERSIHAN KONTEN"
+
+#~ msgid "COMMENT CLEANUP"
+#~ msgstr "PEMBERSIHAN KOMENTAR"
+
+#~ msgid "MEDIA CLEANUP"
+#~ msgstr "PEMBERSIHAN MEDIA"
+
+#~ msgid "Enable photo upload customization"
+#~ msgstr "Aktifkan penyesuaian unggahan foto"
+
+#~ msgid "Dark Mode"
+#~ msgstr "Mode gelap"
+
+#~ msgid "Enter the hidden page, for example: slug-page (line by line)"
+#~ msgstr "Masuk ke halaman tersembunyi, misal halaman slug (baris demi baris)"
+
+#~ msgid "Send test email to administrator account"
+#~ msgstr "Kirim email percobaan ke akun admin"
+
+#~ msgid "Compress PNG images to 8bit"
+#~ msgstr "Nén hình ảnh PNG thành 8bit"
+
+#~ msgid "Enable PNG compression to 8bit"
+#~ msgstr "Kích hoạt nén PNG thành 8bit"
+
+#~ msgid ""
+#~ "This function will compress PNG images to 8bit, but the image will lose "
+#~ "transparency"
+#~ msgstr ""
+#~ "Chức năng này sẽ nén hình ảnh PNG xuống 8bit, nhưng hình ảnh sẽ mất độ "
+#~ "trong suốt"
+
+#~ msgid "Backup"
+#~ msgstr "Sao lưu"
+
+#~ msgid "Enter tag h"
+#~ msgstr "Nhập thẻ h"
+
+#, fuzzy
+#~| msgid "Code configuration data export box"
+#~ msgid "Configuration table of contents"
+#~ msgstr "Hộp xuất dữ liệu cấu hình code"
+
+#~ msgid "Enable the chat button and configure the content below for use"
+#~ msgstr "Kích hoạt nút trò chuyện và cấu hình nội dung bên dưới để sử dụng"
+
+#~ msgid "Donate to the author"
+#~ msgstr "Gửi cafe cho tác giả"
+
+#~ msgid "The best VPS today"
+#~ msgstr "VPS tốt nhất hiện nay"
+
+#~ msgid "Register now"
+#~ msgstr "Đăng ký ngay"
+
+#~ msgid "Charged hourly, deducted monthly. Top 3 VPS in the world"
+#~ msgstr "Tính theo giờ, trả tiền theo tháng. Top 3 VPS tốt nhất thế giới"
+
+#~ msgid "Powerful AI tools"
+#~ msgstr "Công cụ AI mạnh mẽ"
+
+#~ msgid "Write AI content, powerful AI tools and write SEO standard articles"
+#~ msgstr "Viết nội dung AI, công cụ AI mạnh mẽ và viết bài chuẩn SEO"
+
+#~ msgid "Capacity"
+#~ msgstr "Dữ liệu"
+
+#~ msgid "Full-screen browsing mode"
+#~ msgstr "Chế độ duyệt toàn màn hình"
+
+#~ msgid "Add Write and Edit buttons to the Classic Editor"
+#~ msgstr "Thêm nút soạn thảo cổ điển"
+
+#~ msgid "Profile picture"
+#~ msgstr "Ảnh đại diện"
+
+#~ msgid "Delete for database optimization"
+#~ msgstr "Xóa để tối ưu hóa cơ sở dữ liệu"

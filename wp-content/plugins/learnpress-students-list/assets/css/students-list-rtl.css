@@ -1,0 +1,32 @@
+.lp-course-students-list-wrapper ul.lp-students-list-wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-gap: 20px;
+  margin: 0;
+  padding: 0;
+}
+.lp-course-students-list-wrapper ul.lp-students-list-wrapper li {
+  list-style: none;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  padding: 10px;
+}
+.lp-course-students-list-wrapper ul.lp-students-list-wrapper li .student-course-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.lp-course-students-list-wrapper ul.lp-students-list-wrapper li .student-course-item img {
+  width: 70px;
+  height: auto;
+  border-radius: 50%;
+}
+.lp-course-students-list-wrapper ul.lp-students-list-wrapper li .student-course-item .student-info {
+  word-break: break-all;
+}
+.lp-course-students-list-wrapper .filter-students {
+  margin-bottom: 20px;
+}
+.lp-course-students-list-wrapper .students-list-btn-load-more {
+  margin-top: 20px;
+}

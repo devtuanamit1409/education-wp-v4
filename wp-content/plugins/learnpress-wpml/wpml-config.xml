@@ -1,0 +1,81 @@
+<wpml-config>
+	<custom-types>
+ 		<custom-type translate="1">lp_course</custom-type>
+ 		<custom-type translate="1">lp_lesson</custom-type>
+ 		<custom-type translate="1">lp_quiz</custom-type>
+ 		<custom-type translate="1">lp_question</custom-type>
+		<custom-type translate="1">page</custom-type>
+		<custom-type translate="0">lp_order</custom-type>
+		<custom-type translate="1">lp_assignment</custom-type>
+		<custom-type translate="1">lp_h5p</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">question_tag</taxonomy>
+		<taxonomy translate="1">course_tag</taxonomy>
+		<taxonomy translate="1">course_category</taxonomy>
+	</taxonomies>
+	<custom-fields>
+		<custom-field action="copy">_lp_attachments</custom-field>
+		<custom-field action="copy">_lp_certificate_price</custom-field>
+		<custom-field action="copy">_lp_cert_layers</custom-field>
+		<custom-field action="copy">_lp_cert_template</custom-field>
+		<custom-field action="copy">_lp_duration</custom-field>
+		<custom-field action="copy">_lp_explanation</custom-field>
+		<custom-field action="copy">_lp_file_extension</custom-field>
+		<custom-field action="copy">_lp_h5p_interact</custom-field>
+		<custom-field action="copy">_lp_hint</custom-field>
+		<custom-field action="copy">_lp_mark</custom-field>
+		<custom-field action="copy">_lp_passing_grade</custom-field>
+		<custom-field action="copy">_lp_pmpro_level</custom-field>
+		<custom-field action="copy">_lp_preview</custom-field>
+		<custom-field action="copy">_lp_retake_count</custom-field>
+		<custom-field action="copy">_lp_sample_data</custom-field>
+		<custom-field action="copy">_lp_type</custom-field>
+		<custom-field action="copy">_lp_upload_files</custom-field>
+		<custom-field action="copy">_lp_upload_file_limit</custom-field>
+		<custom-field action="copy">_lp_woo_courses_assigned</custom-field>
+		<custom-field action="copy">_lp_allow_course_repurchase</custom-field>
+		<custom-field action="copy">_lp_block_expire_duration</custom-field>
+		<custom-field action="copy">_lp_block_finished</custom-field>
+		<custom-field action="copy">_lp_course_repurchase_option</custom-field>
+		<custom-field action="copy">_lp_external_link_buy_course</custom-field>
+		<custom-field action="copy">_lp_featured</custom-field>
+		<custom-field action="copy">_lp_featured_review</custom-field>
+		<custom-field action="copy">_lp_has_finish</custom-field>
+		<custom-field action="ignore">_lp_info_extra_fast_query</custom-field>
+		<custom-field action="copy">_lp_instant_check</custom-field>
+		<custom-field action="copy">_lp_level</custom-field>
+		<custom-field action="copy">_lp_max_students</custom-field>
+		<custom-field action="copy">_lp_minus_skip_questions</custom-field>
+		<custom-field action="copy">_lp_negative_marking</custom-field>
+		<custom-field action="copy">_lp_page</custom-field>
+		<custom-field action="copy">_lp_pagination</custom-field>
+		<custom-field action="copy">_lp_price</custom-field>
+		<custom-field action="copy">_lp_review</custom-field>
+		<custom-field action="copy">_lp_show_correct_review</custom-field>
+		<custom-field action="copy">_lp_students</custom-field>
+		<custom-field action="copy">_lp_cert</custom-field>
+		<custom-field action="copy">_lp_course_author</custom-field>
+		<custom-field action="copy">_lp_faqs</custom-field>
+		<custom-field action="copy">_lp_hidden_questions</custom-field>
+		<custom-field action="copy">_lp_key_features</custom-field>
+		<custom-field action="copy">_lp_no_required_enroll</custom-field>
+		<custom-field action="copy">_lp_passing_condition</custom-field>
+		<custom-field action="copy">_lp_pmpro_levels</custom-field>
+		<custom-field action="copy">_lp_regular_price</custom-field>
+		<custom-field action="copy">_lp_required_enroll</custom-field>
+		<custom-field action="copy">_lp_requirements</custom-field>
+		<custom-field action="copy">_lp_sale_end</custom-field>
+		<custom-field action="copy">_lp_sale_price</custom-field>
+		<custom-field action="copy">_lp_sale_start</custom-field>
+		<custom-field action="copy">_lp_target_audiences</custom-field>
+		<custom-field action="copy">_lp_introduction</custom-field>
+		<custom-field action="copy">_lp_course_result</custom-field>
+		<custom-field action="copy">lp_payment_method</custom-field>
+		<custom-field action="copy">lp_payon_result</custom-field>
+		<custom-field action="copy">lp_status</custom-field>
+		<custom-field action="copy">lp_time_request</custom-field>
+		<custom-field action="copy">lp_time_resolve</custom-field>
+		<custom-field action="copy">lp_value</custom-field>
+	</custom-fields>
+</wpml-config>

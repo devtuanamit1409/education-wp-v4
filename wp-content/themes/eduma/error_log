@@ -1,0 +1,4 @@
+[04-Dec-2024 15:45:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mindjour/public_html/wp-content/themes/eduma/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/mindjour/public_html/wp-content/themes/eduma/index.php on line 12

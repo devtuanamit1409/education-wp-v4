@@ -1,0 +1,72 @@
+2024-12-02T07:16:00+00:00 DEBUG POST: https://ads.tiktok.com/marketing_api/api/developer/app/create_auto_approve/
+
+{"business_platform":"PROD","smb_id":"tt4b_woocommerce_674d5eb0bde1ahttpseduonebevnwp-admin","smb_name":"PROD","redirect_url":"https:\/\/edu.onebe.vn\/wp-admin\/"}
+ ajax: no
+2024-12-02T07:16:01+00:00 DEBUG Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+HTTP/1.1 502 Bad Gateway
+Content-Type: text/plain; charset=utf-8
+Content-Length: 119
+X-Tt-Logid: 202412020716008ACB916E600EA5385627
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+x-tt-trace-host: 01a9e9ad54ac870a25e70c59e3d5ab1b4b08788146afbf3e59f77dfff494d19b580cf2cd792422da87b0686b0223f1449d20d7fc2ee547b4c694411a699ae2e7d688bd80918fd6a556d6d8c3ea3151da40c11bbab00abe9ba4386014259b150ac316e9171aa55d797273add8b6362bc765
+x-tt-trace-id: 00-2412020716008ACB916E600EA5385627-10E1D40A463FA0E3-00
+Server: TLB
+X-Origin-Response-Time: 17,23.40.40.159
+X-Akamai-Request-ID: 1ec945cf.28c0a572
+Date: Mon, 02 Dec 2024 07:16:01 GMT
+X-Cache: TCP_MISS from a2-21-15-109.deploy.akamaitechnologies.com (AkamaiGHost/11.7.1-5d2a058efeda81c5505a169a6e16c38e) (-)
+Connection: close
+X-Cache-Remote: TCP_MISS from a23-40-40-159.deploy.akamaitechnologies.com (AkamaiGHost/11.7.1-5d2a058efeda81c5505a169a6e16c38e) (-)
+x-tt-trace-tag: id=16;cdn-cache=miss;type=dyn
+Server-Timing: cdn-cache; desc=MISS, edge; dur=167, origin; dur=17
+Server-Timing: inner; dur=4
+X-Parent-Response-Time: 180,2.21.15.109
+
+Bad Gateway | KRAKEND.BACKEND/3 - request failed/320202:connection is closed by peer while being in the connection pool
+2024-12-02T07:16:01+00:00 DEBUG Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+HTTP/1.1 200 OK
+Content-Type: application/json
+X-Tt-Logid: 202412020716005563EDC749CE073B26D1,202412020716005563EDC749CE073B26D1
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+x-tt-trace-host: 01a9e9ad54ac870a25e70c59e3d5ab1b4b08788146afbf3e59f77dfff494d19b585552ea07628b6611ab8c7bcab0cba3aab541054ae8c712095b426d0df4e7c2d43ed51e0c4ffe6ba120f4191d2858483dda9a9b00138764f458a177622a39878b00145263c4f6f34192065f8a27c7b2ab
+x-tt-trace-id: 00-2412020716005563EDC749CE073B26D1-38B1A95D4060887B-00
+Server: TLB
+Content-Encoding: gzip
+Content-Length: 203
+X-Origin-Response-Time: 84,23.40.40.165
+X-Akamai-Request-ID: 7425a913.28c0a5ca
+Date: Mon, 02 Dec 2024 07:16:01 GMT
+X-Cache: TCP_MISS from a2-21-15-109.deploy.akamaitechnologies.com (AkamaiGHost/11.7.1-5d2a058efeda81c5505a169a6e16c38e) (-)
+Connection: close
+Vary: Accept-Encoding
+X-Cache-Remote: TCP_MISS from a23-40-40-165.deploy.akamaitechnologies.com (AkamaiGHost/11.7.1-5d2a058efeda81c5505a169a6e16c38e) (-)
+x-tt-trace-tag: id=16;cdn-cache=miss;type=dyn
+Server-Timing: cdn-cache; desc=MISS, edge; dur=168, origin; dur=84
+Server-Timing: inner; dur=78
+X-Parent-Response-Time: 249,2.21.15.109
+
+{"code":0,"msg":"ok","data":{"external_data_key":"d612d2cc-0ab5-4a87-9ca0-2bd076883463","app_id":"7443709876120846354","redirect_uri":"https:\/\/edu.onebe.vn\/wp-admin\/","app_secret":"6c9fee684c896ff2c368cf3f601f8d942e05d8f2"}}
+2024-12-02T07:28:05+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: hit InitiateCheckout
+2024-12-02T07:28:05+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: Missing option "access_token"
+2024-12-02T07:35:45+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: hit InitiateCheckout
+2024-12-02T07:35:45+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: Missing option "access_token"
+2024-12-02T07:43:26+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: hit InitiateCheckout
+2024-12-02T07:43:26+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: Missing option "access_token"
+2024-12-02T07:45:07+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: hit InitiateCheckout
+2024-12-02T07:45:07+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: Missing option "access_token"
+2024-12-02T08:14:55+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: hit InitiateCheckout
+2024-12-02T08:14:55+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: Missing option "access_token"
+2024-12-02T08:17:42+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: hit InitiateCheckout
+2024-12-02T08:17:42+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: Missing option "access_token"
+2024-12-02T08:18:41+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: hit InitiateCheckout
+2024-12-02T08:18:41+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: Missing option "access_token"
+2024-12-02T08:46:36+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: hit InitiateCheckout
+2024-12-02T08:46:36+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: Missing option "access_token"
+2024-12-02T08:47:06+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: hit InitiateCheckout
+2024-12-02T08:47:06+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: Missing option "access_token"
+2024-12-02T08:47:28+00:00 DEBUG Tt4b_Pixel_Class::inject_purchase_event: hit Purchase
+2024-12-02T08:47:28+00:00 DEBUG Tt4b_Pixel_Class::inject_purchase_event: Missing option "access_token"
+2024-12-02T08:47:29+00:00 DEBUG Tt4b_Pixel_Class::inject_purchase_event: hit Purchase
+2024-12-02T08:47:29+00:00 DEBUG Tt4b_Pixel_Class::inject_purchase_event: Missing option "access_token"

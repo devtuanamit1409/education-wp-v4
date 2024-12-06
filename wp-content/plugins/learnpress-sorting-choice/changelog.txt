@@ -1,0 +1,12 @@
+= 4.0.1 =
+~ Move js in learnpress to sorting choice.
+
+= 4.0.0 =
+~ Compatible with LP4 and use with React.
+
+= 3.0.2 =
+~ Check question result always return true.
+
+= 3.0.1 =
+~ Fixed: load js dependencies wrong priority
+~ Fixed: check question is itself before change css class

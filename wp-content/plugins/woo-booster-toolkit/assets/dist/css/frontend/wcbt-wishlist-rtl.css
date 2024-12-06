@@ -1,0 +1,152 @@
+h1.wcbt-wishlist-title {
+  margin-bottom: 15px;
+}
+
+@media (max-width: 766px) {
+  .wcbt-wishlist-content .wcbt-product-container {
+    overflow: auto;
+  }
+}
+.wcbt-wishlist-content .wcbt-product-container table {
+  border: 0;
+  border-spacing: 24px;
+}
+
+@media (max-width: 766px) {
+  .wcbt-wishlist-content .wcbt-product-container table {
+    min-width: 800px;
+  }
+}
+.wcbt-wishlist-content .wcbt-product-container table tr,
+.wcbt-wishlist-content .wcbt-product-container table td {
+  border: 0;
+}
+
+.wcbt-wishlist-content .wcbt-product-container table tr img,
+.wcbt-wishlist-content .wcbt-product-container table td img {
+  max-width: 90px;
+  border-radius: 8px;
+  margin-left: 16px;
+}
+
+.wcbt-wishlist-content .wcbt-product-container table tr th:first-child,
+.wcbt-wishlist-content .wcbt-product-container table tr td:first-child {
+  width: 5%;
+}
+
+.wcbt-wishlist-content .wcbt-product-container table tr th:nth-child(2),
+.wcbt-wishlist-content .wcbt-product-container table tr td:nth-child(2) {
+  width: 50%;
+}
+
+.wcbt-wishlist-content .wcbt-product-container table tr th:nth-child(3),
+.wcbt-wishlist-content .wcbt-product-container table tr td:nth-child(3) {
+  width: 19%;
+}
+
+.wcbt-wishlist-content .wcbt-product-container table tr th:nth-child(4),
+.wcbt-wishlist-content .wcbt-product-container table tr td:nth-child(4) {
+  width: 16%;
+}
+
+.wcbt-wishlist-content .wcbt-product-container table tr:first-child {
+  border-bottom: 1px solid var(--wcbt-border-color, #eee);
+}
+
+.wcbt-wishlist-content .wcbt-product-container table tr:first-child th {
+  padding-bottom: 24px;
+  padding-right: 0px;
+}
+
+.wcbt-wishlist-content .wcbt-product-container table tr:nth-child(2) td {
+  padding-top: 24px;
+}
+
+.wcbt-wishlist-content .wcbt-product-container table tr td {
+  padding: 10px 0px 24px 24px;
+  border-bottom: 1px solid var(--wcbt-border-color, #eee);
+  vertical-align: middle;
+}
+
+.wcbt-wishlist-content .wcbt-product-container table tr td .button {
+  padding: 12px 20px;
+  border-radius: var(--wcbt-border-radius, 6px);
+  background: var(--wcbt-button-background, #003aaa);
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.wcbt-wishlist-content .wcbt-product-container table tr td .button:hover {
+  background: var(--wcbt-button-background-hover, #ffc700);
+}
+
+.wcbt-wishlist-content .wcbt-product-container table tr td a.added_to_cart.wc-forward {
+  display: inline-block;
+  margin: 20px auto 0;
+  text-align: center;
+}
+
+.wcbt-wishlist-content .wcbt-product-container table tr td a.product-remove {
+  display: block;
+  font-size: 23px;
+  cursor: pointer;
+}
+
+.wcbt-wishlist-content .wcbt-product-container table tr td a.product-remove:hover {
+  color: #ff0000;
+}
+
+.wcbt-wishlist-content .wcbt-product-container table tr td:first-child {
+  padding-right: 0;
+}
+
+.wcbt-wishlist-content .wcbt-product-container table tr td:nth-child(2) a {
+  font-weight: 500;
+}
+
+#wcbt-wishlist {
+  max-width: none !important;
+}
+
+@media (max-width: 1024px) {
+  #wcbt-wishlist {
+    margin: 0px;
+    padding: 0 15px;
+  }
+  #wcbt-wishlist .wcbt-wishlist-content .wcbt-product-container table tr td:nth-child(2) a {
+    width: 350px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: inline-block;
+  }
+  #wcbt-wishlist .wcbt-wishlist-content .wcbt-product-container table tr td .button {
+    padding: 9px 6px;
+    width: 100%;
+    display: inline-block;
+    text-wrap: nowrap;
+    text-align: center;
+  }
+}
+@media (max-width: 991px) {
+  .wcbt-wishlist-content [data-grid-col="3"] .wcbt-property-item {
+    max-width: 50%;
+  }
+  .wcbt-wishlist-content .wcbt-product-container table tr td:nth-child(2) a {
+    width: 250px !important;
+  }
+}
+@media (max-width: 575px) {
+  .wcbt-wishlist-content [data-grid-col="3"] .wcbt-property-item {
+    max-width: 100%;
+  }
+  #wcbt-wishlist .wcbt-pagination-wrapper {
+    flex-wrap: wrap;
+  }
+  #wcbt-wishlist .wcbt-pagination-wrapper .wcbt-from-to {
+    display: block;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+}

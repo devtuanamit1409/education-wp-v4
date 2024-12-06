@@ -1,0 +1,3 @@
+2024-12-05T12:10:11+00:00 INFO Payment gateway enabled: "Stripe"
+2024-12-05T12:11:45+00:00 INFO Payment gateway enabled: "PayPal"
+2024-12-05T12:52:05+00:00 INFO Payment gateway enabled: "PayPal Gateway By Payment Plugins"

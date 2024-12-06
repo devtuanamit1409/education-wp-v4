@@ -1,0 +1,230 @@
+:root{
+	--tocbgr: #ffffffe8;
+	--tocbor: #777;
+	--toctit: #fff;
+	--toctitback: #333;
+	--toclin: #333;
+	--tocsec: #9b9b9b73;
+	--tocsize:16px;
+	
+	--tocnutbgr: #ffffffe8;
+	--tocnutbor: #ccc;
+	--tocnutico: #333;
+	
+	--tocradius: 10px;
+	--tocnutradius: 10px;
+	
+	--toclight: #ff4444;
+}
+.ft-toc {
+    scroll-behavior: smooth;
+}
+.ft-toc-light, .ft-toc-light a{
+    color: var(--toclight) !important; 
+    transition: color 0.5s ease; 
+}
+/* thanh scrool */
+.ft-toc-scrol *{
+    scrollbar-color: #eee #ffffff00;
+    scrollbar-width: thin !important;
+}
+.ft-toc-scrol ::-webkit-scrollbar{
+    width: 5px;
+    height: 5px;
+    background: none;
+}
+.ft-toc-scrol ::-webkit-scrollbar-thumb{
+    background-color: #eee;
+    border-radius: 2px;
+}
+.ft-toc-scrol ::-webkit-scrollbar-track{
+    background-color: none;
+}
+
+
+.ft-toc-placeholder{
+	margin-bottom:20px;
+}
+.ft-toc-main{
+	width:100%;
+	border: 1px dashed var(--tocbor);
+	padding: 15px 12px;
+	border-radius:var(--tocradius);
+	background: var(--tocbgr);
+	font-size:var(--tocsize);
+	box-sizing: border-box;
+}
+.ft-toc-main li:not(:last-child) {
+    margin-bottom:10px;
+}
+.ft-toc-tit-sp svg{
+	margin-right:15px;
+}
+@keyframes toczoomIn {
+    from {
+        transform: scale(0.3);
+        opacity: 0;
+    }
+    to {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+.ft-toc-close {
+    background: var(--tocnutbgr);
+    border: 1px solid var(--tocnutbor);
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    left: -55px;
+    top: 30%;
+    border-radius:var(--tocnutradius);
+    opacity: 0;
+    transform: scale(0.5);
+    animation: toczoomIn 0.9s ease-out forwards;
+}
+.ft-toc-close svg {
+	width:35px;
+	height:35px;
+}
+.ft-toc-close svg path{fill:var(--tocnutico);}
+.ft-toc-main-vuot{
+	position: fixed;
+    z-index: 999999;
+    right: -350px;
+    top: 10px;
+	bottom: 10px;
+    width: 350px;
+	border:none;
+	box-shadow: 0px 0px 10px #00000024;
+	transition: right 0.7s ease;
+	margin-bottom:0px;
+	animation: tocopiti 0.9s ease-out forwards;
+}
+@keyframes tocopiti {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+.ft-toc-main-open {
+    right: 10px; /* Khi mở ra */
+}
+.ft-toc-main-open .ft-toc-close{display:none !important}
+.ft-toc-main-vuot .ft-toc-tit .ft-toc-close2{display: contents;}
+.ft-toc-main-vuot .ft-toc-tit .ft-toc-tit-svg{display:none;}
+.ft-toc-tit{
+	display:flex;
+	line-height:0;
+	font-weight:bold;
+	font-size:var(--tocsize);
+	justify-content: center;
+    align-items: center;
+	margin:0px 5px;
+	background: var(--toctitback);
+    padding: 12px 15px;
+    border-radius: calc(var(--tocradius) - 3px);
+	color:var(--toctit);
+}
+.ft-toc-tit svg{
+	width:20px;
+	height:20px;
+	vertical-align: middle;
+}
+.ft-toc-tit svg path{
+	fill:var(--toctit);
+}
+.ft-toc-tit span{
+	width:100%;
+}
+.ft-toc-tit .ft-toc-close2{
+	display:none;
+}
+.ft-toc-tit .ft-toc-tit-hi{
+	width:20px;
+}
+.ft-toc-tit .ft-toc-tit-hi-active svg{
+	animation: bounce 0.4s infinite;
+}
+@keyframes bounce {
+    0%, 100% {
+        transform: translateY(-3px);
+    }
+    50% {
+        transform: translateY(3px);
+    }
+}
+.ft-toc-main .ft-toc-scrol ol {
+  padding-left: 0;
+  margin:0px;
+  padding: 10px 5px 0px 10px !important;
+  list-style: none !important;
+}
+ol#ft-toc-list li{
+	margin-left:0px;
+}
+.ft-toc-main ol {
+    max-height: 500px;
+    overflow-y: auto;
+}
+.ft-toc-main.ft-toc-main-vuot .ft-toc-scrol {
+    height: calc(100vh - 107px);
+}
+.ft-toc-main.ft-toc-main-vuot ol{
+	max-height:100%;
+	height:100%;
+}
+.ft-toc-main a, .ft-toc-main a:visited, .ft-toc-main  a:focus, .ft-toc-main  a:active {
+  text-decoration: none !important;
+  color:var(--toclin) !important;
+}
+.ft-toc-main a:hover {
+  color:var(--toclin) !important;
+  opacity:0.8;
+}
+.active-toc-link {
+    padding: 7px 10px;
+    display: block;
+    background: linear-gradient(90deg, rgba(2, 0, 36, 0) 0%, var(--tocsec) 100%);
+    border-radius: calc(var(--tocradius) - 3px);
+	margin-left: -10px;
+}
+.active-toc-link:hover {
+    opacity:0.8;
+}
+/* Căn thẳng cho cấp 1 */
+#ft-toc-list .ft-toc-level-1 {
+  padding-left: 0;
+  font-weight: bold;
+}
+/* Lùi vào 10px cho cấp 2 */
+#ft-toc-list .ft-toc-level-2 {
+  padding-left: 15px;
+}
+/* Lùi vào 20px cho cấp 3 */
+#ft-toc-list .ft-toc-level-3 {
+  padding-left: 30px;
+}
+/* Lùi vào 30px cho cấp 4 */
+#ft-toc-list .ft-toc-level-4 {
+  padding-left: 45px;
+}
+/* Lùi vào 40px cho cấp 5 */
+#ft-toc-list .ft-toc-level-5 {
+  padding-left: 60px;
+}
+/* Lùi vào 50px cho cấp 6 */
+#ft-toc-list .ft-toc-level-6 {
+  padding-left: 75px;
+}
+/* mobile */
+@media (max-width: 400px){
+.ft-toc-main-open {
+    left: 10px;
+    width: auto;
+	}
+}	

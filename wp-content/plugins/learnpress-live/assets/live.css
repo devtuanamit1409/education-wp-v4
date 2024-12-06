@@ -1,0 +1,99 @@
+.learnpress_detail_meeting {
+	background-color: #fff;
+
+	/*overflow-x: scroll;*/
+	margin-bottom: 25px;
+}
+
+.learnpress_detail_meeting h4 {
+	font-size: 22px !important;
+}
+
+.learnpress_detail_meeting .z-form-row .form-group {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 10px;
+	flex-wrap: wrap;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+#popup-course #popup-content .z-form-button .lp-button {
+	display: inline-block;
+	margin-top: 20px;
+}
+
+.learnpress_detail_meeting .z-form-row .form-group:last-child {
+	margin-bottom: 0;
+}
+
+.learnpress_detail_meeting .z-form-row .form-group label {
+	font-weight: 700;
+	font-size: 14px;
+	color: #333;
+	display: inline-block;
+	width: 30%;
+	margin-bottom: 0;
+}
+
+.learnpress_detail_meeting .z-form-row .form-group label.meeting_waiting {
+	display: flex;
+	align-items: center;
+}
+
+.learnpress_detail_meeting .z-form-row .form-group .content {
+	width: 70%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;
+	word-break: break-all;
+}
+
+.learnpress_detail_meeting .z-form-row .form-group .content .controls {
+	width: 100%;
+}
+
+.learnpress_detail_meeting .z-form-row .form-group .content .z-form-row-action {
+	width: 60%;
+}
+
+.learnpress_detail_meeting .hidePassword {
+	display: inline-block;
+	font-size: 14px;
+}
+
+.learnpress_detail_meeting .z-form-row .form-group .content .controls label {
+	width: 100%;
+	display: flex;
+	align-items: center;
+}
+
+.learnpress_detail_meeting .z-form-row .form-group label .icon-checked {
+	display: inline-block;
+	margin-left: 5px;
+}
+
+.learnpress_detail_meeting .z-form-row .form-group label .icon-checked::before {
+	content: "\f147";
+	font-family: dashicons;
+	font-size: 20px;
+	color: #0073aa;
+	margin-right: 5px;
+}
+
+@media only screen and (max-width: 600px) {
+
+	.learnpress_detail_meeting .z-form-row .form-group label {
+		width: 100%;
+	}
+
+	.learnpress_detail_meeting .z-form-row .form-group .content {
+		width: 100%;
+	}
+
+	.learnpress_detail_meeting .z-form-row .form-group label.meeting_waiting {
+		width: auto;
+	}
+}

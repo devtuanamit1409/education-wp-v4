@@ -1,0 +1,21 @@
+#mycred_overview{
+    overflow: hidden;
+}
+.learnpress_learner, .learnpress_instructor {
+    background: none !important;
+}
+
+.learnpress_learner:before, .learnpress_instructor:before {
+    content: "\f118";
+    font-family: DASHICONS;
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+.learnpress_learner.icon-active, .learnpress_instructor.icon-active {
+    color: #53787b;
+}
+
+.learnpress_learner.icon-inactive, .learnpress_instructor.icon-inactive {
+    color: #c22844;
+}

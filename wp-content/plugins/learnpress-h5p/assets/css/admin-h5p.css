@@ -1,0 +1,12 @@
+#admin-editor-lp_course .lp-course-curriculum .section-list-items .new-section-item .types .type.lp_h5p:before, #admin-editor-lp_course .lp-course-curriculum .section-list-items .section-item.lp_h5p .icon:before {
+    content: "\f116";
+}
+
+.item-actions .actions .connect-h5p {
+    width: auto !important;
+    float: left;
+}
+
+.item-actions .actions .connect-h5p .select2 {
+    width: auto !important;
+}

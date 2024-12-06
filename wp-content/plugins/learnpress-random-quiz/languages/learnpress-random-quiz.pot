@@ -1,0 +1,55 @@
+# Copyright (C) 2023 ThimPress
+# This file is distributed under the same license as the LearnPress - Random Quiz plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: LearnPress - Random Quiz 4.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/learnpress-random-quiz\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-10-18T05:36:22+03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: learnpress-random-quiz\n"
+
+#. Plugin Name of the plugin
+msgid "LearnPress - Random Quiz"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://thimpress.com/learnpress"
+msgstr ""
+
+#. Description of the plugin
+msgid "Randomize questions inside quiz."
+msgstr ""
+
+#. Author of the plugin
+msgid "ThimPress"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://thimpress.com"
+msgstr ""
+
+#: inc/class-lp-random-quiz-hooks.php:200
+msgid "Random Questions"
+msgstr ""
+
+#: inc/class-lp-random-quiz-hooks.php:201
+msgid "Mix all available questions in this quiz."
+msgstr ""
+
+#: inc/class-lp-random-quiz-hooks.php:206
+msgid "Randomised question bank: Limit the question to show random for the student. Set 0 to show all."
+msgstr ""
+
+#: templates/random-questions.php:30
+msgid "Use"
+msgstr ""
+
+#: templates/random-questions.php:37
+msgid "to"
+msgstr ""

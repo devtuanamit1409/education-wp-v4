@@ -1,0 +1,3972 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-10-20 11:44+0700\n"
+"PO-Revision-Date: 2024-10-20 11:48+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: foxtool.php:67
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: foxtool.php:69
+msgid "Home"
+msgstr "Trang chủ"
+
+#: inc/chat.php:34
+msgid "Not entered"
+msgstr "Chưa nhập"
+
+#: inc/chat.php:227 inc/woo.php:78
+msgid "Contact"
+msgstr "Liên hệ"
+
+#: inc/chat.php:252
+msgid "Demo"
+msgstr "Demo"
+
+#: inc/chat.php:409
+msgid "Navigation bar (Foxtool)"
+msgstr "Thanh điều hướng (Foxtool)"
+
+#: inc/clean.php:7 inc/clean.php:23 inc/clean.php:39 inc/clean.php:55
+#: inc/clean.php:81 inc/clean.php:107 inc/clean.php:133 inc/clean.php:165
+#: inc/clean.php:190 inc/clean.php:222 inc/debug.php:238 inc/font.php:158
+#: inc/search.php:244 inc/search.php:283
+msgid "Insufficient permissions"
+msgstr "Không đủ quyền"
+
+#: inc/clean.php:228
+msgid "Deleted"
+msgstr "Đã xóa"
+
+#: inc/clean.php:228
+msgid "images"
+msgstr "hình ảnh"
+
+#: inc/clean.php:230
+msgid "No size"
+msgstr "Không có kích thước"
+
+#: inc/custom.php:205 main/page/7mail.php:36 main/page/7mail.php:37
+msgid "Account"
+msgstr "Tài khoản"
+
+#: inc/custom.php:208
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: inc/custom.php:211
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/custom.php:256
+msgid "Welcome to Foxtool"
+msgstr "Chào mừng đến với Foxtool"
+
+#: inc/debug.php:267
+msgid "Failed to load debug log"
+msgstr "Không tải được nhật ký gỡ lỗi"
+
+#: inc/debug.php:270
+msgid "Debug log file does not exist"
+msgstr "Tệp nhật ký gỡ lỗi không tồn tại"
+
+#: inc/font.php:138
+msgid "Deleted successfully"
+msgstr "Đã xóa thành công"
+
+#: inc/font.php:140
+msgid "Failed to delete the file"
+msgstr "Không thể xóa tập tin"
+
+#: inc/font.php:143
+msgid "The file path is invalid or not a file"
+msgstr "Đường dẫn tệp không hợp lệ hoặc không phải là tệp"
+
+#: inc/font.php:149
+msgid "Font does not exist"
+msgstr "Phong chữ không tồn tại"
+
+#: inc/foxtool.php:56
+msgid "Does not exist"
+msgstr "Không tồn tại"
+
+#: inc/foxtool.php:193
+msgid "Foxtool"
+msgstr "Foxtool"
+
+#: inc/gindex.php:110 inc/gindex.php:217
+msgid "Already declared"
+msgstr "Đã thông báo"
+
+#: inc/gindex.php:115 inc/gindex.php:221
+msgid "Declaration already deleted"
+msgstr "Đã thông báo xóa"
+
+#: inc/gindex.php:121 inc/gindex.php:228
+msgid "URL:"
+msgstr "URL:"
+
+#: inc/gindex.php:122 inc/gindex.php:229
+msgid "Status:"
+msgstr "Trạng thái:"
+
+#: inc/gindex.php:123 inc/gindex.php:230
+msgid "Time:"
+msgstr "Thời gian:"
+
+#: inc/gindex.php:129
+msgid "Notification link sent"
+msgstr "Đã gửi link thông báo"
+
+#: inc/gindex.php:135 inc/gindex.php:141
+msgid "URL: does not exist"
+msgstr "URL: không tồn tại"
+
+#: inc/gindex.php:235
+msgid "URL: Unverified"
+msgstr "URL: Chưa được xác minh"
+
+#: inc/gindex.php:262 main/extend.php:96 main/gindex.php:226
+msgid "Index now"
+msgstr "Index nhanh"
+
+#: inc/gindex.php:291 inc/gindex.php:319
+msgid "Success"
+msgstr "Thành công"
+
+#: inc/gindex.php:315
+msgid "Wait..."
+msgstr "Chờ đợi..."
+
+#: inc/gindex.php:321 inc/gindex.php:325
+msgid "Error"
+msgstr "Lỗi"
+
+#: inc/goo.php:52
+msgid "Sign in with Google"
+msgstr "Đăng nhập bằng Google"
+
+#: inc/goo.php:54
+msgid "Log out"
+msgstr "Đăng xuất"
+
+#: inc/goo.php:179 inc/goo.php:221 inc/goo.php:286 inc/goo.php:324
+msgid "The reCAPTCHA is invalid"
+msgstr "reCAPTCHA không hợp lệ"
+
+#: inc/goo.php:184
+msgid "reCAPTCHA verification failed. Please try again"
+msgstr "Xác minh reCAPTCHA không thành công. Vui lòng thử lại"
+
+#: inc/goo.php:189
+msgid "The reCAPTCHA error is mandatory"
+msgstr "Lỗi reCAPTCHA là bắt buộc"
+
+#: inc/goo.php:199
+msgid "reCAPTCHA is required"
+msgstr "reCAPTCHA là bắt buộc"
+
+#: inc/goo.php:224 inc/goo.php:291 inc/goo.php:327
+msgid "reCAPTCHA error. Please try again"
+msgstr "Lỗi reCAPTCHA. Vui lòng thử lại"
+
+#: inc/goo.php:262 inc/goo.php:302
+msgid "Please complete the reCAPTCHA to verify that you are not a robot"
+msgstr "Vui lòng hoàn thành reCAPTCHA để xác minh rằng bạn không phải là robot"
+
+#: inc/mail.php:37
+msgid "Test SMTP email sending from your website"
+msgstr "Kiểm tra việc gửi email SMTP từ trang web của bạn"
+
+#: inc/mail.php:38
+msgid ""
+"If you receive this email, then the SMTP email sending function is working "
+"well"
+msgstr ""
+"Nếu bạn nhận được email này thì chức năng gửi email SMTP đang hoạt động tốt"
+
+#: inc/mail.php:42
+msgid "Email sent successfully"
+msgstr "Email đã được gửi thành công"
+
+#: inc/mail.php:44
+msgid "Unable to send email!"
+msgstr "Không thể gửi email!"
+
+#: inc/mail.php:57
+msgid "Your comment has just been replied to"
+msgstr "Bình luận của bạn vừa được trả lời"
+
+#: inc/mail.php:58
+msgid "Your comment has just been replied to in the post"
+msgstr "Bình luận của bạn vừa được trả lời trong bài viết"
+
+#: inc/mail.php:71
+#, php-format
+msgid ""
+"Hello %s. A new comment has been posted on your article \"%s\". You can view "
+"the comment here: %s"
+msgstr ""
+"Xin chào %s. Một bình luận mới đã được đăng trên bài viết \"%s\" của bạn. "
+"Bạn có thể xem bình luận ở đây: %s"
+
+#: inc/mail.php:76
+#, php-format
+msgid "[%s] New comment on the article \"%s\""
+msgstr "[%s] Bình luận mới về bài viết \"%s\""
+
+#: inc/mail.php:87
+msgid "Welcome to the website"
+msgstr "Chào mừng đến với trang web"
+
+#: inc/mail.php:88
+msgid "This is an email notification of your successful registration"
+msgstr "Đây là email thông báo bạn đăng ký thành công"
+
+#: inc/media.php:242
+msgid "GD Library does not support AVIF images"
+msgstr "Thư viện GD không hỗ trợ hình ảnh AVIF"
+
+#: inc/media.php:245
+msgid "GD Library is not installed"
+msgstr "Thư viện GD chưa được cài đặt"
+
+#: inc/media.php:778
+msgid "Media"
+msgstr "Thư viện"
+
+#: inc/media.php:786 main/page/5media.php:80
+msgid "Enable JPG image compression"
+msgstr "Kích hoạt nén hình ảnh JPG"
+
+#: inc/media.php:796
+msgid "Enable WEBP image compression"
+msgstr "Kích hoạt nén hình ảnh WEBP"
+
+#: inc/media.php:806
+msgid "Allows uploading AVIF photos"
+msgstr "Cho phép tải lên ảnh AVIF"
+
+#: inc/media.php:816
+msgid "Enable AVIF image compression"
+msgstr "Kích hoạt nén hình ảnh AVIF"
+
+#: inc/media.php:826
+msgid "Enable image size limitation"
+msgstr "Kích hoạt giới hạn kích thước"
+
+#: inc/media.php:836
+msgid "Enable watermarks"
+msgstr "Kích hoạt hình mờ"
+
+#: inc/media.php:846
+msgid "Enable picture frame"
+msgstr "Kích hoạt khung ảnh"
+
+#: inc/media.php:912
+msgid "Settings changed"
+msgstr "Đã thay đổi cài đặt"
+
+#: inc/media.php:914
+msgid "Failed to update setting:"
+msgstr "Không cập nhật được cài đặt:"
+
+#: inc/media.php:918
+msgid "An error occurred"
+msgstr "Đã xảy ra lỗi"
+
+#: inc/notify.php:24
+msgid "Ad-blocker detection"
+msgstr "Phát hiện trình chặn quảng cáo"
+
+#: inc/notify.php:25
+msgid ""
+"Please disable ad-blocker on your browser to access and view the content"
+msgstr ""
+"Vui lòng tắt trình chặn quảng cáo trên trình duyệt của bạn để truy cập và "
+"xem nội dung"
+
+#: inc/notify.php:36 inc/notify.php:87
+msgid "Agree"
+msgstr "Đồng ý"
+
+#: inc/notify.php:50
+msgid "You havent added content yet"
+msgstr "Bạn chưa thêm nội dung"
+
+#: inc/notify.php:73
+msgid "Cookies"
+msgstr "Cookie"
+
+#: inc/notify.php:74
+msgid ""
+"This website uses cookies to ensure you get the best experience on our site. "
+"By continuing to browse, you agree to our use of cookies. For more "
+"information, please read our Cookie Policy"
+msgstr ""
+"Trang web này sử dụng cookie để đảm bảo bạn có được trải nghiệm tốt nhất "
+"trên trang web của chúng tôi. Bằng cách tiếp tục duyệt, bạn đồng ý với việc "
+"chúng tôi sử dụng cookie. Để biết thêm thông tin, vui lòng đọc Chính sách "
+"Cookie của chúng tôi"
+
+#: inc/notify.php:86
+msgid "Policy"
+msgstr "Chính sách"
+
+#: inc/notify.php:106
+msgid "Hello"
+msgstr "Xin chào"
+
+#: inc/post.php:160
+msgid "Invalid request state"
+msgstr "Trạng thái yêu cầu không hợp lệ"
+
+#: inc/post.php:163
+msgid "Security check failed"
+msgstr "Kiểm tra bảo mật không thành công"
+
+#: inc/post.php:173
+msgid "Modifying settings is not allowed"
+msgstr "Không được phép sửa đổi cài đặt"
+
+#: inc/post.php:185
+msgid "Duplicate"
+msgstr "Nhân bản"
+
+#: inc/post.php:200
+msgid "(duplicate)"
+msgstr "(nhân bản)"
+
+#: inc/scuri.php:11
+msgid "You are not logged in"
+msgstr "Bạn không đăng nhập"
+
+#: inc/scuri.php:74
+msgid "Unable to determine image format"
+msgstr "Không thể xác định định dạng hình ảnh"
+
+#: inc/scuri.php:81
+msgid ""
+"I am sorry, you can only upload image files in the formats .GIF, .JPG, ."
+"PNG, .WEBP, .SVG"
+msgstr ""
+"Rất tiếc, bạn chỉ có thể tải lên các tệp hình ảnh có định dạng .GIF, .JPG, ."
+"PNG, .WEBP, .SVG"
+
+#: inc/search.php:357
+msgid "Enter keywords to search"
+msgstr "Nhập từ khóa để tìm kiếm"
+
+#: inc/search.php:358
+msgid "Search"
+msgstr "Tìm"
+
+#: inc/search.php:364
+msgid "No results found"
+msgstr "Không có kết quả nào được tìm thấy"
+
+#: inc/shortcode.php:9
+msgid "This content is locked! You need to log in to view"
+msgstr "Nội dung này đã bị khóa! Bạn cần đăng nhập để xem"
+
+#: inc/shortcode.php:75 main/export.php:86
+msgid "Download"
+msgstr "Tải xuống"
+
+#: inc/shortcode.php:80 main/clean.php:33 main/clean.php:49 main/clean.php:63
+#: main/clean.php:70 main/gindex.php:67
+msgid "Please wait"
+msgstr "Vui lòng chờ"
+
+#: inc/shortcode.php:80
+msgid "Continue"
+msgstr "Tiếp tục"
+
+#: inc/toc.php:35
+msgid "Table of Contents"
+msgstr "Mục lục"
+
+#: inc/toc.php:193
+msgid "TOC Settings"
+msgstr "Cài đặt TOC"
+
+#: inc/toc.php:204
+msgid "Enabled TOC"
+msgstr "Kích hoạt TOC"
+
+#: inc/toc.php:208
+msgid "Disabled TOC"
+msgstr "Vô hiệu hóa TOC"
+
+#: inc/tool.php:95
+msgid "Classic editing"
+msgstr "Soạn thảo cổ điển"
+
+#: inc/tool.php:96
+msgid "Editor classic"
+msgstr "Soạn thảo cổ điển"
+
+#: inc/tool.php:117
+msgid "Classic Editor"
+msgstr "Trình soạn thảo cổ điển"
+
+#: inc/tool.php:163
+msgid "You have successfully copied"
+msgstr "Bạn đã sao chép thành công"
+
+#: inc/user.php:72
+msgid "Upload avatars"
+msgstr "Tải lên hình đại diện"
+
+#: inc/user.php:73
+msgid "Delete"
+msgstr "Xóa"
+
+#: inc/woo.php:29
+msgid "Free!"
+msgstr "Miễn phí!"
+
+#: inc/woo.php:75
+msgid "From"
+msgstr "Từ"
+
+#: inc/woo.php:76
+msgid "Code orders"
+msgstr "Mã đơn hàng"
+
+#: inc/woo.php:77
+msgid "Buyer"
+msgstr "Người mua"
+
+#: inc/woo.php:79
+msgid "Time"
+msgstr "Thời gian"
+
+#: main/about.php:18 main/page/ft-about1.php:4
+msgid "ABOUT"
+msgstr "ABOUT"
+
+#: main/about.php:19 main/page/ft-about2.php:4
+msgid "DATABASE"
+msgstr "DATABASE"
+
+#: main/about.php:43
+msgid "About"
+msgstr "Thông tin"
+
+#: main/admin.php:20 main/page/1speed.php:4
+msgid "OPTIMIZE"
+msgstr "OPTIMIZE"
+
+#: main/admin.php:21 main/page/2scuri.php:4
+msgid "SECURITY"
+msgstr "SECURITY"
+
+#: main/admin.php:22 main/page/3tool.php:4
+msgid "TOOL"
+msgstr "TOOL"
+
+#: main/admin.php:23 main/page/4main.php:4
+msgid "DISPLAY"
+msgstr "DISPLAY"
+
+#: main/admin.php:24 main/clean.php:20 main/clean.php:57 main/page/5media.php:4
+msgid "MEDIA"
+msgstr "MEDIA"
+
+#: main/admin.php:25 main/clean.php:18 main/clean.php:25 main/page/6post.php:4
+msgid "CONTENT"
+msgstr "CONTENT"
+
+#: main/admin.php:26 main/page/7mail.php:4
+msgid "MAIL"
+msgstr "MAIL"
+
+#: main/admin.php:27
+msgid "WOO"
+msgstr "WOO"
+
+#: main/admin.php:28 main/page/9user.php:4
+msgid "USER"
+msgstr "USER"
+
+#: main/admin.php:29 main/page/10custom.php:4
+msgid "CUSTOM"
+msgstr "CUSTOM"
+
+#: main/admin.php:30 main/page/11google.php:4
+msgid "GOOGLE"
+msgstr "GOOGLE"
+
+#: main/admin.php:31 main/page/12chat.php:4
+msgid "CHAT"
+msgstr "CHAT"
+
+#: main/admin.php:32 main/gindex.php:20 main/gindex.php:73
+#: main/page/ft-setting.php:4
+msgid "SETTING"
+msgstr "SETTING"
+
+#: main/admin.php:94 main/ads.php:142 main/code.php:95 main/debug.php:78
+#: main/extend.php:217 main/font.php:131 main/gindex.php:118
+#: main/notify.php:203 main/redirects.php:130 main/search.php:210
+#: main/shortcode.php:175 main/toc.php:288
+msgid "SAVE CONTENT"
+msgstr "LƯU NỘI DUNG"
+
+#: main/admin.php:134
+msgid "Overview"
+msgstr "Tổng quan"
+
+#: main/ads.php:19 main/ads.php:34
+msgid "CLICK"
+msgstr "CLICK"
+
+#: main/ads.php:20 main/ads.php:71
+msgid "ADSENSE"
+msgstr "ADSENSE"
+
+#: main/ads.php:21 main/ads.php:124
+msgid "ADS.TXT"
+msgstr "ADS.TXT"
+
+#: main/ads.php:36
+msgid "Ads appear when clicking on the website"
+msgstr "Quảng cáo xuất hiện khi click vào trang web"
+
+#: main/ads.php:41
+msgid "Enable annoying ads"
+msgstr "Kích hoạt quảng cáo khó chịu"
+
+#: main/ads.php:47
+msgid "Enable minimize the window"
+msgstr "Bật thu nhỏ cửa sổ"
+
+#: main/ads.php:51
+msgid "Ads display after (.. hours)"
+msgstr "Quảng cáo hiển thị sau (.. giờ)"
+
+#: main/ads.php:61
+msgid "Action taken"
+msgstr "Hành động"
+
+#: main/ads.php:64
+msgid "Enter ad links per line"
+msgstr "Nhập liên kết quảng cáo trên mỗi dòng"
+
+#: main/ads.php:66
+msgid ""
+"Enable and enter ad links you want, each on a separate line, for automatic "
+"rotation each time a user visits"
+msgstr ""
+"Kích hoạt và nhập các liên kết quảng cáo bạn muốn, mỗi liên kết trên một "
+"dòng riêng biệt, để tự động xoay vòng mỗi khi người dùng truy cập"
+
+#: main/ads.php:73
+msgid "Set up Adsense ads"
+msgstr "Thiết lập quảng cáo Adsense"
+
+#: main/ads.php:78
+msgid "Enable Adsense"
+msgstr "Kích hoạt Adsense"
+
+#: main/ads.php:81
+msgid "Enter Adsense code here"
+msgstr "Nhập mã Adsense vào đây"
+
+#: main/ads.php:83
+msgid "Option to display ads in custom posts"
+msgstr "Tùy chọn hiển thị quảng cáo trong bài viết tùy chỉnh"
+
+#: main/ads.php:103
+msgid "Select the custom post for which you want to show ads"
+msgstr "Chọn bài đăng tùy chỉnh mà bạn muốn hiển thị quảng cáo"
+
+#: main/ads.php:104
+msgid "Top and bottom positions"
+msgstr "Vị trí trên và dưới"
+
+#: main/ads.php:106
+msgid "Add ads to the top of the article"
+msgstr "Thêm quảng cáo vào đầu bài viết"
+
+#: main/ads.php:109
+msgid "Add ads at the bottom of the article"
+msgstr "Thêm quảng cáo ở cuối bài viết"
+
+#: main/ads.php:111
+msgid "Custom position in posts"
+msgstr "Vị trí tùy chỉnh trong bài viết"
+
+#: main/ads.php:113 main/toc.php:182
+msgid "Tag"
+msgstr "Tag"
+
+#: main/ads.php:114
+msgid "Quantity"
+msgstr "Số lượng"
+
+#: main/ads.php:116
+msgid "Enter the tag and tag number for the ad to appear"
+msgstr "Nhập tag và số tag để quảng cáo xuất hiện"
+
+#: main/ads.php:118
+msgid "Add ads to custom post placement"
+msgstr "Thêm quảng cáo vào vị trí bài đăng tùy chỉnh"
+
+#: main/ads.php:126
+msgid "Set up the ads.txt file"
+msgstr "Thiết lập tệp ads.txt"
+
+#: main/ads.php:131
+msgid "Enable ads.txt"
+msgstr "Bật ads.txt"
+
+#: main/ads.php:133
+msgid "You can preview your file here:"
+msgstr "Bạn có thể xem trước tập tin của mình ở đây:"
+
+#: main/ads.php:134
+msgid ""
+"For an Nginx server, if the ads.txt file already exists in the root "
+"directory of the website, it will prioritize the static file, so this "
+"function will not work. If you want to use it, you can either configure "
+"Nginx or delete the static file before proceeding"
+msgstr ""
+"Đối với máy chủ Nginx, nếu tệp ads.txt đã tồn tại trong thư mục gốc của "
+"trang web, nó sẽ ưu tiên tệp tĩnh nên chức năng này sẽ không hoạt động. Nếu "
+"bạn muốn sử dụng nó, bạn có thể định cấu hình Nginx hoặc xóa tệp tĩnh trước "
+"khi tiếp tục"
+
+#: main/ads.php:137 main/code.php:59 main/code.php:69 main/code.php:79
+#: main/code.php:89
+msgid "Enter code here"
+msgstr "Nhập code vào đây"
+
+#: main/ads.php:178 main/extend.php:126
+msgid "Ads"
+msgstr "Quảng cáo"
+
+#: main/clean.php:19 main/clean.php:40
+msgid "COMMENT"
+msgstr "COMMENT"
+
+#: main/clean.php:27
+msgid "Optimize deletion of content in the database"
+msgstr "Tối ưu hóa việc xóa nội dung trong cơ sở dữ liệu"
+
+#: main/clean.php:29
+msgid "Delete revisions"
+msgstr "Xóa bản sửa đổi"
+
+#: main/clean.php:30
+msgid "Delete autosaves"
+msgstr "Xóa tự động lưu"
+
+#: main/clean.php:31
+msgid "Empty trash"
+msgstr "Dọn sạch thùng rác"
+
+#: main/clean.php:35
+msgid ""
+"Delete revisions, delete autosaves, delete content (posts, pages, "
+"products...) in the trash"
+msgstr ""
+"Xóa các bản sửa đổi, xóa các bản tự động lưu, xóa nội dung (bài viết, trang, "
+"sản phẩm...) ở thùng rác"
+
+#: main/clean.php:42
+msgid "Delete comments"
+msgstr "Xóa bình luận"
+
+#: main/clean.php:44
+msgid "Pending"
+msgstr "Chờ duyệt"
+
+#: main/clean.php:45
+msgid "Spam"
+msgstr "Spam"
+
+#: main/clean.php:46
+msgid "Trash"
+msgstr "Thùng rác"
+
+#: main/clean.php:47
+msgid "Content links"
+msgstr "Nội dung có link"
+
+#: main/clean.php:51
+msgid ""
+"Note: deleting \"Content links\" will delete all comments that have a link "
+"in the body or url input field"
+msgstr ""
+"Lưu ý: xóa \"Nội dung có link\" sẽ xóa tất cả các bình luận có liên kết "
+"trong nội dung hoặc trường url"
+
+#: main/clean.php:59
+msgid "Find and delete all 404 images in media"
+msgstr "Tìm và xóa tất cả hình ảnh 404 trong thư viện"
+
+#: main/clean.php:61
+msgid "Delete all 404 images"
+msgstr "Xóa tất cả hình ảnh 404"
+
+#: main/clean.php:65
+msgid "Delete 404 images that do not exist saved in the database"
+msgstr "Xóa những hình ảnh 404 không tồn tại đã lưu ở cơ sở dữ liệu"
+
+#: main/clean.php:66
+msgid "Find and delete all 404 thumbnail images in media"
+msgstr "Tìm và xóa toàn bộ ảnh thu nhỏ 404 trong thư viện"
+
+#: main/clean.php:68
+msgid "Delete all 404 thumbnail images"
+msgstr "Xóa tất cả hình ảnh thu nhỏ 404"
+
+#: main/clean.php:72
+msgid "Delete 404 thumbnails that do not exist and are stored in the database"
+msgstr "Xóa hình thu nhỏ 404 không tồn tại và được lưu trữ trong cơ sở dữ liệu"
+
+#: main/clean.php:73
+msgid "Delete cropped image"
+msgstr "Xóa hình ảnh đã cắt"
+
+#: main/clean.php:92
+msgid ""
+"Exercise caution when using this feature, as your interface may require "
+"various sizes to display properly. If youre a web designer, youll understand "
+"the need for a variety of sizes to be utilized"
+msgstr ""
+"Hãy thận trọng khi sử dụng tính năng này vì giao diện của bạn có thể yêu cầu "
+"nhiều kích cỡ khác nhau để hiển thị đúng. Nếu bạn là một nhà thiết kế web, "
+"bạn sẽ hiểu được nhu cầu sử dụng nhiều kích cỡ khác nhau"
+
+#: main/clean.php:118
+msgid "All revisions have been deleted"
+msgstr "Tất cả các sửa đổi đã bị xóa"
+
+#: main/clean.php:122 main/clean.php:143 main/clean.php:164 main/clean.php:185
+#: main/clean.php:206 main/clean.php:227 main/clean.php:250 main/clean.php:274
+#: main/clean.php:295
+msgid "Error! Unable to delete"
+msgstr "Lỗi! Không thể xóa"
+
+#: main/clean.php:139
+msgid "All autosaves have been deleted"
+msgstr "Tất cả các bản lưu tự động đã bị xóa"
+
+#: main/clean.php:160
+msgid "All items in the trash have been deleted"
+msgstr "Tất cả các mục trong thùng rác đã bị xóa"
+
+#: main/clean.php:181
+msgid "Delete pending comment: "
+msgstr "Xóa bình luận đang chờ duyệt: "
+
+#: main/clean.php:202
+msgid "Delete spam comments: "
+msgstr "Xóa bình luận spam: "
+
+#: main/clean.php:223
+msgid "Delete comments in trash: "
+msgstr "Xóa bình luận trong thùng rác: "
+
+#: main/clean.php:233 main/clean.php:303
+msgid "Enter from foxtool to confirm deletion:"
+msgstr "Nhập từ foxtool để xác nhận xóa:"
+
+#: main/clean.php:246
+msgid "Delete comments containing links: "
+msgstr "Xóa các bình luận có liên kết: "
+
+#: main/clean.php:254 main/clean.php:319
+msgid "Entering incorrect content"
+msgstr "Nhập nội dung không đúng"
+
+#: main/clean.php:270 main/clean.php:291
+msgid "Number of images 404 deleted: "
+msgstr "Số lượng hình ảnh 404 đã xóa: "
+
+#: main/clean.php:330 main/extend.php:51
+msgid "Clean"
+msgstr "Dọn dẹp"
+
+#: main/code.php:20 main/code.php:37
+msgid "CSS"
+msgstr "CSS"
+
+#: main/code.php:21 main/code.php:55
+msgid "WP HEAD"
+msgstr "WP HEAD"
+
+#: main/code.php:22 main/code.php:65
+msgid "WP BODY"
+msgstr "WP BODY"
+
+#: main/code.php:23 main/code.php:75
+msgid "WP FOOTER"
+msgstr "WP FOOTER"
+
+#: main/code.php:24 main/code.php:85
+msgid "WP LOGIN"
+msgstr "WP LOGIN"
+
+#: main/code.php:39
+msgid "Add CSS to your website"
+msgstr "Thêm CSS vào trang web của bạn"
+
+#: main/code.php:41 main/code.php:45 main/code.php:49
+msgid "Enter CSS here"
+msgstr "Nhập CSS vào đây"
+
+#: main/code.php:43
+msgid "Add CSS for tablet size"
+msgstr "Thêm CSS cho kích thước máy tính bảng"
+
+#: main/code.php:47
+msgid "Add CSS for mobile size"
+msgstr "Thêm CSS cho kích thước di động"
+
+#: main/code.php:57
+msgid "Add code to WP head"
+msgstr "Thêm code vào WP head"
+
+#: main/code.php:67
+msgid "Add code to WP body"
+msgstr "Thêm code vào WP body"
+
+#: main/code.php:77
+msgid "Add code to WP footer"
+msgstr "Thêm code vào WP footer"
+
+#: main/code.php:87
+msgid "Add code to WP login"
+msgstr "Thêm code vào WP login"
+
+#: main/code.php:136 main/extend.php:36
+msgid "Add code"
+msgstr "Thêm mã"
+
+#: main/completed.php:4
+msgid "Completed"
+msgstr "Hoàn thành"
+
+#: main/completed.php:5
+msgid "Your configuration has been saved"
+msgstr "Cấu hình của bạn đã được lưu"
+
+#: main/completed.php:6
+msgid "OK"
+msgstr "OK"
+
+#: main/debug.php:19 main/debug.php:32
+msgid "DEBUG"
+msgstr "DEBUG"
+
+#: main/debug.php:34
+msgid "Debug settings"
+msgstr "Cài đặt gỡ lỗi"
+
+#: main/debug.php:39
+msgid "Enable WP_DEBUG"
+msgstr "Kích hoạt WP_DEBUG"
+
+#: main/debug.php:45
+msgid "Enable WP_DEBUG_LOG"
+msgstr "Kích hoạt WP_DEBUG_LOG"
+
+#: main/debug.php:51
+msgid "Enable WP_DEBUG_DISPLAY"
+msgstr "Kích hoạt WP_DEBUG_DISPLAY"
+
+#: main/debug.php:60
+msgid "Clear all"
+msgstr "Xóa tất cả"
+
+#: main/debug.php:61
+msgid "Refresh"
+msgstr "Làm mới"
+
+#: main/debug.php:68
+msgid "The debug file does not exist"
+msgstr "Tệp gỡ lỗi không tồn tại"
+
+#: main/debug.php:71
+msgid "Debug is not enabled"
+msgstr "Gỡ lỗi không được kích hoạt"
+
+#: main/debug.php:116
+msgid "Cleaned the screen"
+msgstr "Đã làm sạch màn hình"
+
+#: main/debug.php:119
+msgid "Error cannot be cleaned"
+msgstr "Lỗi không thể làm sạch"
+
+#: main/debug.php:125
+msgid "Screen refreshed"
+msgstr "Màn hình đã được làm mới"
+
+#: main/debug.php:151 main/extend.php:186
+msgid "Debug"
+msgstr "Gỡ lỗi"
+
+#: main/export.php:41 main/export.php:80
+msgid "FOXTOOL"
+msgstr "FOXTOOL"
+
+#: main/export.php:71
+msgid "New configuration has been successfully added"
+msgstr "Cấu hình mới đã được thêm thành công"
+
+#: main/export.php:73
+msgid "Invalid data"
+msgstr "Dữ liệu không hợp lệ"
+
+#: main/export.php:82 main/export.php:166 main/extend.php:201
+msgid "Export"
+msgstr "Xuất ra"
+
+#: main/export.php:87
+msgid "Import"
+msgstr "Nhập vào"
+
+#: main/export.php:89
+msgid "Enter data here"
+msgstr "Nhập dữ liệu vào đây"
+
+#: main/export.php:92
+msgid "Upload"
+msgstr "Tải lên"
+
+#: main/export.php:95
+msgid "IMPORT FOXTOOL DATA"
+msgstr "NHẬP DỮ LIỆU FOXTOOL"
+
+#: main/export.php:130
+msgid "The textarea is empty"
+msgstr "Vùng văn bản trống"
+
+#: main/export.php:149
+msgid "The uploaded file is not a valid JSON format"
+msgstr "Tệp đã tải lên không có định dạng JSON hợp lệ"
+
+#: main/export.php:154
+msgid "Please upload a valid JSON file"
+msgstr "Vui lòng tải lên tệp JSON hợp lệ"
+
+#: main/extend.php:19 main/extend.php:32
+msgid "FREE"
+msgstr "FREE"
+
+#: main/extend.php:45 main/extend.php:60 main/extend.php:75 main/extend.php:90
+#: main/extend.php:105 main/extend.php:120 main/extend.php:135
+#: main/extend.php:150 main/extend.php:165 main/extend.php:180
+#: main/extend.php:195 main/extend.php:210
+msgid "Free"
+msgstr "Miễn phí"
+
+#: main/extend.php:46
+msgid ""
+"This feature allows you to add CSS, JS, and HTML code to your WordPress site "
+"through hooks like WP head, WP body, WP footer, and WP login, making it easy "
+"and convenient to supplement your code"
+msgstr ""
+"Tính năng này cho phép bạn thêm mã CSS, JS và HTML vào trang web WordPress "
+"của mình thông qua các hook như WP head, WP body, WP footer và WP login, "
+"giúp việc bổ sung mã của bạn trở nên dễ dàng và thuận tiện"
+
+#: main/extend.php:61
+msgid ""
+"This feature helps optimize cleanup tasks such as clearing content, "
+"comments, and the media library. It makes your website cleaner and more "
+"optimized"
+msgstr ""
+"Tính năng này giúp tối ưu hóa các tác vụ dọn dẹp như xóa nội dung, bình "
+"luận, thư viện media. Nó giúp trang web của bạn sạch sẻ và tối ưu hơn"
+
+#: main/extend.php:66 main/font.php:201
+msgid "Font"
+msgstr "Font chữ"
+
+#: main/extend.php:76
+msgid ""
+"Add fonts to your website with just a few simple steps. Additionally, it "
+"allows you to quickly set fonts in the specific areas you want to change, "
+"offering great convenience"
+msgstr ""
+"Thêm phông chữ vào trang web của bạn chỉ với một vài bước đơn giản. Ngoài "
+"ra, nó cho phép bạn nhanh chóng đặt phông chữ ở những khu vực cụ thể mà bạn "
+"muốn thay đổi, mang lại sự tiện lợi tuyệt vời"
+
+#: main/extend.php:81 main/redirects.php:205
+msgid "Redirects"
+msgstr "Chuyển hướng"
+
+#: main/extend.php:91
+msgid ""
+"This feature allows you to configure website redirects with multiple options "
+"such as 301, 404, and 503, making management much simpler"
+msgstr ""
+"Tính năng này cho phép bạn cấu hình chuyển hướng trang web với nhiều tùy "
+"chọn như 301, 404 và 503, giúp việc quản lý đơn giản hơn nhiều"
+
+#: main/extend.php:106
+msgid ""
+"Leverage Google’s Indexing API to speed up the indexing of your website on "
+"Google’s search engine. You can add as many API keys as you like for "
+"unlimited indexing capacity"
+msgstr ""
+"Tận dụng API lập chỉ mục của Google để tăng tốc độ lập chỉ mục trang web của "
+"bạn trên công cụ tìm kiếm của Google. Bạn có thể thêm bao nhiêu khóa API tùy "
+"thích để có khả năng lập chỉ mục không giới hạn"
+
+#: main/extend.php:111 main/toc.php:19 main/toc.php:32 main/toc.php:324
+msgid "TOC"
+msgstr "TOC"
+
+#: main/extend.php:121
+msgid ""
+"The table of contents is an incredibly useful feature that allows readers to "
+"easily grasp the content by summarizing the headings (h-tags) in the article"
+msgstr ""
+"Mục lục là một tính năng vô cùng hữu ích giúp người đọc dễ dàng nắm bắt nội "
+"dung bằng cách tóm tắt các tiêu đề (thẻ h) trong bài viết"
+
+#: main/extend.php:136
+msgid ""
+"To add advertisements to your website, simply enable this feature. It "
+"provides you with various ad options to meet your distribution needs"
+msgstr ""
+"Để thêm quảng cáo vào trang web của bạn, chỉ cần kích hoạt tính năng này. Nó "
+"cung cấp cho bạn nhiều tùy chọn quảng cáo khác nhau để đáp ứng nhu cầu phân "
+"phối của bạn"
+
+#: main/extend.php:141 main/notify.php:239
+msgid "Notify"
+msgstr "Thông báo"
+
+#: main/extend.php:151
+msgid ""
+"Support quick notification setup, allowing web managers to easily deliver "
+"useful and timely content, helping users stay informed effortlessly"
+msgstr ""
+"Hỗ trợ thiết lập thông báo nhanh chóng, cho phép người quản lý web dễ dàng "
+"cung cấp nội dung hữu ích và kịp thời, giúp người dùng luôn được cập nhật "
+"thông tin một cách dễ dàng"
+
+#: main/extend.php:156 main/shortcode.php:211
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: main/extend.php:166
+msgid ""
+"This feature compiles various shortcode templates with essential "
+"functionalities that are frequently used to enhance the user experience in "
+"WordPress"
+msgstr ""
+"Tính năng này tổng hợp nhiều mẫu shortcode khác nhau với các chức năng thiết "
+"yếu thường được sử dụng để nâng cao trải nghiệm người dùng trong WordPress"
+
+#: main/extend.php:171 main/search.php:246
+msgid "Fox Search"
+msgstr "Fox Search"
+
+#: main/extend.php:181
+msgid ""
+"If youre tired of WordPress default search tool because its too slow, try "
+"out our lightning-fast search feature to give your users an exceptional and "
+"speedy search experience"
+msgstr ""
+"Nếu bạn cảm thấy mệt mỏi với công cụ tìm kiếm mặc định của WordPress vì nó "
+"quá chậm, hãy thử tính năng tìm kiếm nhanh như chớp của chúng tôi để mang "
+"đến cho người dùng của bạn trải nghiệm tìm kiếm đặc biệt và nhanh chóng"
+
+#: main/extend.php:196
+msgid ""
+"If you need to monitor WordPress debug files without accessing the file "
+"manager, this tool is made just for that purpose"
+msgstr ""
+"Nếu bạn cần giám sát tệp gỡ lỗi WordPress mà không cần truy cập trình quản "
+"lý tệp, công cụ này được tạo ra chỉ nhằm mục đích đó"
+
+#: main/extend.php:211
+msgid ""
+"If you want to export or import the settings of the Foxtool plugin, enable "
+"this feature. It allows you to easily transfer configurations from this site "
+"to another"
+msgstr ""
+"Nếu bạn muốn xuất hoặc nhập cài đặt của plugin Foxtool, hãy bật tính năng "
+"này. Nó cho phép bạn dễ dàng chuyển cấu hình từ trang này sang trang khác"
+
+#: main/extend.php:271
+msgid "Extend"
+msgstr "Mở rộng"
+
+#: main/font.php:21 main/font.php:39
+msgid "ADD FONT"
+msgstr "ADD FONT"
+
+#: main/font.php:22 main/font.php:88
+msgid "USE FONT"
+msgstr "USE FONT"
+
+#: main/font.php:28
+msgid "Upload font success"
+msgstr "Tải lên phông chữ thành công"
+
+#: main/font.php:30
+msgid "Upload font error"
+msgstr "Lỗi tải phông chữ"
+
+#: main/font.php:41
+msgid "Add fonts"
+msgstr "Thêm phông chữ"
+
+#: main/font.php:43
+msgid "Name the font"
+msgstr "Đặt tên cho phông chữ"
+
+#: main/font.php:47
+msgid "BROWSE FILE"
+msgstr "DUYỆT TẬP TIN"
+
+#: main/font.php:48
+msgid "Accepted Font Format : woff2, ttf, otf, off | Font Size: Upto 25 MB"
+msgstr ""
+"Định dạng phông chữ được chấp nhận: woff2, ttf, otf, off | Kích thước phông "
+"chữ: Tối đa 25 MB"
+
+#: main/font.php:51
+msgid "UPLOAD FONT"
+msgstr "TẢI LÊN PHÔNG CHỮ"
+
+#: main/font.php:62
+msgid "font-family:"
+msgstr "font-family:"
+
+#: main/font.php:66
+msgid "Do you want to delete?"
+msgstr "Bạn có muốn xóa không?"
+
+#: main/font.php:90
+msgid "Use fonts on the web"
+msgstr "Sử dụng phông chữ trên web"
+
+#: main/font.php:94 main/font.php:95 main/font.php:96 main/font.php:97
+#: main/font.php:98 main/font.php:99 main/font.php:100 main/font.php:101
+#: main/font.php:102 main/font.php:103 main/font.php:104 main/font.php:105
+#: main/font.php:106 main/font.php:107
+msgid "Choose a font for the"
+msgstr "Chọn một phông chữ cho"
+
+#: main/gindex.php:19 main/gindex.php:33 main/gindex.php:63
+msgid "INDEX"
+msgstr "INDEX"
+
+#: main/gindex.php:35
+msgid "Enter manually"
+msgstr "Nhập thủ công"
+
+#: main/gindex.php:55
+msgid "Total:"
+msgstr "Tổng: "
+
+#: main/gindex.php:56
+msgid "Use:"
+msgstr "Sử dụng:"
+
+#: main/gindex.php:57
+msgid "Still:"
+msgstr "Còn:"
+
+#: main/gindex.php:61
+msgid "Enter the url"
+msgstr "Nhập url"
+
+#: main/gindex.php:64
+msgid "DEL"
+msgstr "DEL"
+
+#: main/gindex.php:65
+msgid "CHECK"
+msgstr "CHECK"
+
+#: main/gindex.php:75
+msgid "Configure Google index API"
+msgstr "Cấu hình Google index API"
+
+#: main/gindex.php:95
+msgid ""
+"The \"Index Now\" link will be added in the custom post management section "
+"to allow quick index submission"
+msgstr ""
+"Liên kết \"Index nhanh\" sẽ được thêm vào phần quản lý bài đăng tùy chỉnh để "
+"cho phép gửi chỉ mục nhanh chóng"
+
+#: main/gindex.php:96
+msgid "Add Google json code"
+msgstr "Thêm mã Google json"
+
+#: main/gindex.php:99 main/gindex.php:107 main/gindex.php:209
+msgid "Enter json"
+msgstr "Nhập json"
+
+#: main/gindex.php:115
+msgid "Add json"
+msgstr "Thêm json"
+
+#: main/notify.php:19 main/notify.php:35
+msgid "BLOCKER"
+msgstr "BLOCKER"
+
+#: main/notify.php:20 main/notify.php:69
+msgid "NOTIFY"
+msgstr "NOTIFY"
+
+#: main/notify.php:21 main/notify.php:90
+msgid "POPUP"
+msgstr "POPUP"
+
+#: main/notify.php:22 main/notify.php:167
+msgid "COOKIE"
+msgstr "COOKIE"
+
+#: main/notify.php:37
+msgid "Browser ad-block notification"
+msgstr "Thông báo chặn quảng cáo của trình duyệt"
+
+#: main/notify.php:42
+msgid "Enable ad-block detection"
+msgstr "Kích hoạt tính năng phát hiện chặn quảng cáo"
+
+#: main/notify.php:48
+msgid "Only notify, do not block access"
+msgstr "Chỉ thông báo, không chặn truy cập"
+
+#: main/notify.php:52 main/page/12chat.php:157 main/shortcode.php:153
+msgid "Select button color"
+msgstr "Chọn màu nút"
+
+#: main/notify.php:56 main/shortcode.php:157
+msgid "Select button border color"
+msgstr "Chọn màu đường viền nút"
+
+#: main/notify.php:59 main/notify.php:130 main/redirects.php:122
+msgid "Enter title"
+msgstr "Nhập tiêu đề"
+
+#: main/notify.php:62 main/notify.php:83 main/page/3tool.php:102
+#: main/redirects.php:125
+msgid "Enter content here"
+msgstr "Nhập nội dung vào đây"
+
+#: main/notify.php:64
+msgid ""
+"Enter the title and content you want to display when ad-blocker is detected"
+msgstr ""
+"Nhập tiêu đề và nội dung bạn muốn hiển thị khi phát hiện trình chặn quảng cáo"
+
+#: main/notify.php:71
+msgid "Notification at the top of the page"
+msgstr "Thông báo ở đầu trang"
+
+#: main/notify.php:76
+msgid "Enable notification"
+msgstr "Kích hoạt thông báo"
+
+#: main/notify.php:80
+msgid "Select background color"
+msgstr "Chọn màu nền"
+
+#: main/notify.php:85
+msgid ""
+"Enter the content you want to display in the notification, and customize the "
+"colors to match your preferences. A notification will appear at the top of "
+"your website, making it easy for users to see"
+msgstr ""
+"Nhập nội dung bạn muốn hiển thị trong thông báo và tùy chỉnh màu sắc để phù "
+"hợp với sở thích của bạn. Một thông báo sẽ xuất hiện ở đầu trang web của "
+"bạn, giúp người dùng dễ dàng nhìn thấy"
+
+#: main/notify.php:92
+msgid "Create an outstanding popup"
+msgstr "Tạo popup bật lên nổi bật"
+
+#: main/notify.php:97
+msgid "Enable popup"
+msgstr "Kích hoạt popup"
+
+#: main/notify.php:101
+msgid "Popup save time (.. hours)"
+msgstr "Popup lưu thời gian (.. giờ)"
+
+#: main/notify.php:126
+msgid "Add images"
+msgstr "Thêm hình ảnh"
+
+#: main/notify.php:127 main/page/10custom.php:39 main/page/10custom.php:64
+#: main/page/10custom.php:148 main/page/5media.php:190 main/page/5media.php:233
+#: main/page/6post.php:42
+msgid "Select image"
+msgstr "Chọn ảnh"
+
+#: main/notify.php:149
+msgid "Enter image link"
+msgstr "Nhập liên kết hình ảnh"
+
+#: main/notify.php:154 main/page/10custom.php:116 main/page/12chat.php:206
+#: main/page/4main.php:97 main/shortcode.php:165 main/toc.php:249
+msgid "Border radius"
+msgstr "Bo viền"
+
+#: main/notify.php:159 main/page/5media.php:140
+msgid "Max width"
+msgstr "Chiều rộng tối đa"
+
+#: main/notify.php:162
+msgid ""
+"Enter the content you want to display and configure the customizations above "
+"so the popup can appear when users visit your website"
+msgstr ""
+"Nhập nội dung muốn hiển thị và cấu hình các tùy chỉnh bên trên để Popup có "
+"thể xuất hiện khi người dùng truy cập vào website của bạn"
+
+#: main/notify.php:169
+msgid "Set up cookie notifications"
+msgstr "Thiết lập thông báo cookie"
+
+#: main/notify.php:174
+msgid "Enable cookie"
+msgstr "Kích hoạt cookie"
+
+#: main/notify.php:178
+msgid "Select title color and button"
+msgstr "Chọn màu tiêu đề và nút"
+
+#: main/notify.php:188 main/page/4main.php:63 main/toc.php:183
+msgid "Location"
+msgstr "Vị trí"
+
+#: main/notify.php:191
+msgid "Enter the policy page link"
+msgstr "Nhập liên kết trang chính sách"
+
+#: main/notify.php:194
+msgid "Enter cookie title"
+msgstr "Nhập tiêu đề cookie"
+
+#: main/notify.php:197
+msgid "Enter cookie content"
+msgstr "Nhập nội dung cookie"
+
+#: main/notify.php:199
+msgid ""
+"Display your cookie notice to inform users about cookie use and allow them "
+"to manage their preferences easily"
+msgstr ""
+"Hiển thị thông báo cookie của bạn để thông báo cho người dùng về việc sử "
+"dụng cookie và cho phép họ quản lý tùy chọn của mình một cách dễ dàng"
+
+#: main/page/10custom.php:9 main/page/11google.php:9 main/page/12chat.php:9
+#: main/page/1speed.php:9 main/page/2scuri.php:9 main/page/3tool.php:9
+#: main/page/4main.php:9 main/page/5media.php:9 main/page/6post.php:9
+#: main/page/7mail.php:9 main/page/8woo.php:9 main/page/9user.php:9
+msgid "ON/OFF"
+msgstr "BẬT/TẮT"
+
+#: main/page/10custom.php:12
+msgid "Change login link"
+msgstr "Thay đổi liên kết đăng nhập"
+
+#: main/page/10custom.php:18
+msgid "Enable for use"
+msgstr "Kích hoạt để sử dụng"
+
+#: main/page/10custom.php:21
+msgid "Enter a suffix"
+msgstr "Nhập hậu tố"
+
+#: main/page/10custom.php:23
+msgid "Enable this feature and enter the login link suffix"
+msgstr "Kích hoạt tính năng này và nhập hậu tố liên kết đăng nhập"
+
+#: main/page/10custom.php:24
+msgid "Example: domain.com/wp-admin where wp-admin is the suffix"
+msgstr "Ví dụ: domain.com/wp-admin trong đó wp-admin là hậu tố"
+
+#: main/page/10custom.php:25
+msgid "Login link:"
+msgstr "Liên kết đăng nhập:"
+
+#: main/page/10custom.php:28
+msgid "Custom WordPress login page"
+msgstr "Tùy chỉnh trang đăng nhập WordPress"
+
+#: main/page/10custom.php:33
+msgid "Enable custom functionality"
+msgstr "Kích hoạt chức năng tùy chỉnh"
+
+#: main/page/10custom.php:34
+msgid "Enable this feature to be able to use the customizations below"
+msgstr "Kích hoạt tính năng này để có thể sử dụng các tùy chỉnh bên dưới"
+
+#: main/page/10custom.php:36
+msgid "Select the displayed logo"
+msgstr "Chọn logo hiển thị"
+
+#: main/page/10custom.php:38
+msgid "Add the image logo link here"
+msgstr "Thêm link logo hình ảnh vào đây"
+
+#: main/page/10custom.php:41
+msgid "The standard size for the logo is 280x80 PX"
+msgstr "Kích thước tiêu chuẩn cho logo là 280x80 PX"
+
+#: main/page/10custom.php:43
+msgid "Customize background"
+msgstr "Tùy chỉnh nền"
+
+#: main/page/10custom.php:53
+msgid "Background"
+msgstr "Nền"
+
+#: main/page/10custom.php:55
+msgid ""
+"None: default not selected, Auto: background image automatically changes "
+"each time the page is loaded, Color: change the color you want, Upload: "
+"upload the background image you want"
+msgstr ""
+"None: mặc định không được chọn, Auto: hình nền tự động thay đổi mỗi khi tải "
+"trang, Color: thay đổi màu bạn muốn, Upload: tải lên hình nền bạn muốn"
+
+#: main/page/10custom.php:59 main/page/4main.php:89 main/toc.php:195
+msgid "Background color"
+msgstr "Màu nền"
+
+#: main/page/10custom.php:63
+msgid "Add background image link"
+msgstr "Thêm liên kết hình nền"
+
+#: main/page/10custom.php:67
+msgid "Customize elements on the page"
+msgstr "Tùy chỉnh các thành phần trên trang"
+
+#: main/page/10custom.php:74
+msgid "Enable element customization"
+msgstr "Kích hoạt tùy chỉnh phần tử"
+
+#: main/page/10custom.php:77
+msgid "You can further customize your login page by enabling this feature"
+msgstr ""
+"Bạn có thể tùy chỉnh thêm trang đăng nhập của mình bằng cách kích hoạt tính "
+"năng này"
+
+#: main/page/10custom.php:81
+msgid "Background color of the input form"
+msgstr "Màu nền của biểu mẫu đầu vào"
+
+#: main/page/10custom.php:86
+msgid "Input / select box color"
+msgstr "Màu hộp nhập / chọn"
+
+#: main/page/10custom.php:91
+msgid "Text color of the input / select box"
+msgstr "Màu văn bản của hộp nhập / chọn"
+
+#: main/page/10custom.php:96
+msgid "Button color"
+msgstr "Nút màu"
+
+#: main/page/10custom.php:101
+msgid "Button text color"
+msgstr "Màu văn bản nút"
+
+#: main/page/10custom.php:106
+msgid "Display text color"
+msgstr "Hiển thị màu văn bản"
+
+#: main/page/10custom.php:111
+msgid "Link display color"
+msgstr "Màu hiển thị liên kết"
+
+#: main/page/10custom.php:123
+msgid "Hide back link"
+msgstr "Ẩn liên kết quay lại"
+
+#: main/page/10custom.php:130
+msgid "Hide language options"
+msgstr "Ẩn tùy chọn ngôn ngữ"
+
+#: main/page/10custom.php:133
+msgid "Change WordPress logo in the Admin bar"
+msgstr "Thay đổi logo WordPress ở thanh quản trị"
+
+#: main/page/10custom.php:138
+msgid "Disable logo display"
+msgstr "Tắt hiển thị logo"
+
+#: main/page/10custom.php:144
+msgid "Enable logo customization"
+msgstr "Kích hoạt tùy chỉnh logo"
+
+#: main/page/10custom.php:147
+msgid "Add logo link"
+msgstr "Thêm liên kết logo"
+
+#: main/page/10custom.php:150
+msgid ""
+"The changing image is square, with the standard size being 100x100 pixels"
+msgstr "Hình ảnh thay đổi là hình vuông, kích thước chuẩn là 100x100 pixels"
+
+#: main/page/10custom.php:152
+msgid "Modify the footer content of WP admin"
+msgstr "Sửa đổi nội dung footer của WP admin"
+
+#: main/page/10custom.php:157
+msgid "Enable custom footer"
+msgstr "Kích hoạt chân trang tùy chỉnh"
+
+#: main/page/10custom.php:158
+msgid "Enable this feature if you want to customize the footer in the WP admin"
+msgstr ""
+"Kích hoạt tính năng này nếu bạn muốn tùy chỉnh chân trang trong quản trị "
+"viên WP"
+
+#: main/page/10custom.php:160
+msgid "Please enter the content here"
+msgstr "Vui lòng nhập nội dung vào đây"
+
+#: main/page/10custom.php:163
+msgid "Customize dashboard widgets"
+msgstr "Tùy chỉnh các tiện ở ích bảng điều khiển"
+
+#: main/page/10custom.php:165
+msgid "Disable unused widgets"
+msgstr "Tắt các widget không sử dụng"
+
+#: main/page/10custom.php:171
+msgid "Disable statistics widget"
+msgstr "Tắt tiện ích thống kê"
+
+#: main/page/10custom.php:178
+msgid "Disable WordPress info widget"
+msgstr "Tắt tiện ích thông tin WordPress"
+
+#: main/page/10custom.php:185
+msgid "Disable quick draft widget"
+msgstr "Tắt tiện ích soạn thảo nhanh"
+
+#: main/page/10custom.php:192
+msgid "Disable recent posts widget"
+msgstr "Tắt tiện ích bài đăng gần đây"
+
+#: main/page/10custom.php:199
+msgid "Disable welcome widget"
+msgstr "Tắt tiện ích chào mừng"
+
+#: main/page/10custom.php:206
+msgid "Disable health widget"
+msgstr "Tắt tiện ích sức khỏe"
+
+#: main/page/10custom.php:208
+msgid "You can disable default widgets on the dashboard that you dont use"
+msgstr ""
+"Bạn có thể tắt các tiện ích mặc định trên bảng điều khiển mà bạn không sử "
+"dụng"
+
+#: main/page/10custom.php:210
+msgid "Your custom widget"
+msgstr "Tiện ích tùy chỉnh của bạn"
+
+#: main/page/10custom.php:214
+msgid "Enable custom widget"
+msgstr "Kích hoạt tiện ích tùy chỉnh"
+
+#: main/page/10custom.php:215
+msgid ""
+"You can create your widget by activating it and entering content into the "
+"box below"
+msgstr ""
+"Bạn có thể tạo tiện ích của mình bằng cách kích hoạt nó và nhập nội dung vào "
+"ô bên dưới"
+
+#: main/page/10custom.php:217
+msgid "Widget title"
+msgstr "Tên tiện ích"
+
+#: main/page/11google.php:12
+msgid "Sign in with Google account"
+msgstr "Đăng nhập bằng tài khoản Google"
+
+#: main/page/11google.php:16
+msgid "Enable to use"
+msgstr "Cho phép sử dụng"
+
+#: main/page/11google.php:17
+msgid ""
+"Enable and configure the functions below to enable Google sign-in to work"
+msgstr ""
+"Kích hoạt và cấu hình các chức năng bên dưới để cho phép đăng nhập bằng "
+"Google hoạt động"
+
+#: main/page/11google.php:21
+msgid ""
+"Copy the link below to add it to the Authorized redirect URLs in your Google "
+"Developers project"
+msgstr ""
+"Sao chép liên kết bên dưới để thêm nó vào Authorized redirect URLs trong "
+"Google Developers project của bạn"
+
+#: main/page/11google.php:24
+msgid "Registration role options"
+msgstr "Tùy chọn vai trò đăng ký"
+
+#: main/page/11google.php:37 main/page/9user.php:49 main/shortcode.php:56
+msgid "Role"
+msgstr "Vai trò"
+
+#: main/page/11google.php:38
+msgid ""
+"You can customize the role of successful registrants, with the default role "
+"being \"subscriber\""
+msgstr ""
+"Bạn có thể tùy chỉnh vai trò của người đăng ký, với vai trò mặc định là "
+"\"subscriber\""
+
+#: main/page/11google.php:39
+msgid "Add Google API"
+msgstr "Thêm API Google"
+
+#: main/page/11google.php:41
+msgid "Client ID"
+msgstr "Client ID"
+
+#: main/page/11google.php:44
+msgid "Client Secret"
+msgstr "Client Secret"
+
+#: main/page/11google.php:46
+msgid ""
+"Retrieve the API Client ID and Client Secret from your Google Developers "
+"project and add them to the two fields above"
+msgstr ""
+"Lấy Client ID và Client Secret từ dự án Google Developers của bạn và thêm "
+"chúng vào hai trường trên"
+
+#: main/page/11google.php:48 main/page/12chat.php:25 main/page/12chat.php:223
+msgid "Display options"
+msgstr "Tùy chọn hiển thị"
+
+#: main/page/11google.php:52
+msgid ""
+"You can paste the shortcode into the position where you want the login "
+"button to appear"
+msgstr "Bạn có thể dán shortcode vào vị trí muốn nút đăng nhập xuất hiện"
+
+#: main/page/11google.php:56
+msgid "Display on the default login form"
+msgstr "Hiển thị trên form đăng nhập mặc định"
+
+#: main/page/11google.php:57
+msgid ""
+"Enable to display the Google login button on the default WordPress login form"
+msgstr ""
+"Cho phép hiển thị nút đăng nhập Google trên form đăng nhập mặc định của "
+"WordPress"
+
+#: main/page/11google.php:62
+msgid "Display on the WooCommerce login form"
+msgstr "Hiển thị trên biểu mẫu đăng nhập WooC Commerce"
+
+#: main/page/11google.php:63
+msgid "Enable to display the Google login button on the WooCommerce login form"
+msgstr ""
+"Cho phép hiển thị nút đăng nhập Google trên biểu mẫu đăng nhập WooC Commerce"
+
+#: main/page/11google.php:65
+msgid "Block login spam with Google reCAPTCHA"
+msgstr "Chặn đăng nhập rác bằng Google reCAPTCHA"
+
+#: main/page/11google.php:74
+msgid "Off / select"
+msgstr "Tắt / chọn"
+
+#: main/page/11google.php:77
+msgid "Site key"
+msgstr "Site key"
+
+#: main/page/11google.php:80
+msgid "Secret key"
+msgstr "Secret key"
+
+#: main/page/11google.php:82
+msgid ""
+"Retrieve the Site Key and Secret Key from your Google reCAPTCHA project and "
+"add them to the two fields above"
+msgstr ""
+"Lấy Site Key và Secret Key từ dự án Google reCAPTCHA của bạn và thêm chúng "
+"vào hai trường trên"
+
+#: main/page/12chat.php:12
+msgid "Create a chat feature for users"
+msgstr "Tạo tính năng trò chuyện cho người dùng"
+
+#: main/page/12chat.php:17
+msgid "Enable chat button"
+msgstr "Kích hoạt nút trò chuyện"
+
+#: main/page/12chat.php:23
+msgid "Hide chat button when scrolling down"
+msgstr "Ẩn nút trò chuyện khi cuộn xuống"
+
+#: main/page/12chat.php:50
+msgid "Configure buttons"
+msgstr "Cấu hình các nút"
+
+#: main/page/12chat.php:51 main/page/12chat.php:249
+msgid "Visit this page to get the SVG icon:"
+msgstr "Truy cập trang này để lấy biểu tượng SVG:"
+
+#: main/page/12chat.php:52 main/page/12chat.php:66 main/page/12chat.php:85
+#: main/page/12chat.php:118 main/page/12chat.php:258 main/page/12chat.php:271
+msgid "Enter link"
+msgstr "Nhập link"
+
+#: main/page/12chat.php:53
+msgid "Enter ID"
+msgstr "Nhập ID"
+
+#: main/page/12chat.php:65 main/page/12chat.php:84 main/page/12chat.php:117
+msgid "Enter button name"
+msgstr "Nhập tên nút"
+
+#: main/page/12chat.php:67 main/page/12chat.php:86 main/page/12chat.php:119
+#: main/page/12chat.php:256 main/page/12chat.php:269
+msgid "Enter the SVG icon"
+msgstr "Nhập biểu tượng SVG"
+
+#: main/page/12chat.php:95
+msgid "Add field"
+msgstr "Thêm trường"
+
+#: main/page/12chat.php:154
+msgid "Default style"
+msgstr "Kiểu mặc định"
+
+#: main/page/12chat.php:167 main/toc.php:264
+msgid "Select icon"
+msgstr "Chọn biểu tượng"
+
+#: main/page/12chat.php:170
+msgid "Customize chat button"
+msgstr "Tùy chỉnh nút trò chuyện"
+
+#: main/page/12chat.php:175
+msgid "Open in a new tab"
+msgstr "Mở trong tab mới"
+
+#: main/page/12chat.php:179
+msgid "Select icon color"
+msgstr "Chọn màu biểu tượng"
+
+#: main/page/12chat.php:189
+msgid "Button position"
+msgstr "Vị trí nút"
+
+#: main/page/12chat.php:194 main/page/4main.php:67
+msgid "Spacing below"
+msgstr "Khoảng cách bên dưới"
+
+#: main/page/12chat.php:198 main/page/4main.php:71 main/toc.php:282
+msgid "Border distance"
+msgstr "Khoảng cách biên"
+
+#: main/page/12chat.php:202 main/page/5media.php:205 main/page/5media.php:273
+msgid "Transparency level"
+msgstr "Độ trong suốt"
+
+#: main/page/12chat.php:210
+msgid "Contact bar on mobile"
+msgstr "Thanh liên hệ trên mobile"
+
+#: main/page/12chat.php:215
+msgid "Enable contact bar"
+msgstr "Kích hoạt thanh liên hệ"
+
+#: main/page/12chat.php:221
+msgid "Hide bar when pulled down"
+msgstr "Ẩn thanh khi kéo xuống"
+
+#: main/page/12chat.php:247
+msgid "Main button"
+msgstr "Nút chính"
+
+#: main/page/12chat.php:248
+msgid "Enable the contact bar and configure the content below for use"
+msgstr "Kích hoạt thanh liên hệ và cấu hình nội dung bên dưới để sử dụng"
+
+#: main/page/12chat.php:250
+msgid "To create a menu on the navigation bar:"
+msgstr "Để tạo menu trên thanh điều hướng:"
+
+#: main/page/12chat.php:251
+msgid ""
+"Step 1: Go to Appearance > Menus > Create a new menu > check Navigation bar "
+"(Foxtool)"
+msgstr ""
+"Bước 1: Vào Giao diện > Menu > Tạo 1 menu mới > tích chọn Navigation bar "
+"(Foxtool)"
+
+#: main/page/12chat.php:252
+msgid ""
+"Step 2: Below, if you want the menu to open on a specific button, add <b "
+"style=\"color:red\">#foxnavi</b> to the field (#id or .class). For (Enter "
+"link), enter <b style=\"color:red\">#</b>. Note: Only add it to one of the 5 "
+"buttons below"
+msgstr ""
+"Bước 2: Bên dưới, nếu bạn muốn menu mở bằng một nút cụ thể, hãy thêm <b "
+"style=\"color:red\">#foxnavi</b> vào trường (#id hoặc .class). Đối với (Nhập "
+"liên kết), nhập vào <b style=\"color:red\">#</b>. Lưu ý: Chỉ thêm vào 1 "
+"trong 5 nút bên dưới"
+
+#: main/page/12chat.php:257 main/page/12chat.php:270
+#: main/page/ft-setting.php:125
+msgid "Enter name"
+msgstr "Nhập tên"
+
+#: main/page/12chat.php:259 main/page/12chat.php:272
+msgid "#id or .class"
+msgstr "#id hoặc .class"
+
+#: main/page/12chat.php:262
+msgid "\"Enter link\" left blank if you want to call the chat list"
+msgstr "\"Nhập link\" để trống nếu bạn muốn gọi danh sách trò chuyện"
+
+#: main/page/12chat.php:263
+msgid "4 customizable buttons"
+msgstr "4 nút tùy chỉnh"
+
+#: main/page/12chat.php:299 main/toc.php:242
+msgid "Customize"
+msgstr "Tùy chỉnh"
+
+#: main/page/12chat.php:301 main/toc.php:85
+msgid "Select the page to hide"
+msgstr "Chọn trang cần ẩn"
+
+#: main/page/12chat.php:326 main/redirects.php:176 main/toc.php:110
+msgid "No pages selected"
+msgstr "Không có trang nào"
+
+#: main/page/12chat.php:368
+msgid "Outstanding color"
+msgstr "Màu sắc nổi bật"
+
+#: main/page/12chat.php:372
+msgid "Main icon color"
+msgstr "Màu biểu tượng chính"
+
+#: main/page/12chat.php:376
+msgid "Main icon text color"
+msgstr "Màu văn bản biểu tượng chính"
+
+#: main/page/12chat.php:380
+msgid "Bar background color"
+msgstr "Màu nền của thanh"
+
+#: main/page/12chat.php:384
+msgid "Chat background color"
+msgstr "Màu nền trò chuyện"
+
+#: main/page/12chat.php:388
+msgid "Chat text color"
+msgstr "Màu chữ trò chuyện"
+
+#: main/page/1speed.php:12
+msgid "Disable unnecessary items"
+msgstr "Vô hiệu hóa các mục không cần thiết"
+
+#: main/page/1speed.php:17
+msgid "Disable jQuery Migrate"
+msgstr "Vô hiệu hóa jQuery Migrate"
+
+#: main/page/1speed.php:18
+msgid ""
+"jQuery Migrate is a library used to maintain the operation of certain "
+"themes, plugins that rely on older code. If your website no longer relies on "
+"this library, you can disable it"
+msgstr ""
+"jQuery Migrate là một thư viện dùng để duy trì hoạt động của một số chủ đề, "
+"plugin dựa trên mã cũ hơn. Nếu trang web của bạn không còn dựa vào thư viện "
+"này nữa, bạn có thể tắt nó"
+
+#: main/page/1speed.php:23
+msgid "Disable Gutenberg CSS"
+msgstr "Vô hiệu hóa CSS Gutenberg"
+
+#: main/page/1speed.php:24
+msgid "If you not using it, you can disable Gutenberg CSS on the homepage"
+msgstr "Nếu bạn không sử dụng nó, bạn có thể tắt CSS Gutenberg trên trang chủ"
+
+#: main/page/1speed.php:29
+msgid "Disable Classic CSS"
+msgstr "Vô hiệu hóa Classic CSS"
+
+#: main/page/1speed.php:30
+msgid "If you not using it, you can disable Classic CSS on the homepage"
+msgstr "Nếu bạn không sử dụng nó, bạn có thể tắt CSS cổ điển trên trang chủ"
+
+#: main/page/1speed.php:35
+msgid "Disable Emoji"
+msgstr "Vô hiệu hóa Emoji"
+
+#: main/page/1speed.php:36
+msgid "If you not using it, you can disable Emoji"
+msgstr "Nếu bạn không sử dụng nó, bạn có thể tắt Emoji"
+
+#: main/page/1speed.php:38
+msgid "Optimization Library"
+msgstr "Thư viện tối ưu hóa"
+
+#: main/page/1speed.php:43
+msgid "Enable Instant-page"
+msgstr "Kích hoạt Instant-page"
+
+#: main/page/1speed.php:44
+msgid ""
+"Instant-page is a library that allows you to preload the content of a linked "
+"page into the browser memory simply by hovering over the link. When you "
+"click on the link, it provides a remarkably fast loading experience"
+msgstr ""
+"Instant-page là thư viện cho phép bạn tải trước nội dung của trang được liên "
+"kết vào bộ nhớ trình duyệt chỉ bằng cách di chuột qua liên kết. Khi bạn nhấp "
+"vào liên kết, nó mang lại trải nghiệm tải nhanh đáng kể"
+
+#: main/page/1speed.php:49
+msgid "Enable Smooth-scroll"
+msgstr "Kích hoạt Smooth-scroll"
+
+#: main/page/1speed.php:50
+msgid ""
+"Smooth-scroll is a library that enables you to create a smooth scrolling "
+"effect, providing users with a perception of faster page navigation"
+msgstr ""
+"Smooth-scroll là một thư viện cho phép bạn tạo hiệu ứng cuộn mượt mà, mang "
+"đến cho người dùng cảm giác điều hướng trang nhanh hơn"
+
+#: main/page/1speed.php:52
+msgid "The function of lazy loading images"
+msgstr "Chức năng tải hình ảnh lười biếng"
+
+#: main/page/1speed.php:57
+msgid "Enable image lazy loading"
+msgstr "Kích hoạt ảnh lười biếng"
+
+#: main/page/1speed.php:58
+msgid ""
+"If you want to lazy load images every time the page loads, then turn it on. "
+"This function helps your website load faster"
+msgstr ""
+"Nếu bạn muốn hình ảnh tải chậm mỗi khi tải trang thì hãy bật nó lên. Chức "
+"năng này giúp trang web của bạn tải nhanh hơn"
+
+#: main/page/1speed.php:61
+msgid "Compress HTML into a single line"
+msgstr "Nén HTML thành một dòng duy nhất"
+
+#: main/page/1speed.php:66
+msgid "Enable HTML compression"
+msgstr "Kích hoạt tính năng nén HTML"
+
+#: main/page/1speed.php:67
+msgid ""
+"With this feature, HTML will be compressed into a single line, removing "
+"unnecessary characters and whitespace to speed up page loading"
+msgstr ""
+"Với tính năng này, HTML sẽ được nén thành một dòng duy nhất, loại bỏ các ký "
+"tự và khoảng trắng không cần thiết để tăng tốc độ tải trang"
+
+#: main/page/1speed.php:68
+msgid ""
+"Do not enable if you are using optimization plugins with similar "
+"functionality (conflict)"
+msgstr ""
+"Không kích hoạt nếu bạn đang sử dụng plugin tối ưu hóa có chức năng tương tự "
+"(xung đột)"
+
+#: main/page/1speed.php:74
+msgid "Minify Inline JavaScript"
+msgstr "Giảm thiểu JavaScript nội tuyến"
+
+#: main/page/1speed.php:80
+msgid "Remove comments from HTML, JavaScript, and CSS"
+msgstr "Xóa nhận xét khỏi HTML, JavaScript và CSS"
+
+#: main/page/1speed.php:86
+msgid "Remove XHTML closing tags from empty elements in HTML5"
+msgstr "Xóa thẻ đóng XHTML khỏi các phần tử trống trong HTML5"
+
+#: main/page/1speed.php:92
+msgid "Remove relative domain from internal URLs"
+msgstr "Xóa tên miền tương đối khỏi URL nội bộ"
+
+#: main/page/1speed.php:98
+msgid "Remove protocols (HTTP: and HTTPS:) from all URLs"
+msgstr "Xóa giao thức (HTTP: và HTTPS:) khỏi tất cả các URL"
+
+#: main/page/1speed.php:104
+msgid "Support multi-byte UTF-8 encoding (if you see strange characters)"
+msgstr "Hỗ trợ mã hóa UTF-8 nhiều byte (nếu thấy ký tự lạ)"
+
+#: main/page/1speed.php:108
+msgid "Optimize saving post content into the database"
+msgstr "Tối ưu lưu nội dung bài viết vào cơ sở dữ liệu"
+
+#: main/page/1speed.php:113
+msgid "Enable revision limit"
+msgstr "Kích hoạt giới bản sửa đổi"
+
+#: main/page/1speed.php:117
+msgid "Enter the number of revisions"
+msgstr "Nhập số bản sửa đổi"
+
+#: main/page/1speed.php:124
+msgid "Change save interval"
+msgstr "Thay đổi khoảng thời gian lưu"
+
+#: main/page/1speed.php:128
+msgid "Save interval (minutes)"
+msgstr "Khoảng thời gian lưu (phút)"
+
+#: main/page/1speed.php:131
+msgid ""
+"If you enable this feature and set automatic revision limit and automatic "
+"save time for posts or pages, it will reduce the amount of data stored in "
+"the database"
+msgstr ""
+"Nếu bạn kích hoạt tính năng này và đặt giới hạn số bản sửa đổi và khoảng "
+"thời gian lưu tự động cho bài viết hoặc trang, nó sẽ làm giảm lượng dữ liệu "
+"được lưu trữ trong cơ sở dữ liệu"
+
+#: main/page/2scuri.php:12
+msgid "Enhance website security"
+msgstr "Tăng cường bảo mật trang web"
+
+#: main/page/2scuri.php:17
+msgid "Disable REST API"
+msgstr "Tắt API REST"
+
+#: main/page/2scuri.php:18
+msgid ""
+"If you not using REST API, it recommended to disable it for security purposes"
+msgstr "Nếu bạn không sử dụng API REST, bạn nên tắt nó vì mục đích bảo mật"
+
+#: main/page/2scuri.php:23
+msgid "Disable XML RPC"
+msgstr "Vô hiệu hóa RPC XML"
+
+#: main/page/2scuri.php:24
+msgid ""
+"If you not using XML RPC, it recommended to disable it for security purposes"
+msgstr "Nếu bạn không sử dụng XML RPC, bạn nên tắt nó vì mục đích bảo mật"
+
+#: main/page/2scuri.php:29
+msgid "Disable Wp-Embed"
+msgstr "Vô hiệu hóa Wp-Embed"
+
+#: main/page/2scuri.php:30
+msgid ""
+"If you not using Wp-Embed, it recommended to disable it for security purposes"
+msgstr "Nếu bạn không sử dụng Wp-Embed, bạn nên tắt nó vì mục đích bảo mật"
+
+#: main/page/2scuri.php:35
+msgid "Disable X-Pingback"
+msgstr "Vô hiệu hóa X-Pingback"
+
+#: main/page/2scuri.php:36
+msgid ""
+"If you not using X-Pingback, it recommended to disable it for security "
+"purposes"
+msgstr "Nếu bạn không sử dụng X-Pingback, bạn nên tắt nó vì mục đích bảo mật"
+
+#: main/page/2scuri.php:41
+msgid "Remove unnecessary header information"
+msgstr "Xóa thông tin tiêu đề không cần thiết"
+
+#: main/page/2scuri.php:42
+msgid "Remove unnecessary header information if desired"
+msgstr "Xóa thông tin tiêu đề không cần thiết nếu muốn"
+
+#: main/page/2scuri.php:47
+msgid "Disable other data sources"
+msgstr "Vô hiệu hóa các nguồn dữ liệu khác"
+
+#: main/page/2scuri.php:48
+msgid "Disable unnecessary data sources"
+msgstr "Vô hiệu hóa các nguồn dữ liệu không cần thiết"
+
+#: main/page/2scuri.php:51
+msgid "Filter uploaded files"
+msgstr "Lọc các tập tin đã tải lên"
+
+#: main/page/2scuri.php:56
+msgid "Enable blocking uploads of non-image files"
+msgstr "Cho phép chặn tải lên các tệp không phải hình ảnh"
+
+#: main/page/2scuri.php:57
+msgid ""
+"This feature will block uploads of all files that are not image formats, "
+"from media, plugins, themes, etc"
+msgstr ""
+"Tính năng này sẽ chặn việc tải lên tất cả các tệp không phải là định dạng "
+"hình ảnh, từ phương tiện, plugin, chủ đề, v.v."
+
+#: main/page/2scuri.php:59
+msgid "Remove version"
+msgstr "Xóa phiên bản"
+
+#: main/page/2scuri.php:65
+msgid "Remove version from JS and CSS"
+msgstr "Xóa phiên bản khỏi JS và CSS"
+
+#: main/page/2scuri.php:72
+msgid "Remove WordPress version"
+msgstr "Xóa phiên bản WordPress"
+
+#: main/page/2scuri.php:75
+msgid ""
+"Correct, hiding the version of resources such as JS, CSS, and WordPress is a "
+"common security measure to prevent hackers from exploiting known "
+"vulnerabilities in older versions"
+msgstr ""
+"Đúng vậy, việc ẩn phiên bản của các tài nguyên như JS, CSS và WordPress là "
+"một biện pháp bảo mật phổ biến để ngăn chặn tin tặc khai thác các lỗ hổng đã "
+"biết trong các phiên bản cũ hơn"
+
+#: main/page/2scuri.php:77
+msgid "Secure access data"
+msgstr "Dữ liệu truy cập an toàn"
+
+#: main/page/2scuri.php:82
+msgid "Prevent SQL injection, cross-site scripting (XSS)"
+msgstr "Ngăn chặn SQL injection, cross-site scripting (XSS)"
+
+#: main/page/2scuri.php:83
+msgid ""
+"This feature helps protect the website against attacks such as SQL "
+"injection, cross-site scripting (XSS)"
+msgstr ""
+"Tính năng này giúp bảo vệ trang web khỏi các cuộc tấn công như SQL "
+"injection, cross-site scripting (XSS)"
+
+#: main/page/3tool.php:12
+msgid "Text editor tool"
+msgstr "Công cụ soạn thảo văn bản"
+
+#: main/page/3tool.php:17
+msgid "Enable Classic Editor"
+msgstr "Kích hoạt Trình soạn thảo cổ điển"
+
+#: main/page/3tool.php:18
+msgid ""
+"If you find the new editor too difficult to use, then revert it to the "
+"Classic Editor version"
+msgstr ""
+"Nếu bạn thấy trình soạn thảo mới quá khó sử dụng, hãy quay lại phiên bản "
+"Trình soạn thảo cổ điển"
+
+#: main/page/3tool.php:23
+msgid "Enhance features for Classic Editor"
+msgstr "Thêm tính năng cho Trình soạn thảo cổ điển"
+
+#: main/page/3tool.php:24
+msgid ""
+"Enable this feature if you want to add additional functionalities to the "
+"Classic Editor to enhance professional editing"
+msgstr ""
+"Kích hoạt tính năng này nếu bạn muốn thêm các chức năng bổ sung vào Trình "
+"soạn thảo cổ điển để nâng cao khả năng chỉnh sửa chuyên nghiệp"
+
+#: main/page/3tool.php:29
+msgid "Add Classic Editor button"
+msgstr "Thêm nút Trình soạn thảo cổ điển"
+
+#: main/page/3tool.php:30
+msgid ""
+"Enable this feature if you want to add the Classic Editor button in the post "
+"and page management interface. With this feature, you dont need to set the "
+"Classic Editor as default but can use it in parallel"
+msgstr ""
+"Kích hoạt tính năng này nếu bạn muốn thêm nút Trình soạn thảo cổ điển trong "
+"giao diện quản lý bài đăng và trang. Với tính năng này, bạn không cần phải "
+"đặt Trình soạn thảo cổ điển làm mặc định mà có thể sử dụng song song"
+
+#: main/page/3tool.php:31
+msgid "Optimize Widgets"
+msgstr "Tối ưu hóa tiện ích"
+
+#: main/page/3tool.php:36
+msgid "Enable Classic Widget"
+msgstr "Kích hoạt Tiện ích cổ điển"
+
+#: main/page/3tool.php:37
+msgid ""
+"If you find the new Widget Manager too difficult to use, then revert it to "
+"the Classic Widget version"
+msgstr ""
+"Nếu bạn thấy Trình quản lý tiện ích mới quá khó sử dụng, hãy quay lại phiên "
+"bản Tiện ích cổ điển"
+
+#: main/page/3tool.php:39
+msgid "Disable automatic updates"
+msgstr "Tắt cập nhật tự động"
+
+#: main/page/3tool.php:45
+msgid "Disable core updates"
+msgstr "Tắt cập nhật hệ thống"
+
+#: main/page/3tool.php:52
+msgid "Disable language pack updates"
+msgstr "Tắt cập nhật gói ngôn ngữ"
+
+#: main/page/3tool.php:59
+msgid "Disable theme updates"
+msgstr "Tắt cập nhật chủ đề"
+
+#: main/page/3tool.php:66
+msgid "Disable plugin updates"
+msgstr "Tắt cập nhật plugin"
+
+#: main/page/3tool.php:72
+msgid "Disable update & maintenance notifications"
+msgstr "Tắt thông báo cập nhật và bảo trì"
+
+#: main/page/3tool.php:78
+msgid ""
+"Disable automatic update checking (core, language packs, themes, plugins)"
+msgstr "Tắt kiểm tra cập nhật tự động (hệ thống, gói ngôn ngữ, chủ đề, plugin)"
+
+#: main/page/3tool.php:81
+msgid "You can disable the automatic update feature of WordPress"
+msgstr "Bạn có thể vô hiệu hóa tính năng cập nhật tự động của WordPress"
+
+#: main/page/3tool.php:83
+msgid "Management tool"
+msgstr "Công cụ quản lý"
+
+#: main/page/3tool.php:88
+msgid "Disallow text copying and access to DevTools"
+msgstr "Không cho phép sao chép văn bản và truy cập vào DevTools"
+
+#: main/page/3tool.php:89
+msgid ""
+"This function prevents users from copying text, accessing right-click "
+"options, and accessing DevTools"
+msgstr ""
+"Chức năng này ngăn người dùng sao chép văn bản, truy cập các tùy chọn nhấp "
+"chuột phải và truy cập DevTools"
+
+#: main/page/3tool.php:94
+msgid "Copy pre-set content"
+msgstr "Sao chép nội dung được thiết lập trước"
+
+#: main/page/3tool.php:99
+msgid "Attach copyright content"
+msgstr "Đính kèm nội dung bản quyền"
+
+#: main/page/3tool.php:104
+msgid ""
+"If users copy content on the page, instead of receiving the content, they "
+"will receive the content you have set"
+msgstr ""
+"Nếu người dùng sao chép nội dung trên trang, thay vì nhận được nội dung, họ "
+"sẽ nhận được nội dung bạn đã thiết lập"
+
+#: main/page/3tool.php:110
+msgid "Enable Classic Editor in category description"
+msgstr "Kích hoạt Trình soạn thảo cổ điển trong mô tả danh mục"
+
+#: main/page/3tool.php:111
+msgid ""
+"This feature allows you to add the Classic Editor to the category "
+"description box when editing posts or products"
+msgstr ""
+"Tính năng này cho phép bạn thêm Trình soạn thảo cổ điển vào hộp mô tả danh "
+"mục khi chỉnh sửa bài đăng hoặc sản phẩm"
+
+#: main/page/3tool.php:113
+msgid "Hide the tools you want"
+msgstr "Ẩn các công cụ bạn muốn"
+
+#: main/page/3tool.php:127
+msgid ""
+"If you find the tools above unnecessary, you can hide them to make the WP "
+"admin interface cleaner. This function only hides them without blocking "
+"access to their links"
+msgstr ""
+"Nếu bạn thấy các công cụ trên không cần thiết, bạn có thể ẩn chúng đi để "
+"giao diện quản trị WP sạch hơn. Chức năng này chỉ ẩn chúng mà không chặn "
+"quyền truy cập vào liên kết của chúng"
+
+#: main/page/4main.php:12
+msgid "Add font Awesome to the website"
+msgstr "Thêm phông chữ Awesome vào trang web"
+
+#: main/page/4main.php:17
+msgid "Enable font Awesome"
+msgstr "Kích hoạt phông chữ Awesome"
+
+#: main/page/4main.php:18
+msgid ""
+"If you want to use font Awesome, you can enable it (it an icon font). You "
+"can search for icons at:"
+msgstr ""
+"Nếu bạn muốn sử dụng font Awesome, bạn có thể kích hoạt nó (nó là font biểu "
+"tượng). Bạn có thể tìm kiếm biểu tượng tại:"
+
+#: main/page/4main.php:19
+msgid "Access Font Awesome to find icons"
+msgstr "Truy cập Font Awesome để tìm biểu tượng"
+
+#: main/page/4main.php:20
+msgid "Free to use \"fa-regular\" and \"fa-brands\" styles"
+msgstr "Miễn phí sử dụng các kiểu \"fa-regular\" và \"fa-brands\""
+
+#: main/page/4main.php:22
+msgid "Decorative effects for the website"
+msgstr "Hiệu ứng trang trí cho trang web"
+
+#: main/page/4main.php:31
+msgid "Effect"
+msgstr "Hiệu ứng"
+
+#: main/page/4main.php:32
+msgid ""
+"Choose decorations for the website, such as Christmas or Lunar New Year (If "
+"any effects cause issues on your website, it may be due to javascript "
+"conflicts. You can switch to other effects to use)"
+msgstr ""
+"Chọn hiệu ứng trang trí cho trang web, chẳng hạn như Giáng sinh hoặc Tết "
+"Nguyên đán (Nếu bất kỳ hiệu ứng nào gây ra sự cố trên trang web của bạn, có "
+"thể là do xung đột javascript. Bạn có thể chuyển sang các hiệu ứng khác để "
+"sử dụng)"
+
+#: main/page/4main.php:33
+msgid "Dark mode"
+msgstr "Chế độ tối"
+
+#: main/page/4main.php:39
+msgid "Enable dark mode"
+msgstr "Kích hoạt chế độ tối"
+
+#: main/page/4main.php:43 main/search.php:79 main/toc.php:239
+msgid "Icon color"
+msgstr "Màu biểu tượng"
+
+#: main/page/4main.php:53 main/shortcode.php:116
+msgid "Display type"
+msgstr "Kiểu hiển thị"
+
+#: main/page/4main.php:77 main/search.php:67 main/toc.php:67
+msgid "Use shortcodes"
+msgstr "Sử dụng shortcode"
+
+#: main/page/4main.php:80
+msgid ""
+"This function allows you to initiate a dark mode library, enabling the "
+"website to switch between light and dark modes"
+msgstr ""
+"Chức năng này cho phép bạn thêm chế độ tối, cho phép trang web chuyển đổi "
+"giữa chế độ sáng và tối"
+
+#: main/page/4main.php:81
+msgid "Customize scroll bar"
+msgstr "Tùy chỉnh thanh cuộn"
+
+#: main/page/4main.php:86
+msgid "Enable"
+msgstr "Kích hoạt"
+
+#: main/page/4main.php:93
+msgid "Bar color"
+msgstr "Màu thanh"
+
+#: main/page/4main.php:101
+msgid "Bar size"
+msgstr "Kích thước thanh"
+
+#: main/page/4main.php:103
+msgid ""
+"This function allows you to customize the color of the scrollbar to your "
+"liking"
+msgstr ""
+"Chức năng này cho phép bạn tùy chỉnh màu sắc của thanh cuộn theo ý thích của "
+"bạn"
+
+#: main/page/5media.php:12
+msgid "Image crop configuration"
+msgstr "Cấu hình cắt ảnh"
+
+#: main/page/5media.php:17
+msgid "Stop cropping all"
+msgstr "Dừng cắt xén tất cả"
+
+#: main/page/5media.php:34
+msgid "Stop cropping"
+msgstr "Dừng cắt xén"
+
+#: main/page/5media.php:37
+msgid "Advanced photo upload"
+msgstr "Tải ảnh nâng cao"
+
+#: main/page/5media.php:41
+msgid "Automatic name"
+msgstr "Tên tự động"
+
+#: main/page/5media.php:42
+msgid "The file name will be your domain name"
+msgstr "Tên tập tin sẽ là tên miền của bạn"
+
+#: main/page/5media.php:46
+msgid "Ignore 8-bit png"
+msgstr "Bỏ qua png 8 bit"
+
+#: main/page/5media.php:47
+msgid ""
+"8-bit PNG images are not supported by the GD library, and this format "
+"already has perfect compression and does not need further processing"
+msgstr ""
+"Hình ảnh PNG 8 bit không được thư viện GD hỗ trợ và định dạng này đã có khả "
+"năng nén hoàn hảo và không cần xử lý thêm"
+
+#: main/page/5media.php:48
+msgid "Configure image upload function"
+msgstr "Cấu hình chức năng tải ảnh lên"
+
+#: main/page/5media.php:53
+msgid "Enable upload size limit"
+msgstr "Kích hoạt giới hạn kích thước tải lên"
+
+#: main/page/5media.php:57 main/page/ft-about2.php:10
+msgid "MB"
+msgstr "MB"
+
+#: main/page/5media.php:60
+msgid ""
+"If you have members and do not want them to upload images with excessively "
+"large sizes, causing storage space usage, you can limit the maximum size "
+"allowed for upload"
+msgstr ""
+"Nếu bạn có thành viên và không muốn họ tải lên hình ảnh có kích thước quá "
+"lớn, gây tốn dung lượng lưu trữ, bạn có thể giới hạn kích thước tối đa được "
+"phép tải lên"
+
+#: main/page/5media.php:66
+msgid "Allow uploading SVG files"
+msgstr "Cho phép tải lên các tệp SVG"
+
+#: main/page/5media.php:67
+msgid "Enable this feature if you want SVG images to be uploaded to the media"
+msgstr "Kích hoạt tính năng này nếu bạn muốn tải hình ảnh SVG lên phương tiện"
+
+#: main/page/5media.php:73
+msgid "Allow uploading JFIF files"
+msgstr "Cho phép tải lên các tập tin JFIF"
+
+#: main/page/5media.php:74
+msgid ""
+"Enable this feature if you want JFIF format images to be uploaded to the "
+"media. The uploaded images will be converted to JPG or WEBP format according "
+"to the configuration"
+msgstr ""
+"Kích hoạt tính năng này nếu bạn muốn tải hình ảnh định dạng JFIF lên phương "
+"tiện. Hình ảnh được tải lên sẽ được chuyển đổi sang định dạng JPG hoặc WEBP "
+"theo cấu hình"
+
+#: main/page/5media.php:75
+msgid "Compress JPG images upon upload"
+msgstr "Nén hình ảnh JPG khi tải lên"
+
+#: main/page/5media.php:84 main/page/5media.php:104 main/page/5media.php:124
+msgid "Compression level ("
+msgstr "Mức độ nén ("
+
+#: main/page/5media.php:87
+msgid ""
+"You can adjust the compression level of the image from 5 to 100 (100 being "
+"no compression)"
+msgstr ""
+"Bạn có thể điều chỉnh mức độ nén của hình ảnh từ 5 đến 100 (100 là không nén)"
+
+#: main/page/5media.php:93
+msgid "Convert PNG to JPG"
+msgstr "Chuyển đổi PNG sang JPG"
+
+#: main/page/5media.php:94
+msgid ""
+"Convert PNG images to JPG upon upload, and compress the images according to "
+"the JPG configuration"
+msgstr ""
+"Chuyển đổi hình ảnh PNG sang JPG khi tải lên và nén hình ảnh theo cấu hình "
+"JPG"
+
+#: main/page/5media.php:95
+msgid "Convert images to WEBP upon upload"
+msgstr "Chuyển đổi hình ảnh sang WEBP khi tải lên"
+
+#: main/page/5media.php:100
+msgid "Convert JPG and PNG to WEBP"
+msgstr "Chuyển đổi JPG và PNG sang WEBP"
+
+#: main/page/5media.php:107
+msgid ""
+"Convert JPG and PNG images to WEBP upon upload, and compress the images "
+"according to the configuration you enter"
+msgstr ""
+"Chuyển đổi hình ảnh JPG và PNG sang WEBP khi tải lên và nén hình ảnh theo "
+"cấu hình bạn nhập"
+
+#: main/page/5media.php:109
+msgid "Convert images to AVIF upon upload"
+msgstr "Chuyển đổi hình ảnh sang AVIF khi tải lên"
+
+#: main/page/5media.php:114
+msgid "Allow uploading AVIF image format"
+msgstr "Cho phép tải lên định dạng hình ảnh AVIF"
+
+#: main/page/5media.php:119
+msgid "Convert JPG and PNG to AVIF"
+msgstr "Chuyển đổi JPG và PNG sang AVIF"
+
+#: main/page/5media.php:127
+msgid ""
+"Convert JPG and PNG images to AVIF upon upload, and compress the images "
+"according to the configuration you enter"
+msgstr ""
+"Chuyển đổi hình ảnh JPG và PNG sang AVIF khi tải lên và nén hình ảnh theo "
+"cấu hình bạn nhập"
+
+#: main/page/5media.php:128
+msgid "Only supported from PHP 8.1 and above"
+msgstr "Chỉ được hỗ trợ từ PHP 8.1 trở lên"
+
+#: main/page/5media.php:131
+msgid "Limits the size of JPG, PNG, WEBP, AVIF images when uploading"
+msgstr "Giới hạn kích thước của hình ảnh JPG, PNG, WEBP, AVIF khi tải lên"
+
+#: main/page/5media.php:136
+msgid "Limit JPG, PNG, WEBP, AVIF images"
+msgstr "Giới hạn hình ảnh JPG, PNG, WEBP, AVIF"
+
+#: main/page/5media.php:142
+msgid "Max height"
+msgstr "Chiều cao tối đa"
+
+#: main/page/5media.php:145
+msgid ""
+"Limits the maximum width and height of JPG, PNG, WEBP images upon upload. "
+"You can leave it blank if you want to keep the original size"
+msgstr ""
+"Giới hạn chiều rộng và chiều cao tối đa của hình ảnh JPG, PNG, WEBP khi tải "
+"lên. Bạn có thể để trống nếu muốn giữ nguyên kích thước gốc"
+
+#: main/page/5media.php:147
+msgid "Automatically add a frame when uploading an image"
+msgstr "Tự động thêm khung ảnh khi tải ảnh lên"
+
+#: main/page/5media.php:153
+msgid "Enable the picture frame"
+msgstr "Kích hoạt khung ảnh"
+
+#: main/page/5media.php:159 main/page/5media.php:220
+msgid "Process cropped images"
+msgstr "Xử lý hình ảnh đã cắt"
+
+#: main/page/5media.php:189
+msgid "Add picture frame link here"
+msgstr "Thêm link khung ảnh vào đây"
+
+#: main/page/5media.php:197
+msgid "Flip photo"
+msgstr "Lật ảnh"
+
+#: main/page/5media.php:201
+msgid "Overlay color"
+msgstr "Màu lớp phủ"
+
+#: main/page/5media.php:208
+msgid ""
+"The feature adds advanced functions when uploading images, such as adding "
+"frames, flipping images... allowing you to automatically customize your "
+"images during upload. Picture frame (PNG)"
+msgstr ""
+"Mục này thêm chức năng nâng cao khi tải hình ảnh lên, thêm khung ảnh, lật "
+"ảnh... giúp tùy chỉnh hình ảnh của bạn tự động khi tải lên. Khung ảnh (PNG)"
+
+#: main/page/5media.php:210
+msgid "Configure adding a watermark to images upon upload"
+msgstr "Cấu hình thêm hình mờ vào hình ảnh khi tải lên"
+
+#: main/page/5media.php:215
+msgid "Add watermark to images upon upload"
+msgstr "Thêm hình mờ vào hình ảnh khi tải lên"
+
+#: main/page/5media.php:223
+msgid "Enter content"
+msgstr "Nhập nội dung"
+
+#: main/page/5media.php:228
+msgid "Text color"
+msgstr "Màu chữ"
+
+#: main/page/5media.php:232
+msgid "Add the logo image link here"
+msgstr "Thêm liên kết hình ảnh logo ở đây"
+
+#: main/page/5media.php:269
+msgid "Watermark image compared to main image"
+msgstr "Hình ảnh Watermark so với hình ảnh chính"
+
+#: main/page/5media.php:275
+msgid ""
+"If you want your uploaded images to be watermarked, please use this function "
+"and configure it above. Watermark (PNG, JPG)"
+msgstr ""
+"Nếu bạn muốn hình ảnh tải lên của mình có hình mờ, vui lòng sử dụng chức "
+"năng này và cấu hình ở trên. Hình mờ (PNG, JPG)"
+
+#: main/page/6post.php:12
+msgid "Image function for posts"
+msgstr "Chức năng hình ảnh cho bài viết"
+
+#: main/page/6post.php:17
+msgid "Save images to media when copying from another source"
+msgstr "Lưu hình ảnh vào thư viện khi sao chép từ nguồn khác"
+
+#: main/page/6post.php:23
+msgid "Remove img tag attributes"
+msgstr "Xóa thuộc tính thẻ img"
+
+#: main/page/6post.php:25
+msgid ""
+"Enable this feature if you want images in posts copied from another source "
+"to be stored on your website"
+msgstr ""
+"Kích hoạt tính năng này nếu bạn muốn hình ảnh trong bài đăng được sao chép "
+"từ nguồn khác được lưu trữ trên trang web của bạn"
+
+#: main/page/6post.php:31
+msgid "Enable deleting posts to also delete images"
+msgstr "Cho phép xóa bài viết xóa luôn hình ảnh"
+
+#: main/page/6post.php:32
+msgid ""
+"This function allows you to delete images attached to posts when deleting "
+"the posts themselves. Note that if multiple posts use the same image, it "
+"will also be deleted when removing the post"
+msgstr ""
+"Chức năng này cho phép bạn xóa hình ảnh đính kèm vào bài đăng khi xóa chính "
+"bài đăng đó. Lưu ý rằng nếu nhiều bài đăng sử dụng cùng một hình ảnh, hình "
+"ảnh đó cũng sẽ bị xóa khi xóa bài đăng"
+
+#: main/page/6post.php:38
+msgid "The first image becomes the featured image"
+msgstr "Hình ảnh đầu tiên trở thành hình đại diện"
+
+#: main/page/6post.php:41
+msgid "Add default featured image"
+msgstr "Thêm hình đại diện mặc định"
+
+#: main/page/6post.php:45
+msgid ""
+"Enable this feature if you want the first image in the post to become the "
+"featured image if the featured image field is empty. Additionally, you can "
+"select a default featured image in case both the featured image and the "
+"images in the post are empty"
+msgstr ""
+"Kích hoạt tính năng này nếu bạn muốn hình ảnh đầu tiên trong bài đăng trở "
+"thành hình đại diện, nếu trường hình đại diện trống. Ngoài ra, bạn có thể "
+"chọn hình đại diện mặc định trong trường hợp cả hình đại diện và hình trong "
+"bài đăng đều trống"
+
+#: main/page/6post.php:51
+msgid "The original image size when added to the post"
+msgstr "Kích thước hình ảnh gốc khi thêm vào bài viết"
+
+#: main/page/6post.php:52
+msgid ""
+"Enable this feature if you want the original image size to be selected by "
+"default whenever adding images to the post"
+msgstr ""
+"Kích hoạt tính năng này nếu bạn muốn kích thước hình ảnh gốc được chọn mặc "
+"định khi thêm vào bài viết"
+
+#: main/page/6post.php:54
+msgid "Duplicate post, page, custom post type"
+msgstr "Nhân bản post, page, bài đăng tùy chỉnh"
+
+#: main/page/6post.php:59
+msgid "Add duplicate button"
+msgstr "Thêm nút nhân bản"
+
+#: main/page/6post.php:60 main/toc.php:41
+msgid "Custom posts will be displayed"
+msgstr "Bài viết tùy chỉnh sẽ được hiển thị"
+
+#: main/page/6post.php:82
+msgid ""
+"If you want to enable the feature to duplicate posts, pages, or custom post "
+"types, please activate this function"
+msgstr ""
+"Nếu bạn muốn bật tính năng nhân bản bài viết, trang hoặc bài đăng tùy chỉnh, "
+"vui lòng kích hoạt chức năng này"
+
+#: main/page/6post.php:84
+msgid "Configure category permalink"
+msgstr "Cấu hình liên kết cố định danh mục"
+
+#: main/page/6post.php:89
+msgid "Remove category slug from permalink"
+msgstr "Xóa slug danh mục khỏi liên kết cố định"
+
+#: main/page/6post.php:90
+msgid ""
+"Convert paths from (domain.com/category/news/latest-news, domain.com/"
+"category/news) to (domain.com/latest-news, domain.com/news)"
+msgstr ""
+"Chuyển đổi đường dẫn từ (domain.com/category/news/latest-news, domain.com/"
+"category/news) thành (domain.com/latest-news, domain.com/news)"
+
+#: main/page/6post.php:91 main/page/6post.php:99
+msgid "Settings > Permalinks > Save changes"
+msgstr "Cài đặt > Liên kết cố định > Lưu thay đổi"
+
+#: main/page/6post.php:97
+msgid "Remove tag slug from permalink"
+msgstr "Xóa slug thẻ khỏi liên kết cố định"
+
+#: main/page/6post.php:98
+msgid "Convert path from domain.com/tag/news/ to domain.com/news/"
+msgstr "Chuyển đổi đường dẫn từ domain.com/tag/news/ sang domain.com/news/"
+
+#: main/page/6post.php:102
+msgid "Add .html for page"
+msgstr "Thêm .html cho trang"
+
+#: main/page/6post.php:107
+msgid "Enable .html for page"
+msgstr "Kích hoạt .html cho trang"
+
+#: main/page/6post.php:108
+msgid ""
+"If you enable this feature, your Pages will have .html appended to them, for "
+"example: domain.com/page.html"
+msgstr ""
+"Nếu bạn kích hoạt tính năng này, các Trang của bạn sẽ có phần mở rộng .html "
+"được thêm vào, ví dụ: domain.com/page.html"
+
+#: main/page/6post.php:110
+msgid "SEO optimization"
+msgstr "Tối ưu hóa SEO"
+
+#: main/page/6post.php:115
+msgid "Use titles as descriptions for images"
+msgstr "Sử dụng tiêu đề làm mô tả cho hình ảnh"
+
+#: main/page/6post.php:116
+msgid ""
+"This feature will use the title of the post as the description for the image "
+"when uploaded"
+msgstr ""
+"Tính năng này sẽ sử dụng tiêu đề của bài đăng làm mô tả cho hình ảnh khi tải "
+"lên"
+
+#: main/page/6post.php:121
+msgid "Add nofollow and _blank for external links"
+msgstr "Thêm nofollow và _blank cho các liên kết ngoài"
+
+#: main/page/6post.php:122
+msgid ""
+"This feature will add nofollow and _blank to external links on your site"
+msgstr ""
+"Tính năng này sẽ thêm nofollow và _blank vào các liên kết bên ngoài trên "
+"trang web của bạn"
+
+#: main/page/6post.php:124
+msgid "Additional feature"
+msgstr "Tính năng bổ sung"
+
+#: main/page/6post.php:129
+msgid "Allow using Shortcode in post titles"
+msgstr "Cho phép sử dụng Shortcode trong tiêu đề bài viết"
+
+#: main/page/6post.php:130
+msgid ""
+"This feature allows you to add Shortcode to post titles, which is very "
+"convenient for using custom tools"
+msgstr ""
+"Tính năng này cho phép bạn thêm Shortcode vào tiêu đề bài đăng, rất tiện lợi "
+"khi sử dụng các công cụ tùy chỉnh"
+
+#: main/page/6post.php:135
+msgid "Newly edited posts will be displayed first"
+msgstr "Các bài viết mới được chỉnh sửa, sẽ được hiển thị đầu tiên"
+
+#: main/page/6post.php:136
+msgid ""
+"This feature allows you to set newly edited posts to be displayed first in "
+"the main loop"
+msgstr ""
+"Tính năng này cho phép bạn thiết lập các bài đăng mới được chỉnh sửa, để "
+"hiển thị đầu tiên trong vòng lặp chính"
+
+#: main/page/6post.php:137
+msgid "Hide post categories from homepage"
+msgstr "Ẩn danh mục bài viết khỏi trang chủ"
+
+#: main/page/6post.php:142
+msgid "Enable if you want to hide categories"
+msgstr "Kích hoạt nếu bạn muốn ẩn danh mục"
+
+#: main/page/6post.php:146
+msgid ""
+"Enable and add the category IDs you want to hide from the main loop "
+"displaying posts on the homepage, for example: 1, 2, 3"
+msgstr ""
+"Kích hoạt và thêm ID danh mục bạn muốn ẩn khỏi vòng lặp chính hiển thị bài "
+"đăng trên trang chủ, ví dụ: 1, 2, 3"
+
+#: main/page/6post.php:147
+msgid "Advanced image viewing feature in posts"
+msgstr "Tính năng xem hình ảnh nâng cao trong bài viết"
+
+#: main/page/6post.php:153
+msgid "Enable advanced image viewing"
+msgstr "Kích hoạt chế độ xem hình nâng cao"
+
+#: main/page/6post.php:159
+msgid "Show full image"
+msgstr "Hiển thị toàn bộ hình ảnh"
+
+#: main/page/6post.php:161
+msgid ""
+"This feature uses the Fancybox library, allowing you to open images in posts "
+"for viewing"
+msgstr ""
+"Tính năng này sử dụng thư viện Fancybox, cho phép bạn mở hình ảnh trong bài "
+"đăng để xem"
+
+#: main/page/7mail.php:13 main/page/7mail.php:15
+msgid "Configure SMTP mail"
+msgstr "Cấu hình thư SMTP"
+
+#: main/page/7mail.php:20
+msgid "Enable SMTP mail"
+msgstr "Kích hoạt thư SMTP"
+
+#: main/page/7mail.php:22
+msgid ""
+"Enable SMTP mail to allow SMTP mail to function and send emails when you "
+"perform a test"
+msgstr ""
+"Kích hoạt thư SMTP để cho phép thư SMTP hoạt động và gửi email khi bạn thực "
+"hiện kiểm tra"
+
+#: main/page/7mail.php:30 main/page/7mail.php:31
+msgid "Sender name"
+msgstr "Tên người gửi"
+
+#: main/page/7mail.php:33
+msgid "Sender email address"
+msgstr "Địa chỉ email của người gửi"
+
+#: main/page/7mail.php:39 main/page/7mail.php:40
+msgid "App password"
+msgstr "Mật khẩu ứng dụng"
+
+#: main/page/7mail.php:42
+msgid "SMTP server"
+msgstr "Máy chủ SMTP"
+
+#: main/page/7mail.php:45
+msgid "SMTP port"
+msgstr "Cổng SMTP"
+
+#: main/page/7mail.php:48
+msgid "SMTP protocol"
+msgstr "Giao thức SMTP"
+
+#: main/page/7mail.php:58
+msgid "Authenticate outgoing mail"
+msgstr "Xác thực thư gửi đi"
+
+#: main/page/7mail.php:60
+msgid "SMTP authentication"
+msgstr "Xác thực SMTP"
+
+#: main/page/7mail.php:66
+msgid "Send test email"
+msgstr "Gửi email kiểm tra"
+
+#: main/page/7mail.php:68
+msgid "Enter email"
+msgstr "Nhập email"
+
+#: main/page/7mail.php:69
+msgid "Send"
+msgstr "Gửi"
+
+#: main/page/7mail.php:72
+msgid "Please wait for the email to be sent"
+msgstr "Vui lòng đợi email được gửi"
+
+#: main/page/7mail.php:135
+msgid "Create welcome email for registered users"
+msgstr "Tạo email chào mừng cho người dùng đã đăng ký"
+
+#: main/page/7mail.php:139
+msgid "Enable email sending"
+msgstr "Cho phép gửi email"
+
+#: main/page/7mail.php:140
+msgid ""
+"You need to activate this feature and customize the content below so that "
+"new registered users can receive emails"
+msgstr ""
+"Bạn cần kích hoạt tính năng này và tùy chỉnh nội dung bên dưới để người dùng "
+"mới đăng ký có thể nhận được email"
+
+#: main/page/7mail.php:142
+msgid "Email subject"
+msgstr "Tiêu đề email"
+
+#: main/page/7mail.php:145
+msgid "Enter email content here"
+msgstr "Nhập nội dung email ở đây"
+
+#: main/page/7mail.php:148
+msgid "Comment notification"
+msgstr "Thông báo bình luận"
+
+#: main/page/7mail.php:153
+msgid "Email notification when there a reply"
+msgstr "Thông báo qua email khi có phản hồi"
+
+#: main/page/7mail.php:154
+msgid ""
+"If someone replies to a comment, there will be an email notification sent to "
+"the commenter"
+msgstr ""
+"Nếu ai đó trả lời bình luận, sẽ có thông báo qua email được gửi đến người "
+"bình luận"
+
+#: main/page/7mail.php:159
+msgid "Email notification when a post has a comment"
+msgstr "Thông báo qua email khi bài đăng có bình luận"
+
+#: main/page/7mail.php:160
+msgid "Notify the post author when someone comments on the post"
+msgstr "Thông báo cho tác giả bài đăng khi có người bình luận về bài đăng"
+
+#: main/page/8woo.php:4
+msgid "WOOCOMMERCE"
+msgstr "WOOCOMMERCE"
+
+#: main/page/8woo.php:12
+msgid "Modify content"
+msgstr "Sửa đổi nội dung"
+
+#: main/page/8woo.php:14
+msgid "Change the Buy Now text on the single product page"
+msgstr "Thay đổi văn bản Mua ngay ở trang sản phẩm"
+
+#: main/page/8woo.php:17
+msgid "The text to replace Buy Now on the product page"
+msgstr "Văn bản thay thế Mua ngay ở chuyên mục sản phẩm"
+
+#: main/page/8woo.php:20
+msgid "Display text if the price is 0"
+msgstr "Hiển thị văn bản nếu giá là 0"
+
+#: main/page/8woo.php:23
+msgid "Display text if out of stock"
+msgstr "Hiển thị văn bản nếu hết hàng"
+
+#: main/page/8woo.php:25
+msgid "Modify some information on Woocommerce that you want"
+msgstr "Sửa đổi một số thông tin trên Woocommerce mà bạn muốn"
+
+#: main/page/8woo.php:26
+msgid "Customize Currency Unit"
+msgstr "Tùy chỉnh đơn vị tiền tệ"
+
+#: main/page/8woo.php:28
+msgid "Enter units"
+msgstr "Nhập đơn vị"
+
+#: main/page/8woo.php:30
+msgid "This feature allows you to customize the currency symbol as desired"
+msgstr "Tính năng này cho phép bạn tùy chỉnh ký hiệu tiền tệ theo ý muốn"
+
+#: main/page/8woo.php:32
+msgid "Configure order notifications to be sent to Telegram"
+msgstr "Cấu hình thông báo đơn hàng được gửi đến Telegram"
+
+#: main/page/8woo.php:37
+msgid "Enable notifications"
+msgstr "Kích hoạt thông báo"
+
+#: main/page/8woo.php:39
+msgid "API Token"
+msgstr "API Token"
+
+#: main/page/8woo.php:40
+msgid "Chat ID"
+msgstr "Chat ID"
+
+#: main/page/8woo.php:41
+msgid ""
+"With this feature, you can notify your orders to your Telegram group, "
+"helping you manage orders conveniently"
+msgstr ""
+"Với tính năng này, bạn có thể thông báo đơn hàng của mình đến nhóm Telegram, "
+"giúp bạn quản lý đơn hàng một cách thuận tiện"
+
+#: main/page/9user.php:12
+msgid "Set access and viewing permissions"
+msgstr "Thiết lập quyền truy cập và quyền xem"
+
+#: main/page/9user.php:17
+msgid "Filter posts and images"
+msgstr "Lọc bài viết và hình ảnh"
+
+#: main/page/9user.php:18
+msgid ""
+"With this feature, regular users can only view their own posts and images "
+"they uploaded, while the admin can view all of them"
+msgstr ""
+"Với tính năng này, người dùng thông thường chỉ có thể xem các bài đăng và "
+"hình ảnh của riêng họ đã tải lên, trong khi quản trị viên có thể xem tất cả "
+"chúng"
+
+#: main/page/9user.php:24
+msgid "Only admin has access to the admin page"
+msgstr "Chỉ có admin mới có quyền truy cập vào trang admin"
+
+#: main/page/9user.php:25
+msgid "With this feature, regular users cannot access the WordPress admin page"
+msgstr ""
+"Với tính năng này, người dùng thông thường không thể truy cập vào trang quản "
+"trị WordPress"
+
+#: main/page/9user.php:31
+msgid "Display ID in the management page"
+msgstr "Hiển thị ID trong trang quản lý"
+
+#: main/page/9user.php:32
+msgid "Allow displaying member IDs on the profile management page"
+msgstr "Cho phép hiển thị ID thành viên trên trang quản lý hồ sơ"
+
+#: main/page/9user.php:34
+msgid "Option to display the Admin bar"
+msgstr "Tùy chọn hiển thị thanh Quản trị"
+
+#: main/page/9user.php:39
+msgid "Disable the Admin Bar"
+msgstr "Vô hiệu hóa thanh quản trị"
+
+#: main/page/9user.php:51
+msgid ""
+"If you find the Admin Bar distracting every time you view the website, you "
+"can turn it off (there is an option for you to turn off all or only turn off "
+"for users)"
+msgstr ""
+"Nếu bạn thấy Thanh quản trị gây mất tập trung mỗi khi bạn xem trang web, bạn "
+"có thể tắt nó đi (có tùy chọn cho phép bạn tắt tất cả hoặc chỉ tắt đối với "
+"người dùng)"
+
+#: main/page/9user.php:53
+msgid "Add avatar upload functionality"
+msgstr "Thêm chức năng tải ảnh đại diện"
+
+#: main/page/9user.php:58
+msgid "Allow avatar upload"
+msgstr "Cho phép tải lên ảnh đại diện"
+
+#: main/page/9user.php:59
+msgid ""
+"With this feature, there will be an additional button in the profile section "
+"allowing users to upload avatars"
+msgstr ""
+"Với tính năng này, sẽ có thêm một nút ở phần hồ sơ cho phép người dùng tải "
+"ảnh đại diện lên"
+
+#: main/page/ft-about1.php:5
+msgid "Information about your website"
+msgstr "Thông tin về trang web của bạn"
+
+#: main/page/ft-about1.php:8
+msgid "Foxtool:"
+msgstr "Foxtool:"
+
+#: main/page/ft-about1.php:47
+msgid "The GD library has been installed"
+msgstr "Thư viện GD đã được cài đặt"
+
+#: main/page/ft-about1.php:49
+msgid "The GD library has not been installed"
+msgstr "Thư viện GD chưa được cài đặt"
+
+#: main/page/ft-about1.php:54
+msgid "Plugin development"
+msgstr "Phát triển plugin"
+
+#: main/page/ft-about1.php:56
+msgid "Developed by:"
+msgstr "Được phát triển bởi:"
+
+#: main/page/ft-about1.php:57
+msgid "Author:"
+msgstr "Tác giả:"
+
+#: main/page/ft-about1.php:58
+msgid "Contributions:"
+msgstr "Đóng góp:"
+
+#: main/page/ft-about2.php:5
+msgid "Your database"
+msgstr "Cơ sở dữ liệu của bạn"
+
+#: main/page/ft-about2.php:8
+msgid "Table name"
+msgstr "Tên bảng"
+
+#: main/page/ft-about2.php:9
+msgid "Field"
+msgstr "Trường"
+
+#: main/page/ft-about2.php:17
+msgid "Total data"
+msgstr "Tổng dữ liệu"
+
+#: main/page/ft-about2.php:20
+msgid "System"
+msgstr "Hệ thống"
+
+#: main/page/ft-about2.php:21
+msgid "Empty"
+msgstr "Trống"
+
+#: main/page/ft-about2.php:22
+msgid "Data"
+msgstr "Dữ liệu"
+
+#: main/page/ft-aff.php:6
+msgid "Donate to me"
+msgstr "Gửi cafe cho tôi"
+
+#: main/page/ft-aff.php:16
+msgid "If you find it helpful"
+msgstr "Nếu bạn thấy hữu ích"
+
+#: main/page/ft-aff.php:17
+msgid "Rate now"
+msgstr "Đánh giá ngay"
+
+#: main/page/ft-aff.php:21
+msgid "Join the Facebook group"
+msgstr "Tham gia nhóm Facebook"
+
+#: main/page/ft-aff.php:22 main/page/ft-aff.php:27
+msgid "Join"
+msgstr "Tham gia"
+
+#: main/page/ft-aff.php:26
+msgid "Join the Telegram group"
+msgstr "Tham gia nhóm Telegram"
+
+#: main/page/ft-setting.php:5
+msgid "Advanced settings"
+msgstr "Cài đặt nâng cao"
+
+#: main/page/ft-setting.php:10
+msgid "Hide Admin account from profile page"
+msgstr "Ẩn tài khoản Admin khỏi trang hồ sơ"
+
+#: main/page/ft-setting.php:15 main/page/ft-setting.php:33
+msgid "Do not select"
+msgstr "Không chọn"
+
+#: main/page/ft-setting.php:22 main/page/ft-setting.php:40
+msgid "Select admin"
+msgstr "Chọn admin"
+
+#: main/page/ft-setting.php:24
+msgid "If you want to hide a specific Administrator account, select the user"
+msgstr "Nếu bạn muốn ẩn tài khoản Quản trị viên cụ thể, hãy chọn người dùng"
+
+#: main/page/ft-setting.php:29
+msgid "Limit Foxtool display"
+msgstr "Giới hạn hiển thị Foxtool"
+
+#: main/page/ft-setting.php:42
+msgid ""
+"This feature allows you to only display Foxtool to a specific Admin account"
+msgstr ""
+"Tính năng này cho phép bạn chỉ hiển thị Foxtool cho một tài khoản Quản trị "
+"viên cụ thể"
+
+#: main/page/ft-setting.php:43
+msgid "Delete settings:"
+msgstr "Xóa cài đặt:"
+
+#: main/page/ft-setting.php:45 main/page/ft-setting.php:51
+msgid "Hide Foxtool"
+msgstr "Ẩn Foxtool"
+
+#: main/page/ft-setting.php:53
+msgid ""
+"You can hide Foxtool from the WP menu, but you can still access it through "
+"the link. This will hide Foxtool for all accounts"
+msgstr ""
+"Bạn có thể ẩn Foxtool khỏi menu WP, nhưng bạn vẫn có thể truy cập nó thông "
+"qua liên kết. Điều này sẽ ẩn Foxtool cho tất cả các tài khoản"
+
+#: main/page/ft-setting.php:61
+msgid "Hide Foxtool in the plugin manager"
+msgstr "Ẩn Foxtool trong trình quản lý plugin"
+
+#: main/page/ft-setting.php:63
+msgid "This feature will hide Foxtool from the plugin management page"
+msgstr "Tính năng này sẽ ẩn Foxtool khỏi trang quản lý plugin"
+
+#: main/page/ft-setting.php:65
+msgid "Display language settings"
+msgstr "Cài đặt ngôn ngữ hiển thị"
+
+#: main/page/ft-setting.php:74
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+#: main/page/ft-setting.php:76
+msgid ""
+"If you dont want to automatically switch the language based on WordPress "
+"context, please select the language you prefer"
+msgstr ""
+"Nếu bạn không muốn tự động thay đổi ngôn ngữ theo ngữ cảnh của WordPress, "
+"hãy chọn ngôn ngữ mà bạn muốn"
+
+#: main/page/ft-setting.php:78
+msgid "Customize display"
+msgstr "Tùy chỉnh hiển thị"
+
+#: main/page/ft-setting.php:122
+msgid "Choose display interface according to your preference"
+msgstr "Chọn giao diện hiển thị theo sở thích của bạn"
+
+#: main/page/ft-setting.php:135
+msgid "Icon"
+msgstr "Biểu tượng"
+
+#: main/page/ft-setting.php:137
+msgid "Change display name and icon to your preference"
+msgstr "Thay đổi tên hiển thị và biểu tượng theo sở thích của bạn"
+
+#: main/redirects.php:19 main/redirects.php:34
+msgid "301"
+msgstr "301"
+
+#: main/redirects.php:20 main/redirects.php:79
+msgid "404"
+msgstr "404"
+
+#: main/redirects.php:21 main/redirects.php:113
+msgid "503"
+msgstr "503"
+
+#: main/redirects.php:36
+msgid "Redirect 301 whole page"
+msgstr "Chuyển hướng 301 toàn bộ trang"
+
+#: main/redirects.php:41
+msgid "Enable site-wide 301 redirects"
+msgstr "Cho phép chuyển hướng 301 trên toàn trang web"
+
+#: main/redirects.php:43 main/redirects.php:56 main/redirects.php:57
+#: main/redirects.php:65 main/redirects.php:66 main/redirects.php:163
+#: main/redirects.php:164
+msgid "Enter the link"
+msgstr "Nhập liên kết"
+
+#: main/redirects.php:44
+msgid ""
+"This function will redirect all of your website pages to the destination "
+"page of your choice"
+msgstr ""
+"Chức năng này sẽ chuyển hướng tất cả các trang web của bạn đến trang đích "
+"bạn chọn"
+
+#: main/redirects.php:45
+msgid "Redirect 301 to a custom page"
+msgstr "Chuyển hướng 301 đến trang tùy chỉnh"
+
+#: main/redirects.php:50
+msgid "Enable 301 redirection"
+msgstr "Kích hoạt chuyển hướng 301"
+
+#: main/redirects.php:52
+msgid "This function allows you to redirect 301 links to the target page"
+msgstr "Chức năng này cho phép bạn chuyển hướng 301 liên kết đến trang đích"
+
+#: main/redirects.php:74
+msgid "Add link"
+msgstr "Thêm liên kết"
+
+#: main/redirects.php:81
+msgid "404 redirects"
+msgstr "Chuyển hướng 404"
+
+#: main/redirects.php:86
+msgid "Enable 404 redirection"
+msgstr "Kích hoạt chuyển hướng 404"
+
+#: main/redirects.php:89
+msgid "Select redirect page"
+msgstr "Chọn trang chuyển hướng"
+
+#: main/redirects.php:108
+msgid ""
+"Redirect the 404 page to the homepage or a custom page of your choice, leave "
+"the field blank if you want to redirect to the homepage"
+msgstr ""
+"Chuyển hướng trang 404 đến trang chủ hoặc trang tùy chỉnh theo lựa chọn của "
+"bạn, hãy để trống trường nếu bạn muốn chuyển hướng đến trang chủ"
+
+#: main/redirects.php:115
+msgid "Maintenance mode for developers (503)"
+msgstr "Chế độ bảo trì cho nhà phát triển (503)"
+
+#: main/redirects.php:119
+msgid "Enable 503 maintenance mode"
+msgstr "Kích hoạt chế độ bảo trì 503"
+
+#: main/redirects.php:120
+msgid ""
+"All links on your website will redirect to the maintenance page, and only "
+"logged-in admin accounts can view the content"
+msgstr ""
+"Tất cả các liên kết trên trang web của bạn sẽ chuyển hướng đến trang bảo trì "
+"và chỉ những tài khoản quản trị đã đăng nhập mới có thể xem nội dung"
+
+#: main/search.php:19 main/search.php:32
+msgid "FOX SEARCH"
+msgstr "FOX SEARCH"
+
+#: main/search.php:34
+msgid "Quick search"
+msgstr "Tìm kiếm nhanh"
+
+#: main/search.php:39
+msgid "Enable quick search"
+msgstr "Kích hoạt tìm kiếm nhanh"
+
+#: main/search.php:41
+msgid ""
+"Automatic initialization after <span id=\"sogiay\" style=\"padding: 5px;"
+"\">3</span>s"
+msgstr ""
+"Tự động khởi tạo sau <span id=\"sogiay\" style=\"padding: 5px;\">3</span>s"
+
+#: main/search.php:44
+msgid "Number of items displayed"
+msgstr "Số lượng hiển thị"
+
+#: main/search.php:47
+msgid "Enter the number of posts or products to be displayed when searching"
+msgstr "Nhập số bài viết hoặc sản phẩm sẽ được hiển thị khi tìm kiếm"
+
+#: main/search.php:51
+msgid "Main color"
+msgstr "Màu chính"
+
+#: main/search.php:62
+msgid "Light / Dark"
+msgstr "Sáng / Tối"
+
+#: main/search.php:65
+msgid "Change the color of the search box to your preferences"
+msgstr "Thay đổi màu của hộp tìm kiếm theo sở thích của bạn"
+
+#: main/search.php:72
+msgid "Enable shortcodes"
+msgstr "Kích hoạt shortcode"
+
+#: main/search.php:82
+msgid ""
+"You can use the shortcode to add the search icon to the location you want"
+msgstr ""
+"Bạn có thể sử dụng shortcode để thêm biểu tượng tìm kiếm vào vị trí bạn muốn"
+
+#: main/search.php:84
+msgid "Create custom post type data"
+msgstr "Tạo dữ liệu loại bài đăng tùy chỉnh"
+
+#: main/search.php:105
+msgid "Generate data"
+msgstr "Tạo dữ liệu"
+
+#: main/search.php:106
+msgid "Delete data"
+msgstr "Xóa dữ liệu"
+
+#: main/search.php:171
+msgid "Number of data completed: '+sopost+'"
+msgstr "Số lượng dữ liệu đã hoàn thành: '+sopost+'"
+
+#: main/search.php:175
+msgid "Please wait: '+sopost+'"
+msgstr "Vui lòng đợi: '+sopost+'"
+
+#: main/search.php:196
+msgid "Deletion successful"
+msgstr "Xóa thành công"
+
+#: main/search.php:206
+msgid ""
+"Configure the options and create search data. If you want to refresh, you "
+"can delete the search data and recreate it. After enabling quick search and "
+"completing data creation, a quick search popup will appear when you enter "
+"the search box on the website"
+msgstr ""
+"Cấu hình các tùy chọn và tạo dữ liệu tìm kiếm. Nếu bạn muốn làm mới, bạn có "
+"thể xóa dữ liệu tìm kiếm và tạo lại. Sau khi kích hoạt tìm kiếm nhanh và "
+"hoàn tất việc tạo dữ liệu, một cửa sổ bật lên tìm kiếm nhanh sẽ xuất hiện "
+"khi bạn nhập nội dung vào hộp tìm kiếm trên trang web"
+
+#: main/shortcode.php:19 main/shortcode.php:35
+msgid "LOCKVIP"
+msgstr "LOCKVIP"
+
+#: main/shortcode.php:20 main/shortcode.php:66
+msgid "SIGN"
+msgstr "SIGN"
+
+#: main/shortcode.php:21 main/shortcode.php:99
+msgid "DATE"
+msgstr "DATE"
+
+#: main/shortcode.php:22 main/shortcode.php:126
+msgid "GGET"
+msgstr "GGET"
+
+#: main/shortcode.php:37
+msgid "Shortcode content visible only to group of users"
+msgstr "Nội dung shortcode chỉ hiển thị cho nhóm người dùng"
+
+#: main/shortcode.php:42
+msgid "Enable shortcode lock"
+msgstr "Kích hoạt shortcode khóa nội dung"
+
+#: main/shortcode.php:58
+msgid "Enter note content"
+msgstr "Nhập nội dung ghi chú"
+
+#: main/shortcode.php:60
+msgid "Content to be hidden"
+msgstr "Nội dung cần ẩn"
+
+#: main/shortcode.php:61
+msgid ""
+"This shortcode allows you to lock any content, and only the selected group "
+"of logged-in users can view it"
+msgstr ""
+"Shortcode này cho phép bạn khóa bất kỳ nội dung nào và chỉ nhóm người dùng "
+"đã đăng nhập được chọn mới có thể xem nội dung đó"
+
+#: main/shortcode.php:68
+msgid "Signature shortcode"
+msgstr "Shortcode chữ ký"
+
+#: main/shortcode.php:73
+msgid "Enable signature shortcode"
+msgstr "Kích hoạt shortcode chữ ký"
+
+#: main/shortcode.php:94
+msgid ""
+"If you want to display your signature anywhere, you can create content above "
+"and then use the generated shortcode at your desired location"
+msgstr ""
+"Nếu bạn muốn hiển thị chữ ký của mình ở bất cứ đâu, bạn có thể tạo nội dung "
+"ở trên và sau đó sử dụng shortcode ở vị trí bạn muốn"
+
+#: main/shortcode.php:101
+msgid "Shortcode to display date"
+msgstr "Shortcode để hiển thị ngày"
+
+#: main/shortcode.php:106
+msgid "Enable date shortcode"
+msgstr "Kích hoạt shortcode ngày"
+
+#: main/shortcode.php:121
+msgid ""
+"This shortcode is used to display the date in the post title. Please note "
+"that you need to enable the shortcode usage in the post title under the "
+"POST, PAGE section"
+msgstr ""
+"Shortcode này được sử dụng để hiển thị ngày trong tiêu đề bài viết. Lưu ý "
+"bạn cần kích hoạt tính năng sử dụng shortcode trong tiêu đề bài viết ở phần "
+"POST, PAGE"
+
+#: main/shortcode.php:128
+msgid "Download button GGET shortcode"
+msgstr "Shortcode nút tải xuống GGET"
+
+#: main/shortcode.php:133
+msgid "Enable GGET shortcode"
+msgstr "Kích hoạt shortcode GGET"
+
+#: main/shortcode.php:139
+msgid "Display link when seconds expire"
+msgstr "Hiển thị liên kết khi hết giây"
+
+#: main/shortcode.php:145
+msgid "Center-align button on page"
+msgstr "Nút căn giữa trên trang"
+
+#: main/shortcode.php:149
+msgid "Enter waiting time"
+msgstr "Nhập thời gian chờ"
+
+#: main/shortcode.php:161
+msgid "Border size"
+msgstr "Kích thước viền"
+
+#: main/shortcode.php:168 main/shortcode.php:169 main/shortcode.php:170
+msgid "Download link"
+msgstr "Liên kết tải xuống"
+
+#: main/shortcode.php:169 main/shortcode.php:170
+msgid "Button name"
+msgstr "Tên nút"
+
+#: main/shortcode.php:170
+msgid "Other links"
+msgstr "Liên kết khác"
+
+#: main/shortcode.php:171
+msgid "This shortcode is used to create a download button with a timeout"
+msgstr "Shortcode này được sử dụng để tạo nút tải xuống có thời gian chờ"
+
+#: main/toc.php:34
+msgid "Table of contents configuration"
+msgstr "Cấu hình mục lục"
+
+#: main/toc.php:39
+msgid "Enable table of contents"
+msgstr "Kích hoạt mục lục"
+
+#: main/toc.php:61
+msgid "Select the custom post for which you want to display TOC content"
+msgstr "Chọn bài đăng tùy chỉnh mà bạn muốn thị nội dung TOC"
+
+#: main/toc.php:62
+msgid "Shortcodes"
+msgstr "Shortcode"
+
+#: main/toc.php:70
+msgid ""
+"You can use the shortcode in the editor and add it to the position you want, "
+"note: only use 1 shortcode in the post"
+msgstr ""
+"Bạn có thể sử dụng shortcode trong editor và thêm vào vị trí bạn muốn, lưu "
+"ý: chỉ sử dụng 1 shortcode trong bài viết"
+
+#: main/toc.php:71
+msgid "Advanced configuration"
+msgstr "Cấu hình nâng cao"
+
+#: main/toc.php:73
+msgid "Enter a title"
+msgstr "Nhập tiêu đề"
+
+#: main/toc.php:154
+msgid "Automatically open popup when scrolling down"
+msgstr "Tự động mở popup khi cuộn xuống"
+
+#: main/toc.php:160
+msgid "Disable numbers in front of tags"
+msgstr "Vô hiệu hóa số ở phía trước thẻ"
+
+#: main/toc.php:166
+msgid "List is hidden by default"
+msgstr "Mặc định ẩn danh sách"
+
+#: main/toc.php:172
+msgid "Hide minimized list"
+msgstr "Ẩn danh sách thu nhỏ"
+
+#: main/toc.php:174
+msgid "Customize TOC display position"
+msgstr "Tùy chỉnh vị trí hiển thị TOC"
+
+#: main/toc.php:179
+msgid "Enable customization"
+msgstr "Bật tùy chỉnh"
+
+#: main/toc.php:185
+msgid "Customize display and colors"
+msgstr "Tùy chỉnh màu sắc và hiển thị"
+
+#: main/toc.php:190
+msgid "Enable color and display customization"
+msgstr "Kích hoạt tùy chỉnh màu sắc và hiển thị"
+
+#: main/toc.php:192
+msgid "List color"
+msgstr "Màu danh sách"
+
+#: main/toc.php:199
+msgid "Border color"
+msgstr "Màu viền"
+
+#: main/toc.php:203
+msgid "Link color"
+msgstr "Màu link"
+
+#: main/toc.php:207
+msgid "Selection color"
+msgstr "Màu vùng chọn"
+
+#: main/toc.php:211
+msgid "Scroll bar color"
+msgstr "Màu thanh cuộn"
+
+#: main/toc.php:215
+msgid "H tag color when scrolled to"
+msgstr "Màu thẻ h khi cuộn đến"
+
+#: main/toc.php:218
+msgid "Title color"
+msgstr "Màu tiêu đề"
+
+#: main/toc.php:221
+msgid "Background title"
+msgstr "Màu nền tiêu đề"
+
+#: main/toc.php:225
+msgid "Title text and icon color"
+msgstr "Màu chữ và biểu tượng tiêu đề"
+
+#: main/toc.php:228
+msgid "Quick view button color"
+msgstr "Màu nút xem nhanh"
+
+#: main/toc.php:231
+msgid "Icon background color"
+msgstr "Màu nền biểu tượng"
+
+#: main/toc.php:235
+msgid "Icon border color"
+msgstr "Màu viền biểu tượng"
+
+#: main/toc.php:245
+msgid "Font size"
+msgstr "Cỡ chữ"
+
+#: main/toc.php:253
+msgid "Icon border radius"
+msgstr "Bo viền biểu tượng"
+
+#: main/toc.php:255
+msgid "Customize icons and positions"
+msgstr "Tùy chỉnh biểu tượng và vị trí"
+
+#: main/toc.php:274
+msgid "Popup location"
+msgstr "Vị trí popup"
+
+#: main/toc.php:278
+msgid "Distance above"
+msgstr "Khoảng cách trên"
+
+#: page/503.php:3
+msgid "MAINTENANCE MODE"
+msgstr "CHẾ ĐỘ BẢO TRÌ"
+
+#: page/503.php:4
+msgid ""
+"We apologize, the website is currently undergoing maintenance. Please wait "
+"for a moment"
+msgstr ""
+"Chúng tôi xin lỗi, trang web hiện đang được bảo trì. Vui lòng đợi trong giây "
+"lát"
+
+#~ msgid "Welcome to"
+#~ msgstr "Chào mừng bạn đến"
+
+#~ msgid "WEBSITE INFORMATION"
+#~ msgstr "THÔNG TIN TRANG WEB"
+
+#~ msgid "CODE"
+#~ msgstr "CODE"
+
+#~ msgid "Foxtool configuration data export box"
+#~ msgstr "Hộp xuất dữ liệu cấu hình Foxtool"
+
+#~ msgid "Foxtool configuration data import box"
+#~ msgstr "Hộp nhập dữ liệu cấu hình Foxtool"
+
+#~ msgid "Code configuration data export box"
+#~ msgstr "Hộp xuất dữ liệu cấu hình code"
+
+#~ msgid "Code configuration data import box"
+#~ msgstr "Hộp nhập dữ liệu cấu hình code"
+
+#~ msgid "IMPORT CODE DATA"
+#~ msgstr "NHẬP DỮ LIỆU CODE"
+
+#~ msgid "EXTEND"
+#~ msgstr "EXTEND"
+
+#~ msgid "Enter widget content here"
+#~ msgstr "Nhập nội dung widget vào đây"
+
+#~ msgid "Select display type"
+#~ msgstr "Chọn loại hiển thị"
+
+#~ msgid "Color options"
+#~ msgstr "Tùy chọn màu sắc"
+
+#~ msgid "Main icon background color"
+#~ msgstr "Màu nền biểu tượng chính"
+
+#~ msgid "Change the font for the page"
+#~ msgstr "Thay đổi phông chữ cho trang"
+
+#~ msgid ""
+#~ "Choose a font style for your website. Once selected, all the text on your "
+#~ "website will switch to the font style you choose"
+#~ msgstr ""
+#~ "Chọn một kiểu phông chữ cho trang web của bạn. Sau khi chọn, tất cả văn "
+#~ "bản trên trang web của bạn sẽ chuyển sang kiểu phông chữ bạn chọn"
+
+#~ msgid "Automatically name uploaded libraries"
+#~ msgstr "Tự động đặt tên cho các thư viện đã tải lên"
+
+#~ msgid ""
+#~ "The name will be set with the domain name of the website and 10 random "
+#~ "characters"
+#~ msgstr "Tên sẽ được đặt bằng tên miền của trang web và 10 ký tự ngẫu nhiên"
+
+#~ msgid "Advanced Ajax with WooCommerce"
+#~ msgstr "Ajax nâng cao với WooCommerce"
+
+#~ msgid "Ajax add to cart on single product page"
+#~ msgstr "Ajax thêm vào giỏ hàng trên trang sản phẩm"
+
+#~ msgid "Enable Ajax for the add to cart button on the single product page"
+#~ msgstr "Kích hoạt Ajax cho nút thêm vào giỏ hàng trên trang sản phẩm"
+
+#~ msgid "Ajax quantity button"
+#~ msgstr "Nút số lượng Ajax"
+
+#~ msgid ""
+#~ "The quantity buttons on the single product page and the cart page will be "
+#~ "adjusted to work with Ajax"
+#~ msgstr ""
+#~ "Nút số lượng trên trang sản phẩm và trang giỏ hàng sẽ được thiết lập để "
+#~ "hoạt động với Ajax"
+
+#~ msgid "Loading"
+#~ msgstr "Đang tải"
+
+#~ msgid "Select a loading animation for Ajax product on the website"
+#~ msgstr "Chọn hình động khi tải sản phẩm Ajax trên trang web"
+
+#~ msgid "Convert \"đ\" to \"VNĐ\" (Vietnamese currency unit)"
+#~ msgstr "Đổi \"đ\" sang \"VND\" (đơn vị tiền Việt Nam)"
+
+#~ msgid "We apologize, the website is currently undergoing maintenance"
+#~ msgstr "Chúng tôi xin lỗi, trang web hiện đang được bảo trì"
+
+#~ msgid "Maintenance"
+#~ msgstr "Bảo trì"
+
+#~ msgid "SHORTCODE"
+#~ msgstr "SHORTCODE"
+
+#~ msgid "Search icon color"
+#~ msgstr "Màu biểu tượng tìm kiếm"
+
+#~ msgid ""
+#~ "This shortcode is used to create a download button with a waiting time. "
+#~ "If it a Google Drive download link that isnt virus scanned, the file will "
+#~ "be downloaded directly"
+#~ msgstr ""
+#~ "Shortcode này được sử dụng để tạo nút tải xuống với thời gian chờ. Nếu đó "
+#~ "là liên kết tải xuống Google Drive không được quét vi-rút, tệp sẽ được "
+#~ "tải xuống trực tiếp"
+
+#~ msgid "does not exist"
+#~ msgstr "không tồn tại"
+
+#~ msgid "POST"
+#~ msgstr "POST"
+
+#~ msgid "Google index function"
+#~ msgstr "Chức năng index Google"
+
+#~ msgid "Automatically index when published"
+#~ msgstr "Tự động index khi xuất bản"
+
+#~ msgid ""
+#~ "You can enable the post types you want so that when you press publish, it "
+#~ "will automatically index"
+#~ msgstr ""
+#~ "Bạn có thể kích hoạt các loại bài đăng mà bạn muốn để khi bạn nhấn xuất "
+#~ "bản, nó sẽ tự động index"
+
+#~ msgid "Add unlimited Google index json"
+#~ msgstr "Thêm json index Google không giới hạn"
+
+#~ msgid "Tawk.to"
+#~ msgstr "Tawk.to"
+
+#~ msgid "Enable Tawk.to"
+#~ msgstr "Kích hoạt Tawk.to"
+
+#~ msgid "Enter Tawk.to code"
+#~ msgstr "Nhập mã Tawk.to"
+
+#~ msgid "Enable Tawk.to and add its code to use it"
+#~ msgstr "Kích hoạt Tawk.to và thêm mã của nó để sử dụng nó"
+
+#~ msgid "POST, PAGE"
+#~ msgstr "POST, PAGE"
+
+#~ msgid ""
+#~ "Enable if you want to add the duplicate post or page feature in the post "
+#~ "or page management interface"
+#~ msgstr ""
+#~ "Kích hoạt nếu bạn muốn thêm tính năng nhân bản vào giao diện quản lý bài "
+#~ "đăng hoặc trang"
+
+#~ msgid "/linked"
+#~ msgstr "/link"
+
+#~ msgid "ADS"
+#~ msgstr "ADS"
+
+#~ msgid "Clear the cache to refresh the configuration"
+#~ msgstr "Xóa cache để làm mới cấu hình"
+
+#~ msgid ""
+#~ "After completing your setup on Foxtool, if you are using speed "
+#~ "optimization or caching plugins, please clear all caches so that the new "
+#~ "features are updated and functioning properly"
+#~ msgstr ""
+#~ "Sau khi hoàn tất thiết lập của bạn trên Foxtool, nếu bạn đang sử dụng "
+#~ "plugin tối ưu hóa tốc độ hoặc bộ nhớ đệm, vui lòng xóa tất cả bộ nhớ đệm "
+#~ "để các tính năng được cập nhật và hoạt động bình thường"
+
+#~ msgid "EXPORT & IMPORT DATA FOXTOOL"
+#~ msgstr "XUẤT & NHẬP DỮ LIỆU FOXTOOL"
+
+#~ msgid "EXPORT & IMPORT CODE DATA"
+#~ msgstr "XUẤT & NHẬP DỮ LIỆU CODE"
+
+#~ msgid "CONTENT CLEANUP"
+#~ msgstr "LÀM SẠCH NỘI DUNG"
+
+#~ msgid "COMMENT CLEANUP"
+#~ msgstr "LÀM SẠCH BÌNH LUẬN"
+
+#~ msgid "MEDIA CLEANUP"
+#~ msgstr "LÀM SẠCH MEDIA"
+
+#~ msgid "Enable photo upload customization"
+#~ msgstr "Bật tùy chỉnh tải ảnh lên"
+
+#~ msgid "Enable frames for photos"
+#~ msgstr "Kích hoạt khung ảnh"
+
+#~ msgid "Dark Mode"
+#~ msgstr "Chế độ tối"
+
+#~ msgid "Enter the hidden page, for example: slug-page (line by line)"
+#~ msgstr "Nhập trang ẩn, ví dụ: slug-page (theo từng dòng)"
+
+#~ msgid "Send test email to administrator account"
+#~ msgstr "Gửi email thử nghiệm đến tài khoản quản trị viên"
+
+#~ msgid "Compress PNG images to 8bit"
+#~ msgstr "Nén hình ảnh PNG thành 8bit"
+
+#~ msgid "Enable PNG compression to 8bit"
+#~ msgstr "Kích hoạt nén PNG thành 8bit"
+
+#~ msgid ""
+#~ "This function will compress PNG images to 8bit, but the image will lose "
+#~ "transparency"
+#~ msgstr ""
+#~ "Chức năng này sẽ nén hình ảnh PNG xuống 8bit, nhưng hình ảnh sẽ mất độ "
+#~ "trong suốt"
+
+#~ msgid "Backup"
+#~ msgstr "Sao lưu"
+
+#~ msgid "Enter tag h"
+#~ msgstr "Nhập thẻ h"
+
+#, fuzzy
+#~| msgid "Code configuration data export box"
+#~ msgid "Configuration table of contents"
+#~ msgstr "Hộp xuất dữ liệu cấu hình code"
+
+#~ msgid "Enable the chat button and configure the content below for use"
+#~ msgstr "Kích hoạt nút trò chuyện và cấu hình nội dung bên dưới để sử dụng"
+
+#~ msgid "Donate to the author"
+#~ msgstr "Gửi cafe cho tác giả"
+
+#~ msgid "The best VPS today"
+#~ msgstr "VPS tốt nhất hiện nay"
+
+#~ msgid "Register now"
+#~ msgstr "Đăng ký ngay"
+
+#~ msgid "Charged hourly, deducted monthly. Top 3 VPS in the world"
+#~ msgstr "Tính theo giờ, trả tiền theo tháng. Top 3 VPS tốt nhất thế giới"
+
+#~ msgid "Powerful AI tools"
+#~ msgstr "Công cụ AI mạnh mẽ"
+
+#~ msgid "Write AI content, powerful AI tools and write SEO standard articles"
+#~ msgstr "Viết nội dung AI, công cụ AI mạnh mẽ và viết bài chuẩn SEO"
+
+#~ msgid "Capacity"
+#~ msgstr "Dữ liệu"
+
+#~ msgid "Full-screen browsing mode"
+#~ msgstr "Chế độ duyệt toàn màn hình"
+
+#~ msgid "Add Write and Edit buttons to the Classic Editor"
+#~ msgstr "Thêm nút soạn thảo cổ điển"
+
+#~ msgid "Profile picture"
+#~ msgstr "Ảnh đại diện"
+
+#~ msgid "Delete for database optimization"
+#~ msgstr "Xóa để tối ưu hóa cơ sở dữ liệu"

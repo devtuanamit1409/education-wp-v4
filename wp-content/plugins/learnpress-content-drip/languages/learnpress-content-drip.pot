@@ -1,0 +1,286 @@
+# Copyright (C) 2024 ThimPress
+# This file is distributed under the same license as the LearnPress - Content Drip plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: LearnPress - Content Drip 4.0.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/learnpress-content-drip\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-27T13:23:45+03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: learnpress-content-drip\n"
+
+#. Plugin Name of the plugin
+msgid "LearnPress - Content Drip"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://thimpress.com/learnpress"
+msgstr ""
+
+#. Description of the plugin
+msgid "Drip content of course."
+msgstr ""
+
+#. Author of the plugin
+msgid "ThimPress"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://thimpress.com"
+msgstr ""
+
+#: inc/admin/api/class-lp-content-drip-api.php:66
+#: inc/admin/api/class-lp-content-drip-api.php:114
+msgid "Course ID is empty"
+msgstr ""
+
+#: inc/admin/api/class-lp-content-drip-api.php:70
+#: inc/admin/api/class-lp-content-drip-api.php:118
+msgid "Drip items is empty"
+msgstr ""
+
+#: inc/admin/class-drip-items-list-table.php:52
+msgid "Start"
+msgstr ""
+
+#: inc/admin/class-drip-items-list-table.php:56
+msgid "Step"
+msgstr ""
+
+#: inc/admin/class-drip-items-list-table.php:60
+#: inc/admin/class-drip-items-list-table.php:84
+msgid "Type"
+msgstr ""
+
+#: inc/admin/class-drip-items-list-table.php:72
+msgid "Apply"
+msgstr ""
+
+#: inc/admin/class-drip-items-list-table.php:74
+msgid "Close"
+msgstr ""
+
+#: inc/admin/class-drip-items-list-table.php:83
+msgid "Item name"
+msgstr ""
+
+#: inc/admin/class-drip-items-list-table.php:85
+msgid "Prerequisite"
+msgstr ""
+
+#: inc/admin/class-drip-items-list-table.php:86
+msgid "Delay access"
+msgstr ""
+
+#: inc/admin/class-drip-items-list-table.php:143
+msgid "Update"
+msgstr ""
+
+#: inc/admin/class-drip-items-list-table.php:146
+msgid "Reset"
+msgstr ""
+
+#: inc/admin/class-drip-items-list-table.php:183
+#: inc/admin/views/drip-items.php:41
+msgid "Edit"
+msgstr ""
+
+#: inc/admin/class-drip-items-list-table.php:188
+msgid "View"
+msgstr ""
+
+#: inc/admin/class-drip-items-list-table.php:251
+msgid "Immediately"
+msgstr ""
+
+#: inc/admin/class-drip-items-list-table.php:252
+msgid "After..."
+msgstr ""
+
+#: inc/admin/class-drip-items-list-table.php:253
+msgid "Specific date"
+msgstr ""
+
+#: inc/admin/class-drip-items-list-table.php:305
+msgid "Unknown Type"
+msgstr ""
+
+#: inc/admin/views/drip-items.php:32
+msgid "Drip items"
+msgstr ""
+
+#: inc/admin/views/drip-items.php:38
+msgid "Course:"
+msgstr ""
+
+#: inc/admin/views/drip-items.php:43
+msgid "- Drip type: "
+msgstr ""
+
+#: inc/admin/views/drip-items.php:45
+msgid "You are configuring in Time zone"
+msgstr ""
+
+#: inc/admin/views/drip-items.php:56
+msgid "Please select \"Drip type\" and save"
+msgstr ""
+
+#: inc/class-lp-content-drip-hooks.php:143
+msgid "Are you sure you want to reset drip items."
+msgstr ""
+
+#: inc/class-lp-content-drip-hooks.php:144
+msgid "After enrolled item"
+msgstr ""
+
+#: inc/class-lp-content-drip-hooks.php:186
+#: inc/class-lp-content-drip-hooks.php:187
+msgid "Drip Items"
+msgstr ""
+
+#: inc/class-lp-content-drip-hooks.php:308
+msgid "Content drip"
+msgstr ""
+
+#: inc/class-lp-content-drip-hooks.php:314
+msgid "Enable"
+msgstr ""
+
+#: inc/class-lp-content-drip-hooks.php:315
+msgid "All settings in items of this course will become locked if turn off."
+msgstr ""
+
+#: inc/class-lp-content-drip-hooks.php:319
+msgid "Drip type"
+msgstr ""
+
+#: inc/class-lp-content-drip-hooks.php:326
+msgid "1. Open course item after enrolled course specific time."
+msgstr ""
+
+#: inc/class-lp-content-drip-hooks.php:327
+msgid "2. Open lesson #2 after completed lesson #1, open lesson #3 after completed lesson #2, and so on..."
+msgstr ""
+
+#: inc/class-lp-content-drip-hooks.php:328
+msgid "3. Open course item after completed prerequisite items."
+msgstr ""
+
+#: inc/class-lp-content-drip-hooks.php:331
+msgid "You must save the post before beginning content settings or changing the drip type Content Drip!"
+msgstr ""
+
+#: inc/class-lp-content-drip-hooks.php:332
+msgid "Content drip do not apply for Admin, author of course, author of item"
+msgstr ""
+
+#: inc/class-lp-content-drip-hooks.php:338
+msgid "Save"
+msgstr ""
+
+#: inc/class-lp-content-drip-hooks.php:341
+msgid "Settings"
+msgstr ""
+
+#: inc/class-lp-email-drip-item-available.php:26
+msgid "Drip Item Available"
+msgstr ""
+
+#: inc/load.php:101
+msgid "1. Specific time after enrolled course"
+msgstr ""
+
+#: inc/load.php:102
+msgid "2. Open the course items sequentially"
+msgstr ""
+
+#: inc/load.php:103
+msgid "3. Open item bases on prerequisite items"
+msgstr ""
+
+#: inc/load.php:261
+msgid "You must complete the item \"<a href=%1$s>%2$s</a>\" before this item is available."
+msgstr ""
+
+#: inc/load.php:325
+msgid "You must complete the item: %s before this item is available."
+msgstr ""
+
+#: inc/load.php:384
+msgid "This item will be available in %1$s (%2$s)"
+msgstr ""
+
+#: inc/load.php:400
+msgid "This item will be available in around %1$s (%2$s)"
+msgstr ""
+
+#: templates/restrict-content.php:27
+msgid "minute"
+msgstr ""
+
+#: templates/restrict-content.php:28
+msgid "hour"
+msgstr ""
+
+#: templates/restrict-content.php:29
+msgid "day"
+msgstr ""
+
+#: templates/restrict-content.php:30
+msgid "week"
+msgstr ""
+
+#: templates/restrict-content.php:57
+msgid "Sorry! You can not view this item right now. It will become available on <strong>%s</strong>."
+msgstr ""
+
+#: templates/restrict-content.php:62
+#: templates/restrict-content.php:83
+msgid "Sorry! You can not view this item right now. It will become available when you completed "
+msgstr ""
+
+#: templates/restrict-content.php:78
+msgid "and "
+msgstr ""
+
+#: templates/restrict-content.php:78
+#: templates/restrict-content.php:94
+msgid "after "
+msgstr ""
+
+#: templates/restrict-content.php:78
+#: templates/restrict-content.php:94
+msgid "(s)"
+msgstr ""
+
+#: templates/restrict-content.php:78
+#: templates/restrict-content.php:94
+msgid "on "
+msgstr ""
+
+#: templates/restrict-content.php:94
+msgid " and "
+msgstr ""
+
+#: templates/restrict-content.php:104
+msgid "Sorry! You can not view this item right now. It will become available when you complete <strong><a href=\"%1$s\">%2$s</a></strong> %3$s. <br>"
+msgstr ""
+
+#: templates/restrict-content.php:115
+msgid " and after "
+msgstr ""
+
+#: templates/restrict-content.php:119
+msgid "Complete time: "
+msgstr ""
+
+#: assets/dist/js/frontend/lp-content-drip.js:128
+#: assets/src/js/frontend/lp-content-drip.js:46
+#: assets/dist/js/frontend/lp-content-drip.js:96
+msgid "seconds"
+msgstr ""

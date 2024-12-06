@@ -1,0 +1,10 @@
+.wp-block[data-cfg-widget-logic]:before {
+    color: #951b81;
+    content: attr(data-cfg-widget-logic);
+    font-size: 12px;
+    font-weight: 700;
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translateY(-100%);
+  }

@@ -1,0 +1,71 @@
+:root{
+	--cookiecolor: #007bff;
+}
+.ft-cookie {
+	position: fixed;
+	bottom: 10px;
+	left:10px;
+	width: 400px;
+	background: #fff;
+	padding: 20px;
+	box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+	display: none;
+	z-index:9999999999999;
+	box-shadow: 0px 0px 10px #0000004d;
+	border-radius:10px;
+	box-sizing: border-box;
+}
+@media (max-width: 700px) {
+	.ft-cookie {
+		left:10px !important;
+		bottom: 10px;
+	    right:10px !important;
+		width: auto;
+	}
+}
+.ft-cookie-tit {
+	display: flex;
+	align-items: center;
+	margin-bottom:10px;
+	margin-top: -5px;
+	color:var(--cookiecolor);
+}
+.ft-cookie-tit svg{width:30px;height:30px;}
+.ft-cookie-tit svg path{fill:var(--cookiecolor);}
+.ft-cookie-text {
+	width: 100%;
+	font-size: 23px;
+	font-weight: bold;
+}
+.ft-cookie-close{font-size: 30px;cursor: pointer;}
+.ft-cookie-content{
+	display:block;
+}
+.ft-cookie-but {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 20px;
+	margin-top: 15px;
+}
+.ft-cookie-but a:first-child {
+	background:#dfdfdf;
+	color:#333;
+}
+.ft-cookie-but a:hover:first-child {
+	color:#333;
+}
+.ft-cookie-but a {
+	padding: 8px 16px;
+	background: var(--cookiecolor);
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	display: block;
+	text-align: center;
+	font-weight: bold;
+}
+.ft-cookie-but a:hover {
+	opacity:0.6;
+	color:#fff;
+}

@@ -1,0 +1,107 @@
+# Copyright (C) 2023 ThimPress
+# This file is distributed under the same license as the LearnPress - Instamojo Payment plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: LearnPress - Instamojo Payment 4.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/learnpress-instamojo-payment\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-01-18T08:07:34+03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: learnpress-instamojo-payment\n"
+
+#. Plugin Name of the plugin
+msgid "LearnPress - Instamojo Payment"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://thimpress.com/learnpress"
+msgstr ""
+
+#. Description of the plugin
+msgid "Instamojo payment gateway for LearnPress."
+msgstr ""
+
+#. Author of the plugin
+msgid "ThimPress"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://thimpress.com"
+msgstr ""
+
+#: inc/class-lp-gateway-instamojo.php:60
+msgid "Make a payment with Instamojo."
+msgstr ""
+
+#: inc/class-lp-gateway-instamojo.php:132
+msgid "Enable"
+msgstr ""
+
+#: inc/class-lp-gateway-instamojo.php:139
+msgid "Title"
+msgstr ""
+
+#: inc/class-lp-gateway-instamojo.php:140
+msgid "Instamojo"
+msgstr ""
+
+#: inc/class-lp-gateway-instamojo.php:155
+msgid "Description"
+msgstr ""
+
+#: inc/class-lp-gateway-instamojo.php:156
+msgid "Make a payment with Instamojo"
+msgstr ""
+
+#: inc/class-lp-gateway-instamojo.php:174
+msgid "Client ID"
+msgstr ""
+
+#: inc/class-lp-gateway-instamojo.php:191
+msgid "Client Secret"
+msgstr ""
+
+#: inc/class-lp-gateway-instamojo.php:207
+msgid "Enable test mode"
+msgstr ""
+
+#: inc/class-lp-gateway-instamojo.php:223
+msgid "Enable Floating Checkout"
+msgstr ""
+
+#: inc/class-lp-gateway-instamojo.php:227
+msgid "Enable payment on the current site, if disabled will redirect to the Instamojo website."
+msgstr ""
+
+#: inc/class-lp-gateway-instamojo.php:249
+msgid "The site's currency is not supported by Instamojo and the system only supports Rupee currency. "
+msgstr ""
+
+#: inc/class-lp-gateway-instamojo.php:250
+msgid "Please change the currency "
+msgstr ""
+
+#: inc/class-lp-gateway-instamojo.php:307
+msgid "Invalid order"
+msgstr ""
+
+#: inc/class-lp-gateway-instamojo.php:375
+msgid "Error: OrderID Invalid."
+msgstr ""
+
+#: inc/load.php:97
+msgid "Settings"
+msgstr ""
+
+#: templates/orders/order-detail.php:14
+msgid "Instamojo paymentID:"
+msgstr ""
+
+#: templates/orders/order-received.php:12
+msgid "Instamojo Payment ID"
+msgstr ""

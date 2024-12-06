@@ -1,0 +1,469 @@
+# Copyright (C) 2024 ThimPress
+# This file is distributed under the same license as the LearnPress - Razorpay Payment plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: LearnPress - Razorpay Payment 4.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/learnpress-razorpay-payment\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-06-15T04:53:53+03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: learnpress-razorpay-payment\n"
+
+#. Plugin Name of the plugin
+msgid "LearnPress - Razorpay Payment"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://thimpress.com/learnpress"
+msgstr ""
+
+#. Description of the plugin
+msgid "Razorpay payment gateway for LearnPress."
+msgstr ""
+
+#. Author of the plugin
+msgid "ThimPress"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://thimpress.com"
+msgstr ""
+
+#: inc/class-lp-gateway-razorpay.php:56
+msgid "Make a payment with Razorpay."
+msgstr ""
+
+#: inc/class-lp-gateway-razorpay.php:152
+msgid "Error: LpOrderID is invalid."
+msgstr ""
+
+#: inc/class-lp-gateway-razorpay.php:156
+msgid "Error: LpOrder is invalid."
+msgstr ""
+
+#: inc/class-lp-gateway-razorpay.php:171
+msgid "Error: razorpayOrder is invalid!"
+msgstr ""
+
+#: inc/class-lp-gateway-razorpay.php:184
+msgid "Order not found!"
+msgstr ""
+
+#: inc/class-lp-gateway-razorpay.php:194
+#: inc/class-lp-razorpay-api.php:118
+msgid "Razorpay Order ID is empty"
+msgstr ""
+
+#: inc/class-lp-gateway-razorpay.php:200
+#: inc/class-lp-razorpay-api.php:129
+msgid "Payment with Razorpay"
+msgstr ""
+
+#: inc/class-lp-gateway-razorpay.php:221
+msgid "The payment is processing."
+msgstr ""
+
+#: inc/class-lp-razorpay-api.php:93
+msgid "Order invalid"
+msgstr ""
+
+#: inc/configs/class-lp-gateway-razorpay-settings.php:9
+msgid "Enable"
+msgstr ""
+
+#: inc/configs/class-lp-gateway-razorpay-settings.php:16
+msgid "Title"
+msgstr ""
+
+#: inc/configs/class-lp-gateway-razorpay-settings.php:17
+msgid "Razorpay"
+msgstr ""
+
+#: inc/configs/class-lp-gateway-razorpay-settings.php:32
+msgid "Description"
+msgstr ""
+
+#: inc/configs/class-lp-gateway-razorpay-settings.php:33
+msgid "Make a payment with Razorpay"
+msgstr ""
+
+#: inc/configs/class-lp-gateway-razorpay-settings.php:52
+msgid "Color Theme"
+msgstr ""
+
+#: inc/configs/class-lp-gateway-razorpay-settings.php:68
+msgid "Key ID"
+msgstr ""
+
+#: inc/configs/class-lp-gateway-razorpay-settings.php:85
+msgid "Key Secret"
+msgstr ""
+
+#: inc/configs/currencies.php:5
+msgid "United Arab Emirates Dirham"
+msgstr ""
+
+#: inc/configs/currencies.php:6
+msgid "Albanian lek"
+msgstr ""
+
+#: inc/configs/currencies.php:7
+msgid "Armenian dram"
+msgstr ""
+
+#: inc/configs/currencies.php:8
+msgid "Argentine peso"
+msgstr ""
+
+#: inc/configs/currencies.php:9
+msgid "Australian dollar"
+msgstr ""
+
+#: inc/configs/currencies.php:10
+msgid "Aruban florin"
+msgstr ""
+
+#: inc/configs/currencies.php:11
+msgid "Barbadian dollar"
+msgstr ""
+
+#: inc/configs/currencies.php:12
+msgid "Bangladeshi taka"
+msgstr ""
+
+#: inc/configs/currencies.php:13
+msgid "Bermudian dollar"
+msgstr ""
+
+#: inc/configs/currencies.php:14
+msgid "Brunei dollar"
+msgstr ""
+
+#: inc/configs/currencies.php:15
+msgid "Bolivian boliviano"
+msgstr ""
+
+#: inc/configs/currencies.php:16
+msgid "Bahamian dollar"
+msgstr ""
+
+#: inc/configs/currencies.php:17
+msgid "Botswana pula"
+msgstr ""
+
+#: inc/configs/currencies.php:18
+msgid "Belize dollar"
+msgstr ""
+
+#: inc/configs/currencies.php:19
+msgid "Canadian dollar"
+msgstr ""
+
+#: inc/configs/currencies.php:20
+msgid "Swiss franc"
+msgstr ""
+
+#: inc/configs/currencies.php:21
+msgid "Chinese yuan renminbi"
+msgstr ""
+
+#: inc/configs/currencies.php:22
+msgid "Colombian peso"
+msgstr ""
+
+#: inc/configs/currencies.php:23
+msgid "Costa Rican colo"
+msgstr ""
+
+#: inc/configs/currencies.php:24
+msgid "Cuban peso"
+msgstr ""
+
+#: inc/configs/currencies.php:25
+msgid "Czech koruna"
+msgstr ""
+
+#: inc/configs/currencies.php:26
+msgid "Danish krone"
+msgstr ""
+
+#: inc/configs/currencies.php:27
+msgid "Dominican peso"
+msgstr ""
+
+#: inc/configs/currencies.php:28
+msgid "Algerian dinar"
+msgstr ""
+
+#: inc/configs/currencies.php:29
+msgid "Egyptian pound"
+msgstr ""
+
+#: inc/configs/currencies.php:30
+msgid "Ethiopian birr"
+msgstr ""
+
+#: inc/configs/currencies.php:31
+msgid "European euro"
+msgstr ""
+
+#: inc/configs/currencies.php:32
+msgid "Fijian dollar"
+msgstr ""
+
+#: inc/configs/currencies.php:33
+msgid "Pound sterling"
+msgstr ""
+
+#: inc/configs/currencies.php:34
+msgid "Ghanian Cedi"
+msgstr ""
+
+#: inc/configs/currencies.php:35
+msgid "Gibraltar pound"
+msgstr ""
+
+#: inc/configs/currencies.php:36
+msgid "Gambian dalasi"
+msgstr ""
+
+#: inc/configs/currencies.php:37
+msgid "Guatemalan quetzal"
+msgstr ""
+
+#: inc/configs/currencies.php:38
+msgid "Guyanese dollar"
+msgstr ""
+
+#: inc/configs/currencies.php:39
+msgid "Hong Kong dollar"
+msgstr ""
+
+#: inc/configs/currencies.php:40
+msgid "Honduran lempira"
+msgstr ""
+
+#: inc/configs/currencies.php:41
+msgid "Croatian kuna"
+msgstr ""
+
+#: inc/configs/currencies.php:42
+msgid "Haitian gourde"
+msgstr ""
+
+#: inc/configs/currencies.php:43
+msgid "Hungarian forint"
+msgstr ""
+
+#: inc/configs/currencies.php:44
+msgid "Indonesian rupiah"
+msgstr ""
+
+#: inc/configs/currencies.php:45
+msgid "Indian rupee"
+msgstr ""
+
+#: inc/configs/currencies.php:46
+msgid "Jamaican dollar"
+msgstr ""
+
+#: inc/configs/currencies.php:47
+msgid "Kenyan shilling"
+msgstr ""
+
+#: inc/configs/currencies.php:48
+msgid "Kyrgyzstani som"
+msgstr ""
+
+#: inc/configs/currencies.php:49
+msgid "Cambodian riel"
+msgstr ""
+
+#: inc/configs/currencies.php:50
+msgid "Cayman Islands dollar"
+msgstr ""
+
+#: inc/configs/currencies.php:51
+msgid "Kazakhstani tenge"
+msgstr ""
+
+#: inc/configs/currencies.php:52
+msgid "Lao kip"
+msgstr ""
+
+#: inc/configs/currencies.php:53
+msgid "Sri Lankan rupee"
+msgstr ""
+
+#: inc/configs/currencies.php:54
+msgid "Liberian dollar"
+msgstr ""
+
+#: inc/configs/currencies.php:55
+msgid "Lesotho loti"
+msgstr ""
+
+#: inc/configs/currencies.php:56
+msgid "Moroccan dirham"
+msgstr ""
+
+#: inc/configs/currencies.php:57
+msgid "Moldovan leu"
+msgstr ""
+
+#: inc/configs/currencies.php:58
+msgid "Macedonian denar"
+msgstr ""
+
+#: inc/configs/currencies.php:59
+msgid "Myanmar kyat"
+msgstr ""
+
+#: inc/configs/currencies.php:60
+msgid "Mongolian tugrik"
+msgstr ""
+
+#: inc/configs/currencies.php:61
+msgid "Macanese pataca"
+msgstr ""
+
+#: inc/configs/currencies.php:62
+msgid "Mauritian rupee"
+msgstr ""
+
+#: inc/configs/currencies.php:63
+msgid "Maldivian rufiyaa"
+msgstr ""
+
+#: inc/configs/currencies.php:64
+msgid "Malawian kwacha"
+msgstr ""
+
+#: inc/configs/currencies.php:65
+msgid "Mexican peso"
+msgstr ""
+
+#: inc/configs/currencies.php:66
+msgid "Malaysian ringgit"
+msgstr ""
+
+#: inc/configs/currencies.php:67
+msgid "Namibian dollar"
+msgstr ""
+
+#: inc/configs/currencies.php:68
+msgid "Nigerian naira"
+msgstr ""
+
+#: inc/configs/currencies.php:69
+msgid "Nicaraguan cordoba"
+msgstr ""
+
+#: inc/configs/currencies.php:70
+msgid "Norwegian krone"
+msgstr ""
+
+#: inc/configs/currencies.php:71
+msgid "Nepalese rupee"
+msgstr ""
+
+#: inc/configs/currencies.php:72
+msgid "New Zealand dollar"
+msgstr ""
+
+#: inc/configs/currencies.php:73
+msgid "Peruvian sol"
+msgstr ""
+
+#: inc/configs/currencies.php:74
+msgid "Papua New Guinean kina"
+msgstr ""
+
+#: inc/configs/currencies.php:75
+msgid "Philippine peso"
+msgstr ""
+
+#: inc/configs/currencies.php:76
+msgid "Pakistani rupee"
+msgstr ""
+
+#: inc/configs/currencies.php:77
+msgid "Qatari riyal"
+msgstr ""
+
+#: inc/configs/currencies.php:78
+msgid "Russian ruble"
+msgstr ""
+
+#: inc/configs/currencies.php:79
+msgid "Saudi Arabian riyal"
+msgstr ""
+
+#: inc/configs/currencies.php:80
+msgid "Seychellois rupee"
+msgstr ""
+
+#: inc/configs/currencies.php:81
+msgid "Swedish krona"
+msgstr ""
+
+#: inc/configs/currencies.php:82
+msgid "Singapore dollar"
+msgstr ""
+
+#: inc/configs/currencies.php:83
+msgid "Sierra Leonean leone"
+msgstr ""
+
+#: inc/configs/currencies.php:84
+msgid "Somali shilling"
+msgstr ""
+
+#: inc/configs/currencies.php:85
+msgid "South Sudanese pound"
+msgstr ""
+
+#: inc/configs/currencies.php:86
+msgid "Salvadoran colón"
+msgstr ""
+
+#: inc/configs/currencies.php:87
+msgid "Swazi lilangeni"
+msgstr ""
+
+#: inc/configs/currencies.php:88
+msgid "Thai baht"
+msgstr ""
+
+#: inc/configs/currencies.php:89
+msgid "Trinidad and Tobago dollar"
+msgstr ""
+
+#: inc/configs/currencies.php:90
+msgid "Tanzanian shilling"
+msgstr ""
+
+#: inc/configs/currencies.php:91
+msgid "United States dollar"
+msgstr ""
+
+#: inc/configs/currencies.php:92
+msgid "Uruguayan peso"
+msgstr ""
+
+#: inc/configs/currencies.php:93
+msgid "Uzbekistani so'm"
+msgstr ""
+
+#: inc/configs/currencies.php:94
+msgid "Yemeni rial"
+msgstr ""
+
+#: inc/configs/currencies.php:95
+msgid "South African rand"
+msgstr ""

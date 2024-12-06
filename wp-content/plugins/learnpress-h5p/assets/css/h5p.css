@@ -1,0 +1,149 @@
+#wpadminbar #wp-admin-bar-edit-lp_h5p .ab-item:before {
+	content: "\f497";
+}
+
+.h5p-summary {
+	margin-bottom: 50px;
+}
+
+.h5p-summary h2,
+.h5p-summary h3,
+.lp-h5p-buttons {
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.course-curriculum
+	ul.curriculum-sections
+	.section-content
+	.course-item.course-item-lp_h5p
+	.section-item-link:before {
+	content: "\f1c9";
+}
+
+.course-curriculum
+	ul.curriculum-sections
+	.section-content
+	.course-item.course-item-lp_h5p.has-status.status-h5p_doing
+	.course-item-status:before {
+	content: "\f1da";
+}
+
+.single-lp_course
+	.course-curriculum
+	.curriculum-sections
+	.section
+	.section-content
+	.course-item
+	.section-item-link
+	.course-item-meta
+	.final-h5p {
+	margin-left: 10px;
+}
+
+.h5p-status {
+	background: #e7f7ff;
+	margin-bottom: 30px;
+}
+
+.h5p-status .progress-items {
+	display: flex;
+}
+
+.h5p-status .progress-items .progress-item {
+	flex: 1;
+	position: relative;
+	font-size: 15px;
+	color: #777;
+}
+
+.h5p-status .progress-items .progress-item .progress-number {
+	font-size: 20px;
+	margin: 15px 0 10px 0;
+}
+
+.h5p-status .progress-items .progress-item .progress-label {
+	font-size: 14px;
+	margin-bottom: 15px;
+}
+
+.h5p-status .progress-items .progress-item:after {
+	clear: both;
+	display: block;
+	content: "";
+}
+
+.h5p-status .progress-items .progress-item .progress-number,
+.h5p-status .progress-items .progress-item .progress-label {
+	display: block;
+	text-align: center;
+	line-height: 1;
+}
+
+.lp-h5p-buttons #_lp_upload_file {
+	display: block;
+	margin: 20px 0 0;
+}
+
+.lp-h5p-buttons .h5ps-notice-filetype {
+	display: block;
+	margin-bottom: 20px;
+	font-style: italic;
+	font-size: 14px;
+}
+
+.h5p-button-right {
+	float: right;
+}
+
+.h5p-button-right,
+.h5p-button-left {
+	margin: 10px 0 40px;
+}
+
+/*result display:*/
+.h5p-result {
+	max-width: 400px;
+	margin: 30px auto 20px;
+	text-align: center;
+}
+
+.h5p-result.passed .result-achieved {
+	color: #04adff;
+}
+
+.h5p-result .result-grade .result-achieved {
+	font-size: 36px;
+	border-bottom: 2px solid #04adff;
+}
+
+.h5p-result .result-grade .result-message {
+	font-size: 14px;
+}
+
+.h5p-result.passed .result-message strong {
+	color: #04adff;
+}
+
+.h5p-result .result-grade .result-require {
+	display: block;
+}
+
+.h5p-result .result-grade .result-achieved,
+.h5p-result .result-grade .result-require {
+	margin: 0 auto;
+}
+
+.force_appear {
+	display: block !important;
+}
+
+.complete-h5p button:disabled {
+	opacity: 0;
+	pointer-events: none;
+}
+
+.lp-h5p-buttons .drag_text_here,
+.lp-h5p-buttons .mark_word_here {
+	background-color: pink;
+}

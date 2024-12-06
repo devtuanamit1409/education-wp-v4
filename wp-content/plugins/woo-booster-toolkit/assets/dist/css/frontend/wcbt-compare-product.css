@@ -1,0 +1,114 @@
+.wcbt-container {
+  overflow-x: auto;
+}
+
+#wcbt-compare-table h1 {
+  margin-bottom: 15px;
+  flex-basis: 100%;
+}
+
+@media (max-width: 1024px) {
+  #wcbt-compare-table .wcbt-compare-box {
+    margin: 0 15px;
+  }
+}
+#wcbt-compare-table .wcbt-compare-box table {
+  border: 0px;
+  table-layout: fixed;
+}
+
+#wcbt-compare-table .wcbt-compare-box tr {
+  display: flex;
+}
+
+#wcbt-compare-table .wcbt-compare-box th {
+  position: relative;
+  padding: 30px 15px;
+  border-color: var(--wcbt-border-color, #dedede);
+  border-width: 1px 0 1px 0;
+  border-style: solid;
+  width: 330px;
+  max-width: 330px;
+  min-width: 330px;
+}
+
+#wcbt-compare-table .wcbt-compare-box th:first-child {
+  padding: 30px 0;
+  width: 120px;
+  min-width: 120px;
+  text-align: left;
+}
+
+@media (max-width: 1024px) {
+  #wcbt-compare-table .wcbt-compare-box th {
+    padding: 10px;
+  }
+}
+#wcbt-compare-table .wcbt-compare-box th img {
+  max-width: 100%;
+  border-radius: 16px;
+  object-fit: cover;
+}
+
+#wcbt-compare-table .wcbt-compare-box th .remove {
+  position: absolute;
+  right: 27px;
+  top: 42px;
+  cursor: pointer;
+  padding: 12px;
+  border-radius: 6px;
+  background: #fff;
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.1);
+  display: grid;
+}
+
+@media (max-width: 1024px) {
+  #wcbt-compare-table .wcbt-compare-box th .remove {
+    right: 20px;
+    top: 21px;
+    padding: 6px;
+  }
+}
+#wcbt-compare-table .wcbt-compare-box th .remove svg {
+  height: 20px;
+  width: 20px;
+}
+
+@media (max-width: 1024px) {
+  #wcbt-compare-table .wcbt-compare-box th .remove svg {
+    height: 12px;
+    width: 12px;
+  }
+}
+#wcbt-compare-table .wcbt-compare-box th .remove:hover svg path {
+  fill: #ff0000;
+}
+
+#wcbt-compare-table .wcbt-compare-box tr {
+  border: 0;
+}
+
+#wcbt-compare-table .wcbt-compare-box tbody td {
+  padding: 30px 15px;
+  border-color: var(--wcbt-border-color, #dedede);
+  border-width: 0 0 1px;
+  border-style: solid;
+  width: 330px;
+  max-width: 330px;
+  min-width: 330px;
+}
+
+#wcbt-compare-table .wcbt-compare-box tbody td:first-child {
+  width: 120px;
+  min-width: 120px;
+  text-align: left;
+  padding: 30px 0;
+}
+
+@supports (-webkit-overflow-scrolling: touch) {
+  @media (max-width: 767px) {
+    #wcbt-compare-table .wcbt-compare-box th .remove {
+      padding: 13px;
+    }
+  }
+}

@@ -1,0 +1,36 @@
+.lp-quiz-random-questions-meta-box .lp-quiz-random-questions-meta-box-fields .content {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 250px;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #8c8f94;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+.lp-quiz-random-questions-meta-box .lp-quiz-random-questions-meta-box-fields label {
+  min-width: unset !important;
+  width: 50px !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.lp-quiz-random-questions-meta-box .lp-quiz-random-questions-meta-box-fields input[name=number_questions_random] {
+  border-top: 0;
+  border-bottom: 0;
+  border-right: 1px solid #8c8f94;
+  border-left: 1px solid #8c8f94;
+  border-radius: 0;
+}
+.lp-quiz-random-questions-meta-box .lp-quiz-random-questions-meta-box-fields input#number_questions_random:focus {
+  box-shadow: unset;
+  outline-offset: 0;
+  outline: none;
+}
+.lp-quiz-random-questions-meta-box .lp-quiz-random-questions-meta-box-fields span.total_questions {
+  margin: 0 5px 0 10px;
+}
+.lp-quiz-random-questions-meta-box .lp-quiz-random-questions-meta-box-fields span.description {
+  margin-right: 0 !important;
+}
